@@ -8,18 +8,29 @@
   /> -->
 
   <div class="product-table">
-    <el-input
-      v-model="pNumber"
-      clearable
-      style="max-width: 300px; margin-bottom: 12px"
-      placeholder="请输入货号"
-      class="input-with-select"
-      @clear="recover"
+    <div
+      class="search-bar w-full"
+      style="
+        background-color: white;
+        box-sizing: border-box;
+        padding: 12px 8px;
+        margin-bottom: 12px;
+      "
     >
-      <template #append>
-        <el-button @click="searchHandler">搜索</el-button>
-      </template>
-    </el-input>
+      <el-input
+        v-model="pNumber"
+        clearable
+        style="max-width: 300px"
+        placeholder="请输入货号"
+        class="input-with-select"
+        @clear="recover"
+      >
+        <template #append>
+          <el-button @click="searchHandler">搜索</el-button>
+        </template>
+      </el-input>
+    </div>
+
     <el-table
       v-if="currMedia === 'pc'"
       border
@@ -46,22 +57,18 @@
       <el-table-column prop="name" label="产品名称" />
     </el-table>
 
-    <div v-if="currMedia === 'mobile'" class="product-card-list">
+    <div
+      v-if="currMedia === 'mobile'"
+      class="product-card-list flex flex-column align-center"
+    >
       <template v-if="tableList.length">
         <template
           v-for="(product, index) in tableList"
           :key="product?.productId"
         >
-          <ProductCard
-            :index="index + 1"
-            :title="product.name"
-            :product-number="product.productNum"
-            :url="product.img"
-            :product-id="product.productId"
-            :data="product"
-            @viewer="showImg"
-          />
+          <ProductInfoCard :data="product" @viewer="showImg" />
         </template>
+        <div class="no-more text-m">没有更多了 ~</div>
       </template>
     </div>
 
@@ -70,98 +77,107 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref, Ref, computed, watch } from 'vue';
+import { onMounted, ref, Ref, computed, watch } from 'vue'
 import {
   ElTable,
   ElTableColumn,
   ElImageViewer,
   ElInput,
   ElButton
-} from 'element-plus';
+} from 'element-plus'
 
-import { productList } from '../json/produt_list.js';
-import { splitLettersAndNumbers } from '@/utils/string.js';
+import { productList } from '../json/produt_list.js'
+import { splitLettersAndNumbers } from '@/utils/string.js'
 
-import ProductCard from './product-card.vue';
+import ProductInfoCard from './product-info-card.vue'
 
 const props = defineProps({
   mediaType: {
     type: String,
     default: () => 'pc'
   }
-});
+})
 
 const currMedia = computed({
   get: () => props.mediaType,
   set: () => {}
-});
+})
 
 const formatProductNum = list => {
   list.forEach(product => {
-    product.format_number = splitLettersAndNumbers(product.productNum);
+    product.format_number = splitLettersAndNumbers(product.productNum)
     product.format_res = {
       type: product.format_number[0],
-      number: product.format_number[1]
-    };
-  });
-};
+      number: product.format_number[1],
+      intNumber: +product.format_number[1]
+    }
+  })
+}
+
+// 排序
+const sortProduct = list => {
+  list.sort((a, b) => a.format_res.intNumber - b.format_res.intNumber)
+}
 
 const data =
   Object.keys(productList.productList).map(
     item => productList.productList[item]
-  ) || [];
-formatProductNum(data);
+  ) || []
+formatProductNum(data)
+sortProduct(data)
 
-const tableList: any = ref([]);
+console.log('data', data)
+
+const tableList: any = ref([])
 
 onMounted(() => {
-  tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])];
-});
+  tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])]
+})
 
-const pNumber = ref('');
+const pNumber = ref('')
 
 watch(
   () => pNumber.value,
   newVal => {
     if (!newVal) {
-      tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])];
+      tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])]
     }
   }
-);
+)
 
 const searchHandler = () => {
   if (!pNumber.value) {
-    tableList.value = JSON.parse(JSON.stringify(data));
-    console.log('tableList', tableList.value);
+    tableList.value = JSON.parse(JSON.stringify(data))
+    console.log('tableList', tableList.value)
 
-    return;
+    return
   }
 
   const filterRes = tableList.value.filter((item: any) =>
     item?.productNum?.includes(pNumber.value)
-  );
+  )
 
-  console.log('filterRes', filterRes);
+  console.log('filterRes', filterRes)
 
-  tableList.value = JSON.parse(JSON.stringify(filterRes));
-};
+  tableList.value = JSON.parse(JSON.stringify(filterRes))
+}
 
 const recover = () => {
-  tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])];
-};
+  tableList.value = [...(JSON.parse(JSON.stringify(data)) || [])]
+}
 
-const showImageViewer = ref(false);
-const urls: Ref<string[]> = ref([]);
+const showImageViewer = ref(false)
+const urls: Ref<string[]> = ref([])
 
 const showImg = (url: string) => {
   //预览大图
-  urls.value = [url];
-  showImageViewer.value = true;
-};
+  urls.value = [url]
+  showImageViewer.value = true
+}
 const close = () => {
   //必须要这个事件 不然点击右上角关闭按钮没有反应
-  showImageViewer.value = false;
-};
+  showImageViewer.value = false
+}
 </script>
 
 <style scoped>
@@ -175,12 +191,26 @@ const close = () => {
 }
 
 .product-table {
+  width: 100%;
+  height: 100vh;
   box-sizing: border-box;
-  padding: 12px 8px;
+  /* padding: 12px 8px; */
 
   .product-card-list {
-    height: calc(100vh - 64px);
+    height: calc(100% - 80px);
+    width: 100%;
+    /* height: 100vh; */
     overflow: scroll;
+
+    .component-product-info-card + .component-product-info-card {
+      margin-top: 8px;
+    }
+
+    .no-more {
+      margin-top: 12px;
+      margin-bottom: 12px;
+      color: #a1a1a8;
+    }
   }
 }
 </style>

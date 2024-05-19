@@ -10,5 +10,6 @@ export const PRODUCT_TYPES: PRODUCT_TYPE = {
   CK: '常规款长裤',
   CKF: '非常规款长裤',
   DK: '常规款短裤',
-  DKF: '非常规款短裤'
+  DKF: '非常规款短裤',
+  TZ: '套装'
 };
