@@ -58,18 +58,19 @@
             :product-number="product.productNum"
             :url="product.img"
             :product-id="product.productId"
+            :data="product"
             @viewer="showImg"
           />
         </template>
       </template>
     </div>
 
-    <el-image-viewer v-if="showImageViewer" :url-list="[urls]" @close="close" />
+    <el-image-viewer v-if="showImageViewer" :url-list="urls" @close="close" />
   </div>
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref, computed, watch } from 'vue';
+import { onMounted, ref, Ref, computed, watch } from 'vue';
 import {
   ElTable,
   ElTableColumn,
@@ -79,6 +80,7 @@ import {
 } from 'element-plus';
 
 import { productList } from '../json/produt_list.js';
+import { splitLettersAndNumbers } from '@/utils/string.js';
 
 import ProductCard from './product-card.vue';
 
@@ -94,11 +96,21 @@ const currMedia = computed({
   set: () => {}
 });
 
+const formatProductNum = list => {
+  list.forEach(product => {
+    product.format_number = splitLettersAndNumbers(product.productNum);
+    product.format_res = {
+      type: product.format_number[0],
+      number: product.format_number[1]
+    };
+  });
+};
+
 const data =
   Object.keys(productList.productList).map(
     item => productList.productList[item]
   ) || [];
-// console.log("data", data);
+formatProductNum(data);
 
 const tableList: any = ref([]);
 
@@ -139,7 +151,7 @@ const recover = () => {
 };
 
 const showImageViewer = ref(false);
-const urls = ref([]);
+const urls: Ref<string[]> = ref([]);
 
 const showImg = (url: string) => {
   //预览大图
@@ -169,11 +181,6 @@ const close = () => {
   .product-card-list {
     height: calc(100vh - 64px);
     overflow: scroll;
-  }
-}
-
-@media screen and (min-width: 480px) {
-  .product-table {
   }
 }
 </style>

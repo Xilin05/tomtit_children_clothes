@@ -19,6 +19,12 @@
           <span class="label">货号：</span>{{ productNumber || '暂无货号' }}
         </div>
       </div>
+      <div class="info-item type-info">
+        <div><span class="label">类型：</span> {{ typeInfo.type }}</div>
+        <div class="index-number">
+          <span class="label">编码：</span>{{ typeInfo.number }}
+        </div>
+      </div>
       <div class="info-item title">
         <span class="label">产品标题：</span> {{ title }}
       </div>
@@ -34,6 +40,7 @@
 
 <script setup lang="ts">
 import { ref, reactive } from 'vue';
+import { PRODUCT_TYPES } from '@/constant/type';
 
 const props = defineProps({
   index: {
@@ -55,6 +62,10 @@ const props = defineProps({
   url: {
     type: String,
     default: () => ''
+  },
+  data: {
+    type: Object,
+    default: () => ({})
   }
 });
 
@@ -62,6 +73,23 @@ const emit = defineEmits(['viewer']);
 const showImg = () => {
   emit('viewer', props.url);
 };
+
+const typeInfo: Record<string, string> = {};
+
+const formatProductNumber = () => {
+  if (props.productNumber?.includes('-')) {
+    typeInfo.type = '外款';
+    typeInfo.number = props.productNumber;
+    return;
+  }
+
+  typeInfo.type =
+    PRODUCT_TYPES[props.data.format_res.type] ||
+    `未编类型(${props.data.format_res.type})`;
+  typeInfo.number = props.data.format_res.number;
+};
+
+formatProductNumber();
 </script>
 
 <style scoped lang="scss">
@@ -76,6 +104,9 @@ const showImg = () => {
   flex-wrap: nowrap;
 
   .product-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 120px;
     height: auto;
     box-sizing: border-box;
@@ -87,14 +118,22 @@ const showImg = () => {
       // width: 100%;
       // height: auto;
     }
+    .empty-img {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100px;
+      height: 100px;
+      color: rgb(129, 129, 129);
+      background-color: rgb(228, 228, 228);
+    }
   }
-  .empty-img {
-    background-color: azure;
-  }
+
   .product-info {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+
     .label {
       color: rgb(114, 114, 114);
     }
@@ -107,7 +146,6 @@ const showImg = () => {
     .index {
       display: flex;
       flex-wrap: nowrap;
-      // justify-content: space-between;
       border-bottom: 1px solid rgb(194, 194, 194);
 
       .product-number {
@@ -117,10 +155,27 @@ const showImg = () => {
       }
     }
 
+    .type-info {
+      display: flex;
+      flex-wrap: nowrap;
+      border-bottom: 1px solid rgb(194, 194, 194);
+
+      .index-number {
+        margin-left: 20px;
+        padding-left: 10px;
+        border-left: 1px solid rgb(194, 194, 194);
+      }
+    }
+
+    .type-info {
+      display: flex;
+      flex-wrap: nowrap;
+      border-bottom: 1px solid rgb(194, 194, 194);
+    }
+
     .title {
       border-bottom: 1px solid rgb(194, 194, 194);
       flex: 1;
-      // flex: 1;
     }
   }
 }

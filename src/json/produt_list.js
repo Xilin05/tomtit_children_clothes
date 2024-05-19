@@ -6,7 +6,7 @@ export const productList = {
       shopId: '167267536',
       name: '纯棉儿童T恤夏季童装男童洋气宽松百搭帅气上衣夏装中大童半袖衫',
       pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4996fbfc60403dd87960bcc32bc21e4_sx_825305_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d97ddb30fee4bde298ce0b71748df3f6_sx_716880_www750-750","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5b34887528b49a59b0a260ef9c8f2865_sx_452215_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a88cdc5692e73a4d41ee4311ed5ccf39_sx_960552_www750-750"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750',
+      // img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
