@@ -1,6 +1,1160 @@
 export const productList = {
   result: 'success',
   productList: {
+    '3685734921177006425': {
+      productId: '3685734921177006425',
+      shopId: '167267536',
+      name: '100%纯棉女童装短袖体恤2024T恤短袖夏季女孩美式复古夏装潮流ins',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a214599f4107660ae957cb47c0c55f8_sx_134090_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3d1af57242fd580d6d953d5a0a216d8c_sx_130105_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b12d520b179f53ba37366ae5ecd72a85_sx_129700_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0e15124ce1e4dcc5dd9944bc6af4a01e_sx_131995_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7cd9f1b05befe44fc5fe6c9f164ee024_sx_106613_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7a214599f4107660ae957cb47c0c55f8_sx_134090_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 23:39:25',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240521233958',
+      gmtCreate: '2024-05-21 23:39:37',
+      gmtModified: '2024-05-21 23:39:58',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT359-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 23:39:37',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e57c40e75ce786d9fd5a8ae01a059d14_sx_132841_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v0decag10000cp6brcfog65uuae84hsg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685733637065670991': {
+      productId: '3685733637065670991',
+      shopId: '167267536',
+      name: '100%纯棉女童装短袖体恤2024T恤短袖夏季女孩上衣半袖夏装潮流ins',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1df854f04d418c5a29e275dc8e325749_sx_165208_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_47df49348db09cb7ba2a754c7a6e4c3a_sx_165511_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e672d725cb46cae2b7028b13e715bde9_sx_156416_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f12d5ec0a45463042f5c2c7dd7ce2079_sx_169860_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5945f2c73abd0ba69aec3181da3aa92c_sx_162622_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1df854f04d418c5a29e275dc8e325749_sx_165208_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 23:24:56',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240521232526',
+      gmtCreate: '2024-05-21 23:25:12',
+      gmtModified: '2024-05-21 23:25:26',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT59-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 23:25:06',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9ad8da4016835421259bf5d60742415a_sx_98176_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v02ecag10000cp6bncvog65ojpcstal0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '1',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685732097370226814': {
+      productId: '3685732097370226814',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款夏装中大童夏季美式复古印花痞帅炸街潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1defc05a4d6bf3e47dd026a07f360a26_sx_534202_www600-600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cd4bf91e9092fc284669298ffa54fe89_sx_573712_www600-600","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6593502bae202d3870526e828a3c7b8f_sx_480211_www600-600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f9a9c2290403db5cca5a3dd3de96b424_sx_250960_www600-600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_398fdfbd3b7223113d990e868bc92bd2_sx_594888_www600-600"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1defc05a4d6bf3e47dd026a07f360a26_sx_534202_www600-600',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 23:03:10',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521230356',
+      gmtCreate: '2024-05-21 23:03:27',
+      gmtModified: '2024-05-21 23:03:56',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT825-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 23:03:19',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c9879d52de0d4b599aa6a8ec4593349e_sx_1414925_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000coe2b33c77u78ravvma0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685732092907487730': {
+      productId: '3685732092907487730',
+      shopId: '167267536',
+      name: '100%纯棉女童装短袖体恤2024T恤短袖夏季女孩上衣半袖夏装潮流ins',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_289367bcdb2378738fe24eb8a592bd6b_sx_155403_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_25dc14a6f301a1268e01b6dac4e89108_sx_126660_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b086fb61a0f235697c2972ebc7f4f6c_sx_145927_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e6f4b940ae4fb9696243af85dc768f53_sx_126020_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c01f7462a9010397f1f6d4d7a1d94996_sx_60558_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_289367bcdb2378738fe24eb8a592bd6b_sx_155403_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 23:17:56',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240521231828',
+      gmtCreate: '2024-05-21 23:18:11',
+      gmtModified: '2024-05-21 23:18:28',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT797-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 23:18:09',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c01f7462a9010397f1f6d4d7a1d94996_sx_60558_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp6bl2fog65j3m7t3f20',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685731008503742713': {
+      productId: '3685731008503742713',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款夏装中大童夏季美式复古洋气卡通夏装潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0934572c9b7c80b3acd72301a8b651bc_sx_671689_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_40f4010524e7b150a41c37519ee6abe6_sx_675053_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ed586d663e8df039203ae435fd18c5da_sx_438038_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_64fc36917a28d1570286750f04d09012_sx_762883_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_da2840becba93a4a9246b13953d8f8dc_sx_268468_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0934572c9b7c80b3acd72301a8b651bc_sx_671689_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:58:11',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240521225844',
+      gmtCreate: '2024-05-21 22:58:25',
+      gmtModified: '2024-05-21 22:58:44',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT373-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:58:22',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_da2840becba93a4a9246b13953d8f8dc_sx_268468_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000coe2b33c77u78ravvma0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685729161617473700': {
+      productId: '3685729161617473700',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款夏装中大童夏季韩版洋气美式复古男孩潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ba8be99be0cab737f0cd182d630e3b67_sx_214289_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_107f82fb4e9921b6c70a7cdba72c764a_sx_73755_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e716e3bf3cc36b309b29b5029de208de_sx_124151_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ad8465ddcc463d9e7a0e1908c055aac_sx_109491_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4eb5869e672feebbb24e9634e01aca40_sx_47085_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_ba8be99be0cab737f0cd182d630e3b67_sx_214289_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:43:01',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '270000',
+      ts: '20240521224335',
+      gmtCreate: '2024-05-21 22:43:18',
+      gmtModified: '2024-05-21 22:43:35',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT795-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:43:12',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_4eb5869e672feebbb24e9634e01aca40_sx_47085_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp6b59nog65ji6tcr9tg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685728719244231093': {
+      productId: '3685728719244231093',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款中大童夏季韩版洋气痞帅炸街男孩夏装潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b151a521fab3402491dc70f138dcec83_sx_71709_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6c43c1b3e1cb1677c9c20e0097d82fac_sx_72607_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fc9b129f2b7d4e81997b26db9174b0a6_sx_54958_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cbd7387940399b2a218305a29a83773f_sx_90296_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_234cc97948e3bf0b2a0407c6d23ee679_sx_246056_www633-633"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b151a521fab3402491dc70f138dcec83_sx_71709_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:53:27',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240521225355',
+      gmtCreate: '2024-05-21 22:53:43',
+      gmtModified: '2024-05-21 22:53:55',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT337-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:53:37',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7b755925edd3e27c1a585b14e41e3785_sx_1422174_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000coe2b33c77u78ravvma0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685727439310422324': {
+      productId: '3685727439310422324',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款夏装中大童夏季韩版洋气痞帅炸街男孩潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_97764e94f866139e45ee899c6dc963f4_sx_466824_www600-600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2e6e5d7f831b756145c0a963b490f5da_sx_416821_www600-600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b58ed38ea41024712f56c1a418dd27d_sx_87073_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_11637d49df8c03bf07fd91ca35bc7de4_sx_170319_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a8161fba6b70f365decd48ea8b62266_sx_57303_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_97764e94f866139e45ee899c6dc963f4_sx_466824_www600-600',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:48:21',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '360000',
+      ts: '20240521224854',
+      gmtCreate: '2024-05-21 22:48:35',
+      gmtModified: '2024-05-21 22:48:54',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT799-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:48:30',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_203104409981ebcfec2c1755bd233ee0_sx_104050_www700-700',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp6b6hvog65nl445bp1g',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685727417969803557': {
+      productId: '3685727417969803557',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款夏装中大童夏季韩版洋气印花卡通学院潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af5c232765cdad36a6765587fc60424f_sx_656283_www900-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9fe1c73c2b3d6ae3e023f18b71eebf62_sx_725327_www900-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5a7ba4fc1c003f925388edca7181cf6_sx_1004386_www900-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2513752160c5c5a1698f88508bfc9ec2_sx_660664_www900-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b261a15583d77c72451eb98f78e2f675_sx_316976_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_af5c232765cdad36a6765587fc60424f_sx_656283_www900-1200',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:38:56',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521223933',
+      gmtCreate: '2024-05-21 22:39:09',
+      gmtModified: '2024-05-21 22:39:33',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT440-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:39:10',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b261a15583d77c72451eb98f78e2f675_sx_316976_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000coe2b33c77u78ravvma0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685727302047629467': {
+      productId: '3685727302047629467',
+      shopId: '167267536',
+      name: '纯棉男童短袖T恤2024新款中大童夏季韩版洋气痞帅炸街男孩夏装潮T',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c85a10a3d14ad0b1a837fded011fd5e3_sx_351150_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_814a3ab707508e3734945bd80b6b20de_sx_330017_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9074ec0fd05177fcbf8f80c06235c2b7_sx_304107_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5ba16a0884e60473ca27186c4457db67_sx_281096_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bcf6946a98587a77fedec7f5e3220f52_sx_84177_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c85a10a3d14ad0b1a837fded011fd5e3_sx_351150_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 22:31:11',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521223142',
+      gmtCreate: '2024-05-21 22:31:26',
+      gmtModified: '2024-05-21 22:31:42',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT427-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 22:31:20',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5378c6ae7248b222947f252170496bb0_sx_1762998_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000coe2b33c77u78ravvma0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: '',
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685551064389648840': {
+      productId: '3685551064389648840',
+      shopId: '167267536',
+      name: '纯棉2024夏季女童装短袖美式复古儿童中大童宽松印花ol百搭洋气潮',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_804ad902160b68527747febd9f7eab45_sx_124745_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3e31ab8150043d3ad4c3a2ebee1b7d70_sx_134802_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0a4023e76202cae9f188787b90b98837_sx_167732_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_462b086067fae1c5aed0779c5039d7af_sx_129751_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c8cea925e81b900db6d03e1f9ab42488_sx_63553_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_804ad902160b68527747febd9f7eab45_sx_124745_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-21 00:24:40',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521002514',
+      gmtCreate: '2024-05-21 00:24:57',
+      gmtModified: '2024-05-21 00:25:14',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT265-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-21 00:24:49',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_91fc3f20baaeeb0fe88273f1804dc738_sx_115460_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v0decag10000cp5nc8nog65hbqcoonb0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685551064389648840',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 20:53:24'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685542062129807718': {
+      productId: '3685542062129807718',
+      shopId: '167267536',
+      name: '纯棉2024夏季女童装短袖美式复古儿童中大童宽松印花ol百搭洋气潮',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_50c338dee001fa5add9b3bf8875b02dd_sx_171940_www750-948","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b4d22b7ed04e003f6496ba6e04a105a7_sx_185627_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0db35565e355e5a2b57f3ceb63f9729d_sx_111035_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b8f7725def98db344249f4980eccaaaf_sx_135018_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1c82c16a7065817701f81963048ebb6b_sx_124942_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_50c338dee001fa5add9b3bf8875b02dd_sx_171940_www750-948',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 22:42:47',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240520224321',
+      gmtCreate: '2024-05-20 22:43:00',
+      gmtModified: '2024-05-20 22:43:21',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT198-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 22:42:58',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e0fc3bf97ac39d4f259549c02cdba2c7_sx_1451599_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp5lvq7og65n8reeptd0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685542062129807718',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685540404339540149': {
+      productId: '3685540404339540149',
+      shopId: '167267536',
+      name: '纯棉女童装2024夏季美式复古儿童中大童宽松印花ol时尚百搭洋气潮',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_24b4b8fdd9485add99ed83b52f056b66_sx_176336_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_28d50e55b9f06c5f180d33cb65bea95e_sx_181572_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_20a19a55c05fa50563e8e6f036fb2ebf_sx_158647_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_be60032ec11a916e4bc44e0d9ea4dfcb_sx_171097_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b8732ef6356244b372c3d3d99581c18e_sx_154886_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_24b4b8fdd9485add99ed83b52f056b66_sx_176336_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 22:22:10',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240520222244',
+      gmtCreate: '2024-05-20 22:22:27',
+      gmtModified: '2024-05-20 22:22:44',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT320-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 22:22:20',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a0db20d9a629c56c2dc24cad3dec0b1e_sx_1624881_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v0decag10000cp5lj4vog65jmr0gnlt0',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685540404339540149',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685540356969070942': {
+      productId: '3685540356969070942',
+      shopId: '167267536',
+      name: '男童装100%棉2024夏季美式复古儿童中大童宽松印花ol时尚百搭洋气',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b1cf347d86e2c2c34ed1be5a8e1e3fab_sx_134386_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa8bc8639baaf7c2d8ef95761000fb65_sx_145322_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_515ccd7ee36671e72ca51e75ea2f5f6b_sx_131138_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ae2b06427afec476128526321f445b09_sx_134328_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa8d5743dd9733a60c4ca4c72562a3f2_sx_104112_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b1cf347d86e2c2c34ed1be5a8e1e3fab_sx_134386_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 22:31:13',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240520223150',
+      gmtCreate: '2024-05-20 22:31:28',
+      gmtModified: '2024-05-20 22:31:50',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT192-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 22:31:25',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_06cc615e9fb75e86378fc68c441c5445_sx_1432740_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp5lq3vog65j5vrssndg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685540356969070942',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685538585471221882': {
+      productId: '3685538585471221882',
+      shopId: '167267536',
+      name: '100%棉男童装2024夏季国潮学院儿童中大童宽松印花ol时尚百搭洋气',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_069a8b135a7af50793a1c6987380fa6c_sx_175349_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6c51c9fed2a84fc616433dad71c0c1bf_sx_335100_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_58f395f55444ba98816306904fdb826f_sx_433078_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55ee8e338cdc5ee34d5cfb799bf869b6_sx_396786_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_38081f9fbbb140918aac4068853b8cca_sx_146473_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_069a8b135a7af50793a1c6987380fa6c_sx_175349_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 22:07:07',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240520222244',
+      gmtCreate: '2024-05-20 22:07:24',
+      gmtModified: '2024-05-20 22:22:44',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT40-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 22:22:28',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_38081f9fbbb140918aac4068853b8cca_sx_146473_www800-800',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000codot4rc77u6fmtudsmg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685538585471221882',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685530317692731717': {
+      productId: '3685530317692731717',
+      shopId: '167267536',
+      name: '男童装100%棉2024夏季美式复古儿童中大童宽松印花ol时尚百搭洋气',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a4977db884bb16ea93ba6ccd785485cf_sx_171927_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1beb8453875fdc393966d541794c837b_sx_125222_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_49301e8f365564e08ce89e149871a24b_sx_146663_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b3a3a0c2a48da6c64408455392cca6a5_sx_176292_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5a1f8fae2cb348e301dd76e4f2335fc_sx_165078_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a4977db884bb16ea93ba6ccd785485cf_sx_171927_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 21:09:16',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '90000',
+      ts: '20240522015224',
+      gmtCreate: '2024-05-20 21:09:31',
+      gmtModified: '2024-05-22 01:52:24',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT302-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 21:09:29',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e321b67dd79254504ac5809ab918b110_sx_1161387_www1600-1600',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000codot4rc77u6fmtudsmg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685530317692731717',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685511129892782197': {
+      productId: '3685511129892782197',
+      shopId: '167267536',
+      name: '100%棉男童装2024夏季美式复古儿童中大童宽松印花ol时尚百搭洋气',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b2a7a6d86e8e1789f1bf268a1942eea8_sx_182887_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eafe9ef555990f1c7d96ddac7fee6efc_sx_180668_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fe464a013386e465b5b1f8eec1f1a470_sx_188267_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d57dd2478b1b401cdf64f8e362f05b22_sx_193654_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e1a217038758376f664b7f97f647b535_sx_208226_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b2a7a6d86e8e1789f1bf268a1942eea8_sx_182887_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 18:26:23',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521224808',
+      gmtCreate: '2024-05-20 18:26:39',
+      gmtModified: '2024-05-21 22:48:08',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '810742809',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'CT230-酷时尚',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 18:26:33',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_39fc24f32bbf41eafae125664a7a0331_sx_1408421_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000codot4rc77u6fmtudsmg',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685511129892782197',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:48',
+        gmtModified: '2024-05-21 07:29:48'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
+    '3685508061172203689': {
+      productId: '3685508061172203689',
+      shopId: '167267536',
+      name: '纯棉男童装2024夏季美式复古儿童中大童宽松印花ol时尚百搭洋气潮',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c3f3e1237bf56d15623c5386f6fad029_sx_163229_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_37362693055720d98efbcfe18c58656b_sx_176888_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9c53ef7ba666261ac60921c9cad56e55_sx_166821_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c06fa0e3cdb36c839d64e56bb572c1b6_sx_171137_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9c98d41c08ae45607a7b42bcf276ec17_sx_137847_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c3f3e1237bf56d15623c5386f6fad029_sx_163229_www800-800',
+      discountPrice: '2490',
+      marketPrice: '2990',
+      thirdCid: '20592',
+      mobile: '19842798512',
+      checkStatus: '3',
+      specId: '2147483647',
+      status: '0',
+      payType: '1',
+      isCreate: '0',
+      createTime: '2024-05-20 18:09:22',
+      skuMinPrice: '2490',
+      skuMaxPrice: '2990',
+      recommendRemark: '',
+      stock: '180000',
+      ts: '20240521190833',
+      gmtCreate: '2024-05-20 18:09:38',
+      gmtModified: '2024-05-21 19:08:33',
+      categoryPath: '童装/婴儿装/亲子装>T恤',
+      isBeautify: 0,
+      brandName: '',
+      brandId: '914302144',
+      presellType: '0',
+      presellConfigLevel: '',
+      productNum: 'B3097-八方',
+      productType: '',
+      cosRatio: '',
+      updateTime: '2024-05-20 18:09:33',
+      isPackageProduct: '',
+      packageProductList: '',
+      subProductList: '',
+      whiteBgImgUrl:
+        'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_bc2cb36c93dde53f7ce1f8ae345ca486_sx_1415184_www1920-1920',
+      longPicUrl: '',
+      materialVideoId: 'v03ecag10000cp5hv67og65iff8ha8ng',
+      freightId: '316273666',
+      draftStatus: '3',
+      maximumPerOrder: '0',
+      limitPerBuyer: '0',
+      minimumPerOrder: '1',
+      deliveryDelayDay: '2',
+      presellDelay: '0',
+      sizeInfoTemplateId: '7355059189959885067',
+      mainProductId: '',
+      namePrefix: '',
+      scoreInfo: {
+        productId: '3685508061172203689',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-21 07:29:49',
+        gmtModified: '2024-05-21 07:29:49'
+      },
+      detectAiBanInfo: '',
+      moveLogoUrl: '',
+      sourceProductUrl: '',
+      sourceName: '本店商品',
+      statusName: '上架'
+    },
     '3685359425113162152': {
       productId: '3685359425113162152',
       shopId: '167267536',
@@ -21,9 +1175,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '140000',
-      ts: '20240519230526',
+      ts: '20240521205109',
       gmtCreate: '2024-05-19 23:05:10',
-      gmtModified: '2024-05-19 23:05:26',
+      gmtModified: '2024-05-21 20:51:09',
       categoryPath: '童装/婴儿装/亲子装>背心吊带',
       isBeautify: 0,
       brandName: '',
@@ -51,7 +1205,23 @@ export const productList = {
       sizeInfoTemplateId: '7370324509578068234',
       mainProductId: '',
       namePrefix: '',
-      scoreInfo: '',
+      scoreInfo: {
+        productId: '3685359425113162152',
+        shopId: '167267536',
+        taskId: '386508914',
+        problemNumToImprove: '1',
+        problemTypeDistribution: [
+          {
+            num: 1,
+            typeName: '商品信息不规范'
+          }
+        ],
+        meetStandard: '1',
+        baseScore: '100',
+        gmtFixup: '',
+        gmtCreate: '2024-05-20 14:06:52',
+        gmtModified: '2024-05-21 07:29:49'
+      },
       detectAiBanInfo: '',
       moveLogoUrl: '',
       sourceProductUrl: '',
@@ -111,7 +1281,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685168533051933134',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -123,7 +1293,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -135,7 +1305,7 @@ export const productList = {
       productId: '3685168318437785877',
       shopId: '167267536',
       name: '儿童夏季无袖背心100%纯棉外穿宽松印花宝宝薄款大童潮流国潮卡通',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d544dc475bda5f88ef21ebfa39a05fa5_sx_636138_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_07f8c18ef7ebdc8524ddb42989480c3c_sx_590010_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9fb5b0ce41a290e7f6f6e4fe4b372513_sx_560551_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b58fe5bd7cfbbbc91ee9a5dc40ded6e3_sx_481981_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1a2d2404f57d242305420f5c081d9b27_sx_219075_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d544dc475bda5f88ef21ebfa39a05fa5_sx_636138_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_07f8c18ef7ebdc8524ddb42989480c3c_sx_590010_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9fb5b0ce41a290e7f6f6e4fe4b372513_sx_560551_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b58fe5bd7cfbbbc91ee9a5dc40ded6e3_sx_481981_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1a2d2404f57d242305420f5c081d9b27_sx_219075_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_d544dc475bda5f88ef21ebfa39a05fa5_sx_636138_www800-800',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -151,9 +1321,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '140000',
-      ts: '20240518221911',
+      ts: '20240520065421',
       gmtCreate: '2024-05-18 22:18:54',
-      gmtModified: '2024-05-18 22:19:11',
+      gmtModified: '2024-05-20 06:54:21',
       categoryPath: '童装/婴儿装/亲子装>背心吊带',
       isBeautify: 0,
       brandName: '',
@@ -184,7 +1354,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685168318437785877',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -196,7 +1366,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -257,7 +1427,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685167848038203677',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -269,7 +1439,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -330,7 +1500,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685166707715998029',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -342,7 +1512,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -460,7 +1630,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685166456712069275',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -472,7 +1642,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -533,7 +1703,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685164229737972138',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -545,7 +1715,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -606,7 +1776,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685164085672017986',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -618,7 +1788,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -630,7 +1800,7 @@ export const productList = {
       productId: '3685163258840481975',
       shopId: '167267536',
       name: '2024新款100%纯棉儿童背心运动夏季中大童无袖男白色打底复古个性',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1fd20fb6fe838f5b64120574e9218c20_sx_193593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_221746945c8f045fd85a0f5100a7bc05_sx_614794_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1be838054b7eaa823d46cdb69aa8cf7e_sx_570532_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b58fe5bd7cfbbbc91ee9a5dc40ded6e3_sx_481981_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1166e1ec5f3d7fe7704fb7d6c5967fb2_sx_549322_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1fd20fb6fe838f5b64120574e9218c20_sx_193593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_221746945c8f045fd85a0f5100a7bc05_sx_614794_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1be838054b7eaa823d46cdb69aa8cf7e_sx_570532_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b58fe5bd7cfbbbc91ee9a5dc40ded6e3_sx_481981_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1166e1ec5f3d7fe7704fb7d6c5967fb2_sx_549322_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1fd20fb6fe838f5b64120574e9218c20_sx_193593_www800-800',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -646,9 +1816,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '140000',
-      ts: '20240519195608',
+      ts: '20240521002333',
       gmtCreate: '2024-05-18 21:44:06',
-      gmtModified: '2024-05-19 19:56:08',
+      gmtModified: '2024-05-21 00:23:33',
       categoryPath: '童装/婴儿装/亲子装>背心吊带',
       isBeautify: 0,
       brandName: '',
@@ -679,7 +1849,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685163258840481975',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -691,7 +1861,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -752,7 +1922,7 @@ export const productList = {
       scoreInfo: {
         productId: '3685158463626936649',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -764,7 +1934,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-19 18:45:42',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -825,7 +1995,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684994801834524678',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -837,7 +2007,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -865,9 +2035,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '89999',
-      ts: '20240519211800',
+      ts: '20240521062811',
       gmtCreate: '2024-05-17 23:42:52',
-      gmtModified: '2024-05-19 21:18:00',
+      gmtModified: '2024-05-21 06:28:11',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -898,7 +2068,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684991335670088176',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -910,7 +2080,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -971,7 +2141,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684989911871652234',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -983,7 +2153,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1044,7 +2214,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684989578978132169',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1056,7 +2226,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1117,7 +2287,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684989261343490393',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1129,7 +2299,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1141,7 +2311,7 @@ export const productList = {
       productId: '3684986501785059623',
       shopId: '167267536',
       name: '男童夏装纯棉t恤薄款上衣洋气休闲夏季中大童宽松半袖印花韩版ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_52c39d1f71fbf4e32ec3ae4a5a8418be_sx_419155_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1df8ec9054eed6a1e2ea732a7f021a85_sx_421140_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b074d6831ba4eae88547a1c0f7747545_sx_392545_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_180d46329f8bff5ca9e3beb1f0bbae1e_sx_414100_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a99a6f970d0026893f6c41ef77e9c1d_sx_414216_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_52c39d1f71fbf4e32ec3ae4a5a8418be_sx_419155_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1df8ec9054eed6a1e2ea732a7f021a85_sx_421140_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b074d6831ba4eae88547a1c0f7747545_sx_392545_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_180d46329f8bff5ca9e3beb1f0bbae1e_sx_414100_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a99a6f970d0026893f6c41ef77e9c1d_sx_414216_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_52c39d1f71fbf4e32ec3ae4a5a8418be_sx_419155_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -1157,9 +2327,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '180000',
-      ts: '20240519172005',
+      ts: '20240521023801',
       gmtCreate: '2024-05-17 22:51:23',
-      gmtModified: '2024-05-19 17:20:05',
+      gmtModified: '2024-05-21 02:38:01',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -1190,7 +2360,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684986501785059623',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1202,7 +2372,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-18 10:27:06',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1214,8 +2384,8 @@ export const productList = {
       productId: '3684808629841690975',
       shopId: '167267536',
       name: '男童纯棉短袖T恤夏季新款十字架中大童宽松百搭圆领上衣体恤衫潮',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cec5acc10d5300725a3be99659ecdf96_sx_367870_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ba0520cef681efc4cd95dec8f82772eb_sx_257977_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6705e31b9853dcda9bc6f8169aeb14a8_sx_161893_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c4545da6bf1bda013fb167854467b2e1_sx_328241_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cc7cdb105a5988b52828f72a0b2cdc07_sx_54653_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_cec5acc10d5300725a3be99659ecdf96_sx_367870_www800-800',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cec5acc10d5300725a3be99659ecdf96_sx_367870_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ba0520cef681efc4cd95dec8f82772eb_sx_257977_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6705e31b9853dcda9bc6f8169aeb14a8_sx_161893_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c4545da6bf1bda013fb167854467b2e1_sx_328241_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cc7cdb105a5988b52828f72a0b2cdc07_sx_54653_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_cec5acc10d5300725a3be99659ecdf96_sx_367870_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -1229,10 +2399,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '180000',
-      ts: '20240519194014',
+      stock: '179999',
+      ts: '20240521195745',
       gmtCreate: '2024-05-17 01:07:12',
-      gmtModified: '2024-05-19 19:40:14',
+      gmtModified: '2024-05-21 19:57:45',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -1247,7 +2417,7 @@ export const productList = {
       productNum: 'CT834-酷时尚',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-17 01:07:05',
+      updateTime: '2024-05-20 15:48:52',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -1268,7 +2438,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684808629841690975',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1280,7 +2450,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-17 18:19:33',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: {
         productId: '3684808629841690975',
@@ -1353,7 +2523,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684808615019020597',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1365,7 +2535,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-17 18:19:33',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: {
         productId: '3684808615019020597',
@@ -1438,7 +2608,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684808477546512707',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1450,7 +2620,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-17 18:19:33',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: {
         productId: '3684808477546512707',
@@ -1484,10 +2654,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '179999',
-      ts: '20240520045649',
+      stock: '179998',
+      ts: '20240521003843',
       gmtCreate: '2024-05-17 01:08:33',
-      gmtModified: '2024-05-20 04:56:58',
+      gmtModified: '2024-05-21 00:38:52',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -1502,7 +2672,7 @@ export const productList = {
       productNum: 'CT94-酷时尚',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 01:51:29',
+      updateTime: '2024-05-20 11:57:38',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -1523,7 +2693,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684808039350796559',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1535,7 +2705,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-17 18:19:33',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: {
         productId: '3684808039350796559',
@@ -1554,7 +2724,7 @@ export const productList = {
       productId: '3684634533468176535',
       shopId: '167267536',
       name: '纯棉儿童T恤夏季童装男童洋气宽松百搭帅气上衣夏装中大童半袖衫',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4996fbfc60403dd87960bcc32bc21e4_sx_825305_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d97ddb30fee4bde298ce0b71748df3f6_sx_716880_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5b34887528b49a59b0a260ef9c8f2865_sx_452215_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a88cdc5692e73a4d41ee4311ed5ccf39_sx_960552_www750-750"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4996fbfc60403dd87960bcc32bc21e4_sx_825305_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d97ddb30fee4bde298ce0b71748df3f6_sx_716880_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5b34887528b49a59b0a260ef9c8f2865_sx_452215_www750-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a88cdc5692e73a4d41ee4311ed5ccf39_sx_960552_www750-750"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b4747fa69597e0a48607a3f7995819fc_sx_788146_www750-750',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -1570,9 +2740,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '180000',
-      ts: '20240518014024',
+      ts: '20240520065235',
       gmtCreate: '2024-05-16 01:27:11',
-      gmtModified: '2024-05-18 01:40:24',
+      gmtModified: '2024-05-20 06:52:35',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -1603,7 +2773,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684634533468176535',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1615,7 +2785,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1676,7 +2846,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684630393161646445',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1688,7 +2858,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1715,10 +2885,10 @@ export const productList = {
       skuMinPrice: '2390',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '180000',
-      ts: '20240516204718',
+      stock: '179999',
+      ts: '20240521003843',
       gmtCreate: '2024-05-15 23:24:54',
-      gmtModified: '2024-05-16 20:47:18',
+      gmtModified: '2024-05-21 00:38:52',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -1728,7 +2898,7 @@ export const productList = {
       productNum: 'DTS004',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-15 23:24:47',
+      updateTime: '2024-05-20 12:38:09',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -1749,7 +2919,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684619964880388396',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1761,7 +2931,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1822,7 +2992,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684617826129281047',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1834,7 +3004,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1895,7 +3065,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684617542653051319',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1907,7 +3077,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -1968,7 +3138,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684616584741126286',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -1980,7 +3150,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-16 09:46:59',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2098,7 +3268,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684442542121812151',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2110,7 +3280,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-15 09:40:10',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2122,7 +3292,7 @@ export const productList = {
       productId: '3684433307690467623',
       shopId: '167267536',
       name: '100%棉2024新款男童装简约可爱宝妈热买t恤夏季好看中大通宽松潮',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5de634536d7944371a343bfc1c07e3ae_sx_1201415_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_075aaae7a7afa18e15a25b308b0483e1_sx_901971_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f352146e9050496d5666fb6c566c74cf_sx_1055828_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_29c52a1c87b6f616751179cba4d7d6ad_sx_923882_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c075a08bf8776741d1290ce1d7c42e1a_sx_1408228_www1920-1920"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5de634536d7944371a343bfc1c07e3ae_sx_1201415_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_075aaae7a7afa18e15a25b308b0483e1_sx_901971_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f352146e9050496d5666fb6c566c74cf_sx_1055828_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_29c52a1c87b6f616751179cba4d7d6ad_sx_923882_www1200-1200","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c075a08bf8776741d1290ce1d7c42e1a_sx_1408228_www1920-1920"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5de634536d7944371a343bfc1c07e3ae_sx_1201415_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -2137,10 +3307,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '180000',
-      ts: '20240516214341',
+      stock: '179999',
+      ts: '20240521205307',
       gmtCreate: '2024-05-14 23:02:40',
-      gmtModified: '2024-05-16 21:43:41',
+      gmtModified: '2024-05-21 20:53:13',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -2150,7 +3320,7 @@ export const productList = {
       productNum: 'DTS002',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-14 23:02:36',
+      updateTime: '2024-05-21 17:03:43',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -2171,7 +3341,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684433307690467623',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2183,7 +3353,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-15 09:40:10',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2244,7 +3414,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684255131030913502',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2256,7 +3426,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-14 10:24:17',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2317,7 +3487,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684234987718181066',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2329,7 +3499,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-14 10:24:17',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2390,7 +3560,7 @@ export const productList = {
       scoreInfo: {
         productId: '3684054203837317593',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2402,7 +3572,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2463,7 +3633,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683993251943154125',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2475,7 +3645,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2487,8 +3657,8 @@ export const productList = {
       productId: '3683882609223532805',
       shopId: '167267536',
       name: '纯棉纯色短袖t恤男女童上衣白色休闲夏季宽松圆领百搭简约学生ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bdf2ac545e13e30089cd738959b16b59_sx_127694_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e0cec4d7a887b248cfd7a06d09ac6d6c_sx_61994_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a7fac9b6f5a3463e96d5d943fc3ce4d6_sx_149239_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71c972284877d2db312b511f66b468ef_sx_213243_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_133f5a7f1de341e0e7a1136896de5a39_sx_231032_www700-700"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_bdf2ac545e13e30089cd738959b16b59_sx_127694_www700-700',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bdf2ac545e13e30089cd738959b16b59_sx_127694_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e0cec4d7a887b248cfd7a06d09ac6d6c_sx_61994_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a7fac9b6f5a3463e96d5d943fc3ce4d6_sx_149239_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71c972284877d2db312b511f66b468ef_sx_213243_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_133f5a7f1de341e0e7a1136896de5a39_sx_231032_www700-700"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_bdf2ac545e13e30089cd738959b16b59_sx_127694_www700-700',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -2502,10 +3672,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '479985',
-      ts: '20240520024448',
+      stock: '479984',
+      ts: '20240521003843',
       gmtCreate: '2024-05-11 23:51:45',
-      gmtModified: '2024-05-20 02:44:48',
+      gmtModified: '2024-05-21 00:38:52',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -2515,7 +3685,7 @@ export const productList = {
       productNum: 'DT000',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 10:06:58',
+      updateTime: '2024-05-20 09:40:43',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -2536,7 +3706,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683882609223532805',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2548,7 +3718,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2609,7 +3779,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683880738849161321',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2621,7 +3791,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2682,7 +3852,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683872170330685886',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2694,7 +3864,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2755,7 +3925,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683870059270373861',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -2767,7 +3937,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2779,7 +3949,7 @@ export const productList = {
       productId: '3683868753558372463',
       shopId: '167267536',
       name: '2024新款儿童防晒衣夏季渐变男女童连帽冰丝防晒服宝宝皮肤衣外套',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0a0d537900e2b38aa95fe4605db6f5a9_sx_377159_www1064-1064","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7b54a29d33b257a9074ea6ab30107e62_sx_277599_www1500-1500","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_614709ac205ab04b9015320e325b50c6_sx_325582_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_81235d310c46bc715d48347105e28423_sx_312112_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a9a9723a39de9af5d53a6fc7d8de1d09_sx_358456_www1500-1500"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0a0d537900e2b38aa95fe4605db6f5a9_sx_377159_www1064-1064","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7b54a29d33b257a9074ea6ab30107e62_sx_277599_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_614709ac205ab04b9015320e325b50c6_sx_325582_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_81235d310c46bc715d48347105e28423_sx_312112_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a9a9723a39de9af5d53a6fc7d8de1d09_sx_358456_www1500-1500"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0a0d537900e2b38aa95fe4605db6f5a9_sx_377159_www1064-1064',
       discountPrice: '5990',
       marketPrice: '5990',
@@ -2795,9 +3965,9 @@ export const productList = {
       skuMaxPrice: '5990',
       recommendRemark: '',
       stock: '240000',
-      ts: '20240518012834',
+      ts: '20240521011143',
       gmtCreate: '2024-05-11 22:01:34',
-      gmtModified: '2024-05-18 01:28:34',
+      gmtModified: '2024-05-21 01:11:43',
       categoryPath: '童装/婴儿装/亲子装>儿童防晒服',
       isBeautify: 0,
       brandName: '',
@@ -2828,7 +3998,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683868753558372463',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2840,7 +4010,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-13 22:12:35',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2901,7 +4071,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683686599683604874',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2913,7 +4083,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-11 12:08:26',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -2974,7 +4144,7 @@ export const productList = {
       scoreInfo: {
         productId: '3683485045441561031',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -2986,7 +4156,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-10 15:05:49',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3047,7 +4217,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682889322899570689',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3059,7 +4229,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-07 05:03:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3086,10 +4256,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '179999',
-      ts: '20240519020211',
+      stock: '179998',
+      ts: '20240521205307',
       gmtCreate: '2024-05-06 15:08:48',
-      gmtModified: '2024-05-19 02:02:11',
+      gmtModified: '2024-05-21 20:53:13',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -3099,7 +4269,7 @@ export const productList = {
       productNum: 'DT134',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:56',
+      updateTime: '2024-05-21 10:30:10',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -3120,7 +4290,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682888562656804996',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3132,7 +4302,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-07 05:03:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3193,7 +4363,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682887070080172318',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3205,7 +4375,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-07 05:03:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3266,7 +4436,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682705822703550515',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3278,7 +4448,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-06 08:40:51',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3339,7 +4509,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682704065868988790',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3351,7 +4521,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-06 08:40:51',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3412,7 +4582,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682703348718502117',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3424,7 +4594,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-06 08:40:51',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3485,7 +4655,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682480689099440388',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3497,7 +4667,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-04 13:05:15',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3509,7 +4679,7 @@ export const productList = {
       productId: '3682474942248649158',
       shopId: '167267536',
       name: '2024夏季100%纯棉男童装美式复古中大童宽松运动洋气时尚休闲宽松',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0bc270557487a9f94028459bfca70d1a_sx_307541_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_565c5961742b3795ec38978eaef5027f_sx_184259_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_24acf4ae2b09fac19fe6ef69fd59750f_sx_149356_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e8b40faedfa84d6245c62e9942d73f9f_sx_174318_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_127d3a2d07b789b2083dadc5c618b2a6_sx_58231_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0bc270557487a9f94028459bfca70d1a_sx_307541_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_565c5961742b3795ec38978eaef5027f_sx_184259_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_24acf4ae2b09fac19fe6ef69fd59750f_sx_149356_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e8b40faedfa84d6245c62e9942d73f9f_sx_174318_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_127d3a2d07b789b2083dadc5c618b2a6_sx_58231_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0bc270557487a9f94028459bfca70d1a_sx_307541_www1600-1600',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -3524,10 +4694,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '179973',
-      ts: '20240520045649',
+      stock: '179970',
+      ts: '20240521205307',
       gmtCreate: '2024-05-04 10:18:44',
-      gmtModified: '2024-05-20 04:56:59',
+      gmtModified: '2024-05-21 20:53:14',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -3537,7 +4707,7 @@ export const productList = {
       productNum: 'DT140',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 00:26:16',
+      updateTime: '2024-05-21 19:02:33',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -3558,7 +4728,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682474942248649158',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3570,7 +4740,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-04 13:05:15',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3631,7 +4801,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682474147872637255',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3643,7 +4813,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-04 13:05:15',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3704,7 +4874,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682340423864549512',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3716,7 +4886,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-04 13:05:15',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3834,7 +5004,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682337587181256952',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3846,7 +5016,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-04 13:05:15',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3907,7 +5077,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682194087945044334',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3919,7 +5089,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-03 12:51:27',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -3980,7 +5150,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682141302864085434',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -3992,7 +5162,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-03 12:51:27',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4053,7 +5223,7 @@ export const productList = {
       scoreInfo: {
         productId: '3682136921930334259',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4065,7 +5235,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-03 12:51:27',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4077,7 +5247,7 @@ export const productList = {
       productId: '3681935848816902524',
       shopId: '167267536',
       name: '100%纯棉男童装短袖t恤2024夏季中大童宽松爆款帅气卡通动漫印花',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1ecd2c5a9687a99b28176a5655fbca9b_sx_144071_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5d40be8832b64154e49656fdfc7b64be_sx_145147_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ee9a05d679e3e8ad4af23b726879276d_sx_127912_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8190888275fa5dbb5a039838572ed3ad_sx_130676_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3af1ef85523e3687ada0ebd937a4d996_sx_150469_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1ecd2c5a9687a99b28176a5655fbca9b_sx_144071_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5d40be8832b64154e49656fdfc7b64be_sx_145147_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ee9a05d679e3e8ad4af23b726879276d_sx_127912_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8190888275fa5dbb5a039838572ed3ad_sx_130676_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3af1ef85523e3687ada0ebd937a4d996_sx_150469_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1ecd2c5a9687a99b28176a5655fbca9b_sx_144071_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -4092,10 +5262,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160994',
-      ts: '20240520045649',
+      stock: '160993',
+      ts: '20240521003843',
       gmtCreate: '2024-05-01 12:19:06',
-      gmtModified: '2024-05-20 04:56:59',
+      gmtModified: '2024-05-21 00:38:53',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -4105,7 +5275,7 @@ export const productList = {
       productNum: 'DT078',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 22:10:35',
+      updateTime: '2024-05-20 15:17:59',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -4126,7 +5296,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681935848816902524',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4138,7 +5308,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-01 14:00:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4199,7 +5369,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681933527177363916',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4211,7 +5381,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-01 14:00:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4223,8 +5393,8 @@ export const productList = {
       productId: '3681783413968339114',
       shopId: '167267536',
       name: '纯棉男童装短袖t恤2024夏季儿童中大童洋气时尚休闲印花帅气潮ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_819a9c1977068893b92a14d779153eee_sx_398530_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c653fe8f6db57d2c755575b904480680_sx_405435_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e3c9e961df4c1416054e70274cd7ea9f_sx_409101_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eeb2247d84b1b48f3283a69460fff4ae_sx_476176_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf2b9508f7a167f65a4d5f0f0a37ad5e_sx_196247_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_819a9c1977068893b92a14d779153eee_sx_398530_www800-800',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_819a9c1977068893b92a14d779153eee_sx_398530_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c653fe8f6db57d2c755575b904480680_sx_405435_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e3c9e961df4c1416054e70274cd7ea9f_sx_409101_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eeb2247d84b1b48f3283a69460fff4ae_sx_476176_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf2b9508f7a167f65a4d5f0f0a37ad5e_sx_196247_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_819a9c1977068893b92a14d779153eee_sx_398530_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -4238,10 +5408,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '89997',
-      ts: '20240519020204',
+      stock: '89995',
+      ts: '20240521205307',
       gmtCreate: '2024-04-30 16:15:36',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 20:53:14',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -4251,7 +5421,7 @@ export const productList = {
       productNum: 'DT079',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 14:04:19',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -4272,7 +5442,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681783413968339114',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4284,7 +5454,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-30 21:26:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4311,10 +5481,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '359836',
-      ts: '20240520045649',
+      stock: '359803',
+      ts: '20240521235339',
       gmtCreate: '2024-04-30 15:58:05',
-      gmtModified: '2024-05-20 04:56:59',
+      gmtModified: '2024-05-21 23:53:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -4324,7 +5494,7 @@ export const productList = {
       productNum: 'DT080',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 00:26:22',
+      updateTime: '2024-05-21 21:34:40',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -4345,7 +5515,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681781513378201872',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4357,7 +5527,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-30 21:26:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4419,7 +5589,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681779157630583008',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4431,7 +5601,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-30 21:26:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4549,7 +5719,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681570922457858210',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -4561,7 +5731,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-30 21:26:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4622,7 +5792,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681570686377263380',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -4634,7 +5804,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-30 21:26:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -4700,7 +5870,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681498958133330028',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4712,7 +5882,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-08 16:00:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -4779,7 +5949,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681492578110406887',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4791,7 +5961,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-09 14:48:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -4858,7 +6028,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681490280328069557',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -4870,7 +6040,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-05-08 16:00:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -4899,9 +6069,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '180000',
-      ts: '20240519020204',
+      ts: '20240521033011',
       gmtCreate: '2024-04-28 20:50:31',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 03:30:11',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -4913,10 +6083,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '151',
+      productNum: 'DT151',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 03:29:57',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -4938,18 +6108,13 @@ export const productList = {
         productId: '3681309275340275781',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-29 05:22:58',
-        gmtModified: '2024-04-29 05:22:58'
+        gmtModified: '2024-05-21 03:30:00'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -4978,9 +6143,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '179999',
-      ts: '20240519020204',
+      ts: '20240521020847',
       gmtCreate: '2024-04-28 19:05:36',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 02:08:47',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -4992,10 +6157,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '108',
+      productNum: 'DT108',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 02:08:33',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5017,18 +6182,13 @@ export const productList = {
         productId: '3681308835013853424',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-29 05:22:58',
-        gmtModified: '2024-04-29 05:22:58'
+        gmtModified: '2024-05-21 02:08:40'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5041,8 +6201,8 @@ export const productList = {
       productId: '3681305721288393156',
       shopId: '167267536',
       name: '纯棉女童韩版短袖T恤2024夏季时尚新款中大童T恤卡通动漫短袖潮款',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af1269924b29763aedf553e0ab043c1e_sx_2067312_www2480-2480","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_159f4a55c624fb6e284c5a2a1021a9c2_sx_405593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aa710d603e6f5764951457a442e40015_sx_305549_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_227fbb6ceedb8a8d57a0bba713351fe4_sx_111378_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_74307ea00810cb32495aed728260e757_sx_63003_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_af1269924b29763aedf553e0ab043c1e_sx_2067312_www2480-2480',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af1269924b29763aedf553e0ab043c1e_sx_2067312_www2480-2480","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_159f4a55c624fb6e284c5a2a1021a9c2_sx_405593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aa710d603e6f5764951457a442e40015_sx_305549_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_227fbb6ceedb8a8d57a0bba713351fe4_sx_111378_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_74307ea00810cb32495aed728260e757_sx_63003_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_af1269924b29763aedf553e0ab043c1e_sx_2067312_www2480-2480',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -5057,9 +6217,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '76500',
-      ts: '20240519020204',
+      ts: '20240521033036',
       gmtCreate: '2024-04-28 19:07:25',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 03:30:36',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5071,10 +6231,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '152',
+      productNum: 'DT152',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 03:30:23',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5095,7 +6255,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681305721288393156',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5107,7 +6267,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-29 05:22:58',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5120,7 +6280,7 @@ export const productList = {
       productId: '3681086078640587164',
       shopId: '167267536',
       name: '100%纯棉男童短袖宽松T恤2024新款夏季帅儿童中大童美式炸街潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c216f5ed5c55f9b24bb269ca879efa73_sx_192739_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1a5c0653deadf9c51bfb8578c8c81ea_sx_451726_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a3cdca52c0810733e5d3a5533a6fe655_sx_218683_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1dc12c2c9d51cbffc06b201b0409cf3d_sx_227574_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_38921a4ee07e8964c6c02cf193f1e5f7_sx_28418_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c216f5ed5c55f9b24bb269ca879efa73_sx_192739_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1a5c0653deadf9c51bfb8578c8c81ea_sx_451726_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a3cdca52c0810733e5d3a5533a6fe655_sx_218683_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1dc12c2c9d51cbffc06b201b0409cf3d_sx_227574_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_38921a4ee07e8964c6c02cf193f1e5f7_sx_28418_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c216f5ed5c55f9b24bb269ca879efa73_sx_192739_www800-800',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -5136,9 +6296,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '159995',
-      ts: '20240520045649',
+      ts: '20240521020928',
       gmtCreate: '2024-04-27 11:51:50',
-      gmtModified: '2024-05-20 04:56:59',
+      gmtModified: '2024-05-21 02:09:28',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5150,10 +6310,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '109',
+      productNum: 'DT109',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 00:34:21',
+      updateTime: '2024-05-21 02:09:16',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5174,7 +6334,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681086078640587164',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5186,7 +6346,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5215,9 +6375,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80000',
-      ts: '20240508213844',
+      ts: '20240521033555',
       gmtCreate: '2024-04-27 11:56:40',
-      gmtModified: '2024-05-08 21:38:44',
+      gmtModified: '2024-05-21 03:35:55',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5229,10 +6389,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '154',
+      productNum: 'DT154',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:30',
+      updateTime: '2024-05-21 03:35:43',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5253,7 +6413,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681086031463055656',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5265,7 +6425,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5293,10 +6453,10 @@ export const productList = {
       skuMinPrice: '2990',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '79981',
-      ts: '20240519015229',
+      stock: '79978',
+      ts: '20240521205307',
       gmtCreate: '2024-04-27 11:50:28',
-      gmtModified: '2024-05-19 01:52:40',
+      gmtModified: '2024-05-21 20:53:14',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5308,10 +6468,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '153',
+      productNum: 'DT153',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-18 20:33:38',
+      updateTime: '2024-05-21 12:56:24',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5332,7 +6492,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681086024995438981',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5344,7 +6504,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5357,7 +6517,7 @@ export const productList = {
       productId: '3681085924172759362',
       shopId: '167267536',
       name: '纯棉男童短袖T恤2024夏季新款笑脸儿童中大童男孩炸街痞帅美式潮',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78da1d2f3788f4dcc2e532323b7b2bfc_sx_542140_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af76466c74a2d49a53f00064e626ed24_sx_686346_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9f614381ebd85f224d506af0bb51122d_sx_275719_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_695da5e34ffbd7aa70ec8c8fcf23a296_sx_717434_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_80860042a60979a84a9013401f591fc8_sx_334488_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78da1d2f3788f4dcc2e532323b7b2bfc_sx_542140_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af76466c74a2d49a53f00064e626ed24_sx_686346_www1000-1000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9f614381ebd85f224d506af0bb51122d_sx_275719_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_695da5e34ffbd7aa70ec8c8fcf23a296_sx_717434_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_80860042a60979a84a9013401f591fc8_sx_334488_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_78da1d2f3788f4dcc2e532323b7b2bfc_sx_542140_www1000-1000',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -5373,9 +6533,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80000',
-      ts: '20240508213846',
+      ts: '20240521033642',
       gmtCreate: '2024-04-27 11:49:12',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 03:36:42',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5387,10 +6547,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '155',
+      productNum: 'DT155',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:32',
+      updateTime: '2024-05-21 03:36:27',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5411,7 +6571,7 @@ export const productList = {
       scoreInfo: {
         productId: '3681085924172759362',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5423,7 +6583,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5436,8 +6596,8 @@ export const productList = {
       productId: '3680734494807163074',
       shopId: '167267536',
       name: '纯棉童装男童短袖T恤2024夏款儿童中大童帅气男孩炸街中国风潮款',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_40a1ced700842f97207c03d2abe94ac7_sx_853936_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4a48bb7d45b4b0fb0be54d707b4705cd_sx_1184425_www1105-1105","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7b9d027e4a1c97ee3f360d665900ada1_sx_994317_www1125-1125","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_43a5329a71edf42635ae028c94cb366e_sx_1818823_www1133-1133","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_702c4f6265643f3f14df3bbfd8882317_sx_2070702_www1271-1271"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_40a1ced700842f97207c03d2abe94ac7_sx_853936_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_40a1ced700842f97207c03d2abe94ac7_sx_853936_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4a48bb7d45b4b0fb0be54d707b4705cd_sx_1184425_www1105-1105","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7b9d027e4a1c97ee3f360d665900ada1_sx_994317_www1125-1125","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_43a5329a71edf42635ae028c94cb366e_sx_1818823_www1133-1133","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_702c4f6265643f3f14df3bbfd8882317_sx_2070702_www1271-1271"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_40a1ced700842f97207c03d2abe94ac7_sx_853936_www800-800',
       discountPrice: '2990',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -5452,9 +6612,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80000',
-      ts: '20240508213846',
+      ts: '20240521033919',
       gmtCreate: '2024-04-25 15:25:57',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 03:39:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -5466,10 +6626,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '156',
+      productNum: 'DT156',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:32',
+      updateTime: '2024-05-21 03:39:07',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5490,7 +6650,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680734494807163074',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5502,7 +6662,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-26 06:51:52',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5515,7 +6675,7 @@ export const productList = {
       productId: '3680734237092347999',
       shopId: '167267536',
       name: '女童短袖衬衫夏季套装洋气小女孩半袖t恤短裤两件套中大童装美式',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a440c742f55c8ad604636a69d6f61cbd_sx_242049_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_41c29d42c75aa20dc01854da7ed6d3b4_sx_226593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_76282c9de4a74243372354f7d0694b7e_sx_197045_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e1f2841a07e5cb8b60105570dd003dcf_sx_211187_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31ed42806fc16c3c516dc5db493c239f_sx_301813_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a440c742f55c8ad604636a69d6f61cbd_sx_242049_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_41c29d42c75aa20dc01854da7ed6d3b4_sx_226593_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_76282c9de4a74243372354f7d0694b7e_sx_197045_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e1f2841a07e5cb8b60105570dd003dcf_sx_211187_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31ed42806fc16c3c516dc5db493c239f_sx_301813_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a440c742f55c8ad604636a69d6f61cbd_sx_242049_www800-800',
       discountPrice: '6990',
       marketPrice: '6990',
@@ -5531,9 +6691,9 @@ export const productList = {
       skuMaxPrice: '6990',
       recommendRemark: '',
       stock: '1500',
-      ts: '20240515164731',
+      ts: '20240521033959',
       gmtCreate: '2024-04-26 04:46:44',
-      gmtModified: '2024-05-15 16:47:54',
+      gmtModified: '2024-05-21 03:39:59',
       categoryPath: '童装/婴儿装/亲子装>套装',
       site: 'cs',
       source: '17zwd',
@@ -5545,10 +6705,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '157',
+      productNum: 'TZ002',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:31',
+      updateTime: '2024-05-21 03:39:48',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5569,7 +6729,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680734237092347999',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5581,7 +6741,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5594,7 +6754,7 @@ export const productList = {
       productId: '3680733148427190661',
       shopId: '167267536',
       name: '男童装夏季短袖短裤套装儿童中大童夏季网红运动时髦男孩帅气潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_15222f91db5806b3e8b2674a14d03ecd_sx_540572_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eb1d8cfb44a706c92ec656ce8f595414_sx_491307_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_de27ed35119977939de91c8800ee149a_sx_535335_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_83bf7935b3142ef21be24956ca4c1f5e_sx_536873_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_234a2dd64d9940f62bf806185af9a527_sx_540622_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_15222f91db5806b3e8b2674a14d03ecd_sx_540572_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eb1d8cfb44a706c92ec656ce8f595414_sx_491307_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_de27ed35119977939de91c8800ee149a_sx_535335_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_83bf7935b3142ef21be24956ca4c1f5e_sx_536873_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_234a2dd64d9940f62bf806185af9a527_sx_540622_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_15222f91db5806b3e8b2674a14d03ecd_sx_540572_www800-800',
       discountPrice: '5990',
       marketPrice: '5990',
@@ -5610,9 +6770,9 @@ export const productList = {
       skuMaxPrice: '5990',
       recommendRemark: '',
       stock: '6000',
-      ts: '20240515164731',
+      ts: '20240521034340',
       gmtCreate: '2024-04-26 04:46:44',
-      gmtModified: '2024-05-15 16:47:54',
+      gmtModified: '2024-05-21 03:43:40',
       categoryPath: '童装/婴儿装/亲子装>套装',
       site: 'cs',
       source: '17zwd',
@@ -5624,10 +6784,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '158',
+      productNum: 'TZ003',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:31',
+      updateTime: '2024-05-21 03:43:28',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5648,7 +6808,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680733148427190661',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5660,7 +6820,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -5673,9 +6833,9 @@ export const productList = {
       productId: '3680688673864679918',
       shopId: '167267536',
       name: '100%纯棉童装短袖t恤男童2024新款儿童中大童上衣夏季男孩潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1016f93491f95e2270947ebfd138717_sx_671192_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4c64df8006084ba83e33120b738410f_sx_753871_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2a41fe1c5fa79fd3c08ac10c69e14595_sx_635356_www654-654","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55f06742ed24ce143a4692abafec3953_sx_652206_www666-666","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7de5fde0898fc82aad9a8b2954466146_sx_322802_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1016f93491f95e2270947ebfd138717_sx_671192_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4c64df8006084ba83e33120b738410f_sx_753871_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2a41fe1c5fa79fd3c08ac10c69e14595_sx_635356_www654-654","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55f06742ed24ce143a4692abafec3953_sx_652206_www666-666","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7de5fde0898fc82aad9a8b2954466146_sx_322802_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_d1016f93491f95e2270947ebfd138717_sx_671192_www800-800',
-      discountPrice: '2990',
+      discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
       mobile: '19842798512',
@@ -5685,23 +6845,23 @@ export const productList = {
       payType: '1',
       isCreate: '0',
       createTime: '2024-04-24 18:39:58',
-      skuMinPrice: '2990',
+      skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '159998',
-      ts: '20240508213830',
+      stock: '161997',
+      ts: '20240522012207',
       gmtCreate: '2024-04-26 14:19:48',
-      gmtModified: '2024-05-08 21:38:30',
+      gmtModified: '2024-05-22 01:22:07',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '82',
+      productNum: 'DT082',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:13',
+      updateTime: '2024-05-21 09:51:39',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5716,29 +6876,25 @@ export const productList = {
       minimumPerOrder: '1',
       deliveryDelayDay: '2',
       presellDelay: '0',
-      sizeInfoTemplateId: '7355500937374384418',
+      sizeInfoTemplateId: '7355059189959885067',
       mainProductId: '',
       namePrefix: '',
       scoreInfo: {
         productId: '3680688673864679918',
         shopId: '167267536',
-        taskId: '384924299',
-        problemNumToImprove: '2',
+        taskId: '386508914',
+        problemNumToImprove: '1',
         problemTypeDistribution: [
           {
             num: 1,
             typeName: '商品信息不规范'
-          },
-          {
-            num: 1,
-            typeName: '商品素材缺少'
           }
         ],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -5766,19 +6922,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240508213846',
+      ts: '20240521035922',
       gmtCreate: '2024-04-25 15:23:39',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 03:59:22',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '159',
+      productNum: 'ZC082/1',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:31',
+      updateTime: '2024-05-21 03:59:11',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5799,7 +6955,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680680389082480648',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5811,7 +6967,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-26 06:51:52',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -5839,19 +6995,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240508213847',
+      ts: '20240521035952',
       gmtCreate: '2024-04-26 14:18:11',
-      gmtModified: '2024-05-08 21:38:47',
+      gmtModified: '2024-05-21 03:59:52',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '160',
+      productNum: 'ZC160',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:33',
+      updateTime: '2024-05-21 03:59:40',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5872,7 +7028,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680674562909012137',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5884,7 +7040,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-27 13:04:48',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -5896,7 +7052,7 @@ export const productList = {
       productId: '3680670766099202282',
       shopId: '167267536',
       name: '纯棉童装女童t恤中长款短袖2024款夏季儿童中大童美式百搭半袖ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_60064b6bb1f47a7302b728d817186754_sx_1082192_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1aeef64997d112cfaf46ba5978a7b416_sx_1073338_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_da715d69f988dd9ed363798363bfe03c_sx_1036307_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a75da530dbec732a759a747bb66d9ea1_sx_1134215_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cebb9c030b88a14272a2411bee425ae8_sx_1060422_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_60064b6bb1f47a7302b728d817186754_sx_1082192_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1aeef64997d112cfaf46ba5978a7b416_sx_1073338_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_da715d69f988dd9ed363798363bfe03c_sx_1036307_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a75da530dbec732a759a747bb66d9ea1_sx_1134215_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cebb9c030b88a14272a2411bee425ae8_sx_1060422_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_60064b6bb1f47a7302b728d817186754_sx_1082192_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -5912,19 +7068,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240509232718',
+      ts: '20240521040009',
       gmtCreate: '2024-04-25 15:25:21',
-      gmtModified: '2024-05-09 23:27:34',
+      gmtModified: '2024-05-21 04:00:09',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '161',
+      productNum: 'ZC161',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:35',
+      updateTime: '2024-05-21 03:59:56',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -5945,7 +7101,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680670766099202282',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -5957,7 +7113,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-26 06:51:52',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -5969,7 +7125,7 @@ export const productList = {
       productId: '3680555858435113111',
       shopId: '167267536',
       name: '男孩薄款短裤儿童中大童夏季宽松帅气休闲运动裤炸街卡通洋气潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9dc116a9dd7a541097cf620d30215f30_sx_860013_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2b8d599aa8e6964dcf9e3897b4df982e_sx_922044_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9d57c98a44aef05474cf3e9aad551860_sx_876697_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db2c5ebc22c04bc52c903a49fc4845aa_sx_262573_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_49047eb8993622e0856a17cdacc0792c_sx_414870_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9dc116a9dd7a541097cf620d30215f30_sx_860013_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2b8d599aa8e6964dcf9e3897b4df982e_sx_922044_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9d57c98a44aef05474cf3e9aad551860_sx_876697_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db2c5ebc22c04bc52c903a49fc4845aa_sx_262573_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_49047eb8993622e0856a17cdacc0792c_sx_414870_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9dc116a9dd7a541097cf620d30215f30_sx_860013_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -5985,19 +7141,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '39997',
-      ts: '20240508213852',
+      ts: '20240521040559',
       gmtCreate: '2024-04-24 15:21:49',
-      gmtModified: '2024-05-08 21:38:52',
+      gmtModified: '2024-05-21 04:05:59',
       categoryPath: '童装/婴儿装/亲子装>裤子>儿童休闲裤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '162',
+      productNum: 'DK004',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:36',
+      updateTime: '2024-05-21 04:05:47',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6018,7 +7174,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680555858435113111',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6030,7 +7186,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6058,19 +7214,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '159999',
-      ts: '20240515013837',
+      ts: '20240521021842',
       gmtCreate: '2024-04-24 15:23:15',
-      gmtModified: '2024-05-15 01:38:37',
+      gmtModified: '2024-05-21 02:18:42',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '110',
+      productNum: 'DT110',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:12',
+      updateTime: '2024-05-21 02:18:28',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6091,7 +7247,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680554939337277644',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6103,7 +7259,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6115,7 +7271,7 @@ export const productList = {
       productId: '3680553492025573825',
       shopId: '167267536',
       name: '100%纯棉童装短袖t恤男童2024新款儿童中大童夏季男孩国风潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1dcc7e078490466cc2b61abd2a0c4af5_sx_890668_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aeab8bd5da2f3c98c0de2419a1aacb87_sx_816101_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_42a39a1584abdfb00fad95891c506e30_sx_751877_www744-744","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72b0590ad1e94a6436eb11b2c3088442_sx_630076_www662-662","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_606a204d03f033802124d625bb4b1190_sx_273826_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1dcc7e078490466cc2b61abd2a0c4af5_sx_890668_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aeab8bd5da2f3c98c0de2419a1aacb87_sx_816101_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_42a39a1584abdfb00fad95891c506e30_sx_751877_www744-744","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72b0590ad1e94a6436eb11b2c3088442_sx_630076_www662-662","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_606a204d03f033802124d625bb4b1190_sx_273826_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1dcc7e078490466cc2b61abd2a0c4af5_sx_890668_www800-800',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -6127,23 +7283,23 @@ export const productList = {
       payType: '1',
       isCreate: '0',
       createTime: '2024-04-24 01:23:07',
-      skuMinPrice: '2990',
+      skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160000',
-      ts: '20240508213846',
+      stock: '162000',
+      ts: '20240521040914',
       gmtCreate: '2024-04-24 15:16:36',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 04:09:14',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '163',
+      productNum: 'DT162',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:32',
+      updateTime: '2024-05-21 04:09:02',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6164,7 +7320,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680553492025573825',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6176,7 +7332,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6188,7 +7344,7 @@ export const productList = {
       productId: '3680544899901554960',
       shopId: '167267536',
       name: '【24新款】100%纯棉童装短袖T恤夏季男童儿童中大童帅气韩版潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31470825a8a9e466ab750746d63acb9a_sx_1810865_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7866737d103dde488b9c9f1f54e25c17_sx_683324_www760-760","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5448eec9ff63650ee8da96b35d800896_sx_1160269_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72ce535da7b88d3ff1156d2653ff8ed5_sx_1436281_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5c97041eb771a6dcb246f09a66a4aa8_sx_1560528_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31470825a8a9e466ab750746d63acb9a_sx_1810865_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7866737d103dde488b9c9f1f54e25c17_sx_683324_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5448eec9ff63650ee8da96b35d800896_sx_1160269_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72ce535da7b88d3ff1156d2653ff8ed5_sx_1436281_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5c97041eb771a6dcb246f09a66a4aa8_sx_1560528_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_31470825a8a9e466ab750746d63acb9a_sx_1810865_www1080-1080',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -6203,20 +7359,20 @@ export const productList = {
       skuMinPrice: '2990',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '89907',
-      ts: '20240519021511',
+      stock: '89905',
+      ts: '20240521205307',
       gmtCreate: '2024-04-24 15:14:33',
-      gmtModified: '2024-05-19 02:15:11',
+      gmtModified: '2024-05-21 20:53:15',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '83',
+      productNum: 'DT083',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-18 19:20:35',
+      updateTime: '2024-05-21 19:37:17',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6238,18 +7394,13 @@ export const productList = {
         productId: '3680544899901554960',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-04-29 05:23:00'
+        gmtModified: '2024-05-21 00:48:43'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6261,7 +7412,7 @@ export const productList = {
       productId: '3680544268558139515',
       shopId: '167267536',
       name: '100%纯棉2024新款童装女童中大童t恤短袖夏季女孩半袖夏装潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88d47eb4a4202754940e8935ace4de72_sx_1047758_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2cf48e2f258c6222ef0275390e5defa2_sx_1016979_www748-748","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5722d9385853bb403807ba6cf52ff1ab_sx_978815_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8eb06bdf78bd8ccfed45be953d47db1b_sx_937468_www750-750","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_26b8f96758db9a58b10f9a46c1e5be95_sx_358393_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88d47eb4a4202754940e8935ace4de72_sx_1047758_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2cf48e2f258c6222ef0275390e5defa2_sx_1016979_www748-748","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5722d9385853bb403807ba6cf52ff1ab_sx_978815_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8eb06bdf78bd8ccfed45be953d47db1b_sx_937468_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_26b8f96758db9a58b10f9a46c1e5be95_sx_358393_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_88d47eb4a4202754940e8935ace4de72_sx_1047758_www750-750',
       discountPrice: '2990',
       marketPrice: '2990',
@@ -6273,23 +7424,23 @@ export const productList = {
       payType: '1',
       isCreate: '0',
       createTime: '2024-04-23 23:57:33',
-      skuMinPrice: '2990',
+      skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160000',
-      ts: '20240508213846',
+      stock: '180000',
+      ts: '20240521041344',
       gmtCreate: '2024-04-24 15:20:15',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 04:13:44',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '164',
+      productNum: 'DT163',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:31',
+      updateTime: '2024-05-21 04:13:26',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6310,7 +7461,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680544268558139515',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6322,7 +7473,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6350,19 +7501,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '59999',
-      ts: '20240513192548',
+      ts: '20240521041418',
       gmtCreate: '2024-04-24 15:33:41',
-      gmtModified: '2024-05-13 19:26:06',
+      gmtModified: '2024-05-21 04:14:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '165',
+      productNum: 'ZC164',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-13 13:05:03',
+      updateTime: '2024-05-21 04:14:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6383,7 +7534,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680538998616490097',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6395,7 +7546,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6407,7 +7558,7 @@ export const productList = {
       productId: '3680533483886870814',
       shopId: '167267536',
       name: '100%纯棉童装女童t恤中长款短袖2024款夏季儿童中大童百搭半袖ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6624c9d2a6b20e20adb3848524dad324_sx_735301_www750-750","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_28257ef4393fff42c6520c2c16af7384_sx_764687_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1243248e31c16ccf83d0cc3389296a8b_sx_520115_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a544407af09eb5dc776a90a09a64914f_sx_565952_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6fe52f19329603c2ee780335425d72e0_sx_772547_www700-700"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6624c9d2a6b20e20adb3848524dad324_sx_735301_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_28257ef4393fff42c6520c2c16af7384_sx_764687_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1243248e31c16ccf83d0cc3389296a8b_sx_520115_www750-750","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a544407af09eb5dc776a90a09a64914f_sx_565952_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6fe52f19329603c2ee780335425d72e0_sx_772547_www700-700"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_6624c9d2a6b20e20adb3848524dad324_sx_735301_www750-750',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -6423,19 +7574,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '60000',
-      ts: '20240508213846',
+      ts: '20240521041647',
       gmtCreate: '2024-04-24 15:32:56',
-      gmtModified: '2024-05-08 21:38:46',
+      gmtModified: '2024-05-21 04:16:47',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '166',
+      productNum: 'ZC165',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:31',
+      updateTime: '2024-05-21 04:16:31',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6456,7 +7607,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680533483886870814',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6468,7 +7619,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6496,19 +7647,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '60000',
-      ts: '20240508213847',
+      ts: '20240521041721',
       gmtCreate: '2024-04-24 15:30:57',
-      gmtModified: '2024-05-08 21:38:47',
+      gmtModified: '2024-05-21 04:17:21',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '167',
+      productNum: 'ZC166',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:33',
+      updateTime: '2024-05-21 04:17:09',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6529,7 +7680,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680532904024342618',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6541,7 +7692,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6553,7 +7704,7 @@ export const productList = {
       productId: '3680509178801160332',
       shopId: '167267536',
       name: '女童假两件短袖短裤套装夏季宽松儿童中大童卡通印花女孩时尚网红',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4eadd6faddb2d2a5b8f4dbb1e998655_sx_611027_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cad5b760efd7d81667c487d0ddd847f5_sx_488825_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_39f24310b781c0d8bac88575e28fb11a_sx_473037_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4c94d085e23b1c438534997f2d533a74_sx_470160_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_980d883ea8378b5a6a031d579f1cb163_sx_493122_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4eadd6faddb2d2a5b8f4dbb1e998655_sx_611027_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cad5b760efd7d81667c487d0ddd847f5_sx_488825_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_39f24310b781c0d8bac88575e28fb11a_sx_473037_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4c94d085e23b1c438534997f2d533a74_sx_470160_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_980d883ea8378b5a6a031d579f1cb163_sx_493122_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_f4eadd6faddb2d2a5b8f4dbb1e998655_sx_611027_www800-800',
       discountPrice: '5990',
       marketPrice: '5990',
@@ -6569,9 +7720,9 @@ export const productList = {
       skuMaxPrice: '5990',
       recommendRemark: '',
       stock: '12500',
-      ts: '20240515164731',
+      ts: '20240521042035',
       gmtCreate: '2024-04-24 15:27:52',
-      gmtModified: '2024-05-15 16:47:55',
+      gmtModified: '2024-05-21 04:20:35',
       categoryPath: '童装/婴儿装/亲子装>套装',
       site: 'cs',
       source: '17zwd',
@@ -6583,10 +7734,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '168',
+      productNum: 'TZ003',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:32',
+      updateTime: '2024-05-21 04:20:23',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6607,7 +7758,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680509178801160332',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6619,7 +7770,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -6632,7 +7783,7 @@ export const productList = {
       productId: '3680508946772263126',
       shopId: '167267536',
       name: '女童短袖短裤套装夏季运动宽松儿童中大童卡通印花美式网红甜美潮',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9db356d5cf5d306548c373f8490c2162_sx_436189_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf7b50d5663982fce1e7151ecf3c4070_sx_363592_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7468f787bf0e606553790d3fb31c52e3_sx_918378_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_53b9e61c650e8831a32875642acfe18a_sx_377224_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2347174184a9827465be88d78c5e1a90_sx_92034_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9db356d5cf5d306548c373f8490c2162_sx_436189_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf7b50d5663982fce1e7151ecf3c4070_sx_363592_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7468f787bf0e606553790d3fb31c52e3_sx_918378_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_53b9e61c650e8831a32875642acfe18a_sx_377224_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2347174184a9827465be88d78c5e1a90_sx_92034_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9db356d5cf5d306548c373f8490c2162_sx_436189_www800-800',
       discountPrice: '5990',
       marketPrice: '5990',
@@ -6648,9 +7799,9 @@ export const productList = {
       skuMaxPrice: '5990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240515164731',
+      ts: '20240521042355',
       gmtCreate: '2024-04-24 15:25:53',
-      gmtModified: '2024-05-15 16:47:55',
+      gmtModified: '2024-05-21 04:23:55',
       categoryPath: '童装/婴儿装/亲子装>套装',
       site: 'cs',
       source: '17zwd',
@@ -6662,10 +7813,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '169',
+      productNum: 'TZ004',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:32',
+      updateTime: '2024-05-21 04:23:39',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6686,7 +7837,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680508946772263126',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6698,7 +7849,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-25 07:00:15',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -6711,7 +7862,7 @@ export const productList = {
       productId: '3680370062470021189',
       shopId: '167267536',
       name: '纯棉童装男孩t恤宽松短袖2024夏季儿童中大童夏装中国风印花喜庆',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6dbe486290759e9bb4044794869cf85d_sx_744367_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a79dda72250cd18bab511b5b48a5b4ea_sx_628177_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b841f7e9d643c2ae6899d657a5bb934_sx_940488_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9e0733e30331043b0136afbee82a893b_sx_778298_www721-721","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_417683b443769a393ff80e0fee333c32_sx_260898_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6dbe486290759e9bb4044794869cf85d_sx_744367_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a79dda72250cd18bab511b5b48a5b4ea_sx_628177_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b841f7e9d643c2ae6899d657a5bb934_sx_940488_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9e0733e30331043b0136afbee82a893b_sx_778298_www721-721","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_417683b443769a393ff80e0fee333c32_sx_260898_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_6dbe486290759e9bb4044794869cf85d_sx_744367_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -6727,19 +7878,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160999',
-      ts: '20240519020204',
+      ts: '20240521042759',
       gmtCreate: '2024-04-23 15:39:55',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 04:27:59',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '170',
+      productNum: 'DT167',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 04:27:44',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6760,7 +7911,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680370062470021189',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6772,7 +7923,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6833,7 +7984,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680368941626163216',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6845,7 +7996,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6857,8 +8008,8 @@ export const productList = {
       productId: '3680365578641604765',
       shopId: '167267536',
       name: '100%纯棉童装男孩t恤衫圆领2024夏季新款短袖中大童男上衣洋气潮',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1cd9a9dce43e63bb0f8d4cdc332bfa4_sx_783963_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4d2e8ba23f42665dda12860d3e02e55_sx_881670_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c3efa64464fa5b0ff8fa7f51b554c3b_sx_721619_www692-692","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_519d389d862b74f06551c932a2078136_sx_628286_www653-653","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_76d624dd81d7b535f0579aecd515d2e7_sx_218380_www1080-1080"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_d1cd9a9dce43e63bb0f8d4cdc332bfa4_sx_783963_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d1cd9a9dce43e63bb0f8d4cdc332bfa4_sx_783963_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4d2e8ba23f42665dda12860d3e02e55_sx_881670_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c3efa64464fa5b0ff8fa7f51b554c3b_sx_721619_www692-692","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_519d389d862b74f06551c932a2078136_sx_628286_www653-653","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_76d624dd81d7b535f0579aecd515d2e7_sx_218380_www1080-1080"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_d1cd9a9dce43e63bb0f8d4cdc332bfa4_sx_783963_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -6872,20 +8023,20 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160998',
-      ts: '20240519020204',
+      stock: '160997',
+      ts: '20240521205307',
       gmtCreate: '2024-04-23 15:42:05',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 20:53:15',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '171',
+      productNum: 'DT168',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:49',
+      updateTime: '2024-05-21 17:22:57',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6906,7 +8057,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680365578641604765',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -6918,7 +8069,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -6930,7 +8081,7 @@ export const productList = {
       productId: '3680358736876142645',
       shopId: '167267536',
       name: '100%纯棉女童中长款短袖t恤中大童2024新时尚网红洋气夏季宽松ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_239f30a72cee3d636f62cdc04cfbc4f6_sx_1175668_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf0b1f4eddc5130021511ef8249a503c_sx_1199412_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_26dc29bdb007ad1a941d40dac2e43e03_sx_1186560_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa8a7e0b37f6f9cd9d77997cb95a1d7e_sx_1193821_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_dc4f1a57384407906c768bfec7d018e2_sx_297285_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_239f30a72cee3d636f62cdc04cfbc4f6_sx_1175668_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf0b1f4eddc5130021511ef8249a503c_sx_1199412_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_26dc29bdb007ad1a941d40dac2e43e03_sx_1186560_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa8a7e0b37f6f9cd9d77997cb95a1d7e_sx_1193821_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_dc4f1a57384407906c768bfec7d018e2_sx_297285_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_239f30a72cee3d636f62cdc04cfbc4f6_sx_1175668_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -6945,10 +8096,10 @@ export const productList = {
       skuMinPrice: '3990',
       skuMaxPrice: '3990',
       recommendRemark: '',
-      stock: '119995',
-      ts: '20240511012053',
+      stock: '119994',
+      ts: '20240521003843',
       gmtCreate: '2024-04-23 15:42:54',
-      gmtModified: '2024-05-11 01:20:53',
+      gmtModified: '2024-05-21 00:38:53',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -6958,7 +8109,7 @@ export const productList = {
       productNum: 'ZC084',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 22:36:41',
+      updateTime: '2024-05-20 13:42:40',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -6979,7 +8130,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680358736876142645',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -6991,7 +8142,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7019,19 +8170,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240508213852',
+      ts: '20240521042835',
       gmtCreate: '2024-04-23 15:43:45',
-      gmtModified: '2024-05-08 21:38:52',
+      gmtModified: '2024-05-21 04:28:35',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '172',
+      productNum: 'ZC169',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:35',
+      updateTime: '2024-05-21 04:28:20',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7052,7 +8203,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680354106758791627',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -7064,7 +8215,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7092,19 +8243,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240508213847',
+      ts: '20240521042850',
       gmtCreate: '2024-04-23 15:56:23',
-      gmtModified: '2024-05-08 21:38:47',
+      gmtModified: '2024-05-21 04:28:50',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '173',
+      productNum: 'ZC170',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:35',
+      updateTime: '2024-05-21 04:28:34',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7125,7 +8276,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680353655804002737',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7137,7 +8288,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7266,7 +8417,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680349732309434649',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7278,7 +8429,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -7291,7 +8442,7 @@ export const productList = {
       productId: '3680349393132847486',
       shopId: '167267536',
       name: '100%纯棉童装圆领t恤衫2024夏季新款帅男孩短袖儿童上衣洋气潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_651e28dca493846b7a0d3987f351202b_sx_191712_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa3328245d69bc24be3441251c13d00f_sx_232834_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bc9b7cc9fad91c99461e2cc161c92742_sx_340758_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_988c1927baddafd018849509245954ed_sx_322167_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71d52c89cf9628222f7bc9df2af7b9a3_sx_293095_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_651e28dca493846b7a0d3987f351202b_sx_191712_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa3328245d69bc24be3441251c13d00f_sx_232834_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bc9b7cc9fad91c99461e2cc161c92742_sx_340758_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_988c1927baddafd018849509245954ed_sx_322167_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71d52c89cf9628222f7bc9df2af7b9a3_sx_293095_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_651e28dca493846b7a0d3987f351202b_sx_191712_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -7307,9 +8458,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160994',
-      ts: '20240519020204',
+      ts: '20240521205307',
       gmtCreate: '2024-04-23 15:56:55',
-      gmtModified: '2024-05-19 02:02:04',
+      gmtModified: '2024-05-21 20:53:15',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -7321,10 +8472,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '63',
+      productNum: 'DT063',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:48',
+      updateTime: '2024-05-21 13:04:46',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7345,7 +8496,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680349393132847486',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -7357,7 +8508,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -7492,7 +8643,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680179054520172888',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7504,7 +8655,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7516,7 +8667,7 @@ export const productList = {
       productId: '3680178395293024605',
       shopId: '167267536',
       name: '100%纯棉男童装t恤宽松2024款印花短袖夏季儿童中大童帅气潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3168f956300ac35068c3b344a3c89aa4_sx_1218792_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cdd248e33e4609ea05016f76c556721f_sx_1204103_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_024ec4180edab19c06be5ca7e43dbafb_sx_1025565_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7d666fda778dd2e557a64b7b8a4fd7fa_sx_1261930_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d73705c0320ffa7b63356a4db1b80dac_sx_591693_www1920-1920"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3168f956300ac35068c3b344a3c89aa4_sx_1218792_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cdd248e33e4609ea05016f76c556721f_sx_1204103_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_024ec4180edab19c06be5ca7e43dbafb_sx_1025565_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7d666fda778dd2e557a64b7b8a4fd7fa_sx_1261930_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d73705c0320ffa7b63356a4db1b80dac_sx_591693_www1920-1920"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_3168f956300ac35068c3b344a3c89aa4_sx_1218792_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -7531,10 +8682,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160910',
-      ts: '20240520045649',
+      stock: '160908',
+      ts: '20240521205307',
       gmtCreate: '2024-04-22 15:25:39',
-      gmtModified: '2024-05-20 04:57:00',
+      gmtModified: '2024-05-21 20:53:16',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -7544,7 +8695,7 @@ export const productList = {
       productNum: 'DT006',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 14:36:15',
+      updateTime: '2024-05-21 15:13:39',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7565,7 +8716,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680178395293024605',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7577,7 +8728,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7638,7 +8789,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680178126882734274',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7650,7 +8801,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7662,8 +8813,8 @@ export const productList = {
       productId: '3680157906327699860',
       shopId: '167267536',
       name: '100%纯棉女童中长款短袖t恤中大童2024新时尚网红洋气夏季宽松ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2b3f9878ec0138e15636ddb847a60850_sx_456458_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0c544206dce98b53124d065f3e1e632b_sx_298581_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_43ae128dd228a925b8d6335135d55d6e_sx_474915_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_60fd20f88e5a8ff2d9944530b69f10ec_sx_449099_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eaf4f7799c3e0b0f5481bf817f89cf2d_sx_145558_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_2b3f9878ec0138e15636ddb847a60850_sx_456458_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2b3f9878ec0138e15636ddb847a60850_sx_456458_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0c544206dce98b53124d065f3e1e632b_sx_298581_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_43ae128dd228a925b8d6335135d55d6e_sx_474915_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_60fd20f88e5a8ff2d9944530b69f10ec_sx_449099_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_eaf4f7799c3e0b0f5481bf817f89cf2d_sx_145558_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_2b3f9878ec0138e15636ddb847a60850_sx_456458_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
       thirdCid: '20592',
@@ -7678,19 +8829,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '119999',
-      ts: '20240509081956',
+      ts: '20240521024233',
       gmtCreate: '2024-04-22 15:29:58',
-      gmtModified: '2024-05-09 08:19:56',
+      gmtModified: '2024-05-21 02:42:33',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '112',
+      productNum: 'ZC112',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:12',
+      updateTime: '2024-05-21 02:42:17',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7711,19 +8862,19 @@ export const productList = {
       scoreInfo: {
         productId: '3680157906327699860',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
-            typeName: '商品信息不规范',
-            num: 1
+            num: 1,
+            typeName: '商品信息不规范'
           }
         ],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -7750,10 +8901,10 @@ export const productList = {
       skuMinPrice: '3990',
       skuMaxPrice: '3990',
       recommendRemark: '',
-      stock: '119961',
-      ts: '20240520045649',
+      stock: '119955',
+      ts: '20240521205307',
       gmtCreate: '2024-04-22 15:39:04',
-      gmtModified: '2024-05-20 04:57:00',
+      gmtModified: '2024-05-21 20:53:16',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -7765,10 +8916,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '64',
+      productNum: 'ZC064',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 18:48:42',
+      updateTime: '2024-05-21 15:13:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7789,7 +8940,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680154858930962637',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7801,7 +8952,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -7814,8 +8965,8 @@ export const productList = {
       productId: '3680153514564256139',
       shopId: '167267536',
       name: '100%纯棉2024新款童装女童中大童t恤短袖夏季女孩半袖夏装潮流ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa10aaaa296c32716a2a216bfe381dda_sx_484563_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f8653f7471d4c4db7f663b93ee0230f_sx_379055_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d2e012110101ac17af04a1d8ca326ffa_sx_385217_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bcaa96fc5977008f7c6a0ab3f6402c8f_sx_1113866_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e950d647774783f09c5a55897b51a50d_sx_498056_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_fa10aaaa296c32716a2a216bfe381dda_sx_484563_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa10aaaa296c32716a2a216bfe381dda_sx_484563_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f8653f7471d4c4db7f663b93ee0230f_sx_379055_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d2e012110101ac17af04a1d8ca326ffa_sx_385217_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bcaa96fc5977008f7c6a0ab3f6402c8f_sx_1113866_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e950d647774783f09c5a55897b51a50d_sx_498056_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_fa10aaaa296c32716a2a216bfe381dda_sx_484563_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -7829,10 +8980,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '250858',
-      ts: '20240520045649',
+      stock: '250842',
+      ts: '20240521205307',
       gmtCreate: '2024-04-22 15:41:35',
-      gmtModified: '2024-05-20 04:57:00',
+      gmtModified: '2024-05-21 20:53:16',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -7847,7 +8998,7 @@ export const productList = {
       productNum: 'DT015',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 01:07:31',
+      updateTime: '2024-05-21 17:15:58',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7868,7 +9019,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680153514564256139',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -7880,7 +9031,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -7909,9 +9060,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80498',
-      ts: '20240519020200',
+      ts: '20240521004939',
       gmtCreate: '2024-04-22 15:34:36',
-      gmtModified: '2024-05-19 02:02:00',
+      gmtModified: '2024-05-21 00:49:39',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -7923,10 +9074,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '85',
+      productNum: 'DT085',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 00:49:26',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -7947,7 +9098,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680153183977603526',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -7959,7 +9110,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-23 05:17:56',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -7988,9 +9139,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160997',
-      ts: '20240519020200',
+      ts: '20240521004944',
       gmtCreate: '2024-04-21 15:38:01',
-      gmtModified: '2024-05-19 02:02:00',
+      gmtModified: '2024-05-21 00:49:44',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -8002,10 +9153,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '86',
+      productNum: 'DT086',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 00:49:31',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8026,7 +9177,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680106628696375367',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8038,7 +9189,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8051,7 +9202,7 @@ export const productList = {
       productId: '3680102645089042572',
       shopId: '167267536',
       name: '100%纯棉男童短袖t恤潮款韩儿童洋气纯棉夏季半袖宽松中大童印花',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a13e7ec905b513c4d7eccc55a05749e3_sx_949743_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_087e20bfe3fcfe5dc3a55c399ee16707_sx_707589_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6ed2d64752980b790c7a1f927c8d492e_sx_746530_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0b4328d116a7b4905f7b0ae44d1749d9_sx_546852_www1000-1000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6df214497c9bb8b7b0a52c114bdf0c70_sx_701576_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a13e7ec905b513c4d7eccc55a05749e3_sx_949743_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_087e20bfe3fcfe5dc3a55c399ee16707_sx_707589_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6ed2d64752980b790c7a1f927c8d492e_sx_746530_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0b4328d116a7b4905f7b0ae44d1749d9_sx_546852_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6df214497c9bb8b7b0a52c114bdf0c70_sx_701576_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a13e7ec905b513c4d7eccc55a05749e3_sx_949743_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8066,10 +9217,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160891',
-      ts: '20240520045649',
+      stock: '160884',
+      ts: '20240521235339',
       gmtCreate: '2024-04-21 14:58:20',
-      gmtModified: '2024-05-20 04:57:00',
+      gmtModified: '2024-05-21 23:53:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -8079,7 +9230,7 @@ export const productList = {
       productNum: 'DT003',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 20:57:11',
+      updateTime: '2024-05-21 22:54:52',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8100,7 +9251,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680102645089042572',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8112,7 +9263,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -8124,7 +9275,7 @@ export const productList = {
       productId: '3680101728105136621',
       shopId: '167267536',
       name: '100%纯棉男童短袖t恤潮款韩儿童洋气纯棉夏季半袖宽松中大童印花',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2c58418e69d792544fb3441bad26e9fe_sx_259359_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2f55ab35554e28e0992e984af9371042_sx_252624_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72b583071c0740159be9b8222449e9d0_sx_232520_www1600-1600","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b314576d5b7698fecfdca332535997d7_sx_246782_www1600-1600","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4364241b5baa8d40cd10f42ad65ff1d1_sx_255300_www1600-1600"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2c58418e69d792544fb3441bad26e9fe_sx_259359_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2f55ab35554e28e0992e984af9371042_sx_252624_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72b583071c0740159be9b8222449e9d0_sx_232520_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b314576d5b7698fecfdca332535997d7_sx_246782_www1600-1600","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4364241b5baa8d40cd10f42ad65ff1d1_sx_255300_www1600-1600"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_2c58418e69d792544fb3441bad26e9fe_sx_259359_www1600-1600',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8140,9 +9291,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160997',
-      ts: '20240519020159',
+      ts: '20240521004417',
       gmtCreate: '2024-04-21 15:39:06',
-      gmtModified: '2024-05-19 02:01:59',
+      gmtModified: '2024-05-21 00:44:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -8154,10 +9305,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '65',
+      productNum: 'DT065',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 00:44:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8178,7 +9329,7 @@ export const productList = {
       scoreInfo: {
         productId: '3680101728105136621',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8190,7 +9341,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8203,7 +9354,7 @@ export const productList = {
       productId: '3679977324276744337',
       shopId: '167267536',
       name: '纯棉男童装t恤衫圆领2024夏季新款男孩短袖儿童中大童日系潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ffed94f6cf88b1f983d7916221ce8ad7_sx_54734_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_caf95524c4f9093c9503b30cecaa5259_sx_51092_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ba8c4adb125ce06b07d290da617e2078_sx_50412_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef60056a79b0d8b9683ecbfca642dd16_sx_50806_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c7433534b44306f6a7429ff81df6430_sx_49566_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ffed94f6cf88b1f983d7916221ce8ad7_sx_54734_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_caf95524c4f9093c9503b30cecaa5259_sx_51092_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ba8c4adb125ce06b07d290da617e2078_sx_50412_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef60056a79b0d8b9683ecbfca642dd16_sx_50806_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c7433534b44306f6a7429ff81df6430_sx_49566_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_ffed94f6cf88b1f983d7916221ce8ad7_sx_54734_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8218,10 +9369,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160990',
-      ts: '20240520045649',
+      stock: '160989',
+      ts: '20240521205307',
       gmtCreate: '2024-04-21 15:44:27',
-      gmtModified: '2024-05-20 04:57:01',
+      gmtModified: '2024-05-21 20:53:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -8236,7 +9387,7 @@ export const productList = {
       productNum: 'DT041',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 20:57:08',
+      updateTime: '2024-05-21 09:52:28',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8278,7 +9429,7 @@ export const productList = {
       productId: '3679976995879518330',
       shopId: '167267536',
       name: '100%纯棉童装短袖2024新款t恤衫中大童男夏季休闲宽松韩版潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3fe7341855123ce3af7d7afdb33dd356_sx_472422_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71085fec5badaca4ad21b2d8fa64abb0_sx_240251_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_46f2cb8ebeaf99a5b457f54673a4f658_sx_184684_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8a9b3ab8532c6cfcd8975f986d3b3c83_sx_458168_www1200-1200","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b07039443b7066e41337cd84d25c278_sx_406910_www1000-1000"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3fe7341855123ce3af7d7afdb33dd356_sx_472422_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_71085fec5badaca4ad21b2d8fa64abb0_sx_240251_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_46f2cb8ebeaf99a5b457f54673a4f658_sx_184684_www760-760","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8a9b3ab8532c6cfcd8975f986d3b3c83_sx_458168_www1200-1200","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b07039443b7066e41337cd84d25c278_sx_406910_www1000-1000"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_3fe7341855123ce3af7d7afdb33dd356_sx_472422_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8293,10 +9444,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160882',
-      ts: '20240520045649',
+      stock: '160874',
+      ts: '20240521205307',
       gmtCreate: '2024-04-21 15:45:26',
-      gmtModified: '2024-05-20 04:57:01',
+      gmtModified: '2024-05-21 20:53:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -8311,7 +9462,7 @@ export const productList = {
       productNum: 'DT016',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 23:36:31',
+      updateTime: '2024-05-21 19:56:26',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8332,7 +9483,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679976995879518330',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8344,7 +9495,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8412,7 +9563,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679976761577308507',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8424,7 +9575,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8492,7 +9643,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679976639187517691',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8504,7 +9655,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8534,19 +9685,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '239998',
-      ts: '20240514033355',
+      ts: '20240521005005',
       gmtCreate: '2024-04-20 13:43:23',
-      gmtModified: '2024-05-14 03:33:55',
+      gmtModified: '2024-05-21 00:50:05',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '87',
+      productNum: 'DT087',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:13',
+      updateTime: '2024-05-21 00:49:50',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8567,7 +9718,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679787667136053266',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8579,7 +9730,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -8591,7 +9742,7 @@ export const productList = {
       productId: '3679785837572259882',
       shopId: '167267536',
       name: '24新款100%纯棉童装t恤圆领夏季男孩宽松短袖中大童洋气韩版潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_66ac00a71ca805bf330e922a128c85f0_sx_1182192_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a90a9209a8038afc7f9474875daed503_sx_674245_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c70ef6cab365ae68ac46ec3647fffcc_sx_1058654_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_335c721b1667da9dfb412d1f67678320_sx_946817_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fb2eb977ae83547e031364f7ee0bd2e8_sx_383554_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_66ac00a71ca805bf330e922a128c85f0_sx_1182192_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a90a9209a8038afc7f9474875daed503_sx_674245_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c70ef6cab365ae68ac46ec3647fffcc_sx_1058654_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_335c721b1667da9dfb412d1f67678320_sx_946817_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fb2eb977ae83547e031364f7ee0bd2e8_sx_383554_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_66ac00a71ca805bf330e922a128c85f0_sx_1182192_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8606,10 +9757,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160968',
-      ts: '20240520045649',
+      stock: '160967',
+      ts: '20240521210341',
       gmtCreate: '2024-04-20 13:49:29',
-      gmtModified: '2024-05-20 04:57:01',
+      gmtModified: '2024-05-21 21:03:41',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -8619,7 +9770,7 @@ export const productList = {
       productNum: 'DT019',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 18:42:46',
+      updateTime: '2024-05-20 18:13:05',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8664,7 +9815,7 @@ export const productList = {
       productId: '3679782339212345779',
       shopId: '167267536',
       name: '纯棉童装T恤衫短袖半袖儿童中大童夏季韩版休闲宽松童装洋气潮ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_23584fc61073889023cbe5183b2a54a9_sx_1097612_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b1b6c07fb29eecf6c2e0bd1962560fab_sx_108515_www1240-1276","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5b8c994f39f03ef5baf9b49dfafb0d98_sx_60479_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_360f76a191118e19f40789c909074436_sx_425945_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d9f3cfb574ff86cef868c30dd9425b97_sx_1616872_www1920-1920"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_23584fc61073889023cbe5183b2a54a9_sx_1097612_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b1b6c07fb29eecf6c2e0bd1962560fab_sx_108515_www1240-1276","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5b8c994f39f03ef5baf9b49dfafb0d98_sx_60479_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_360f76a191118e19f40789c909074436_sx_425945_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d9f3cfb574ff86cef868c30dd9425b97_sx_1616872_www1920-1920"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_23584fc61073889023cbe5183b2a54a9_sx_1097612_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8680,19 +9831,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020200',
+      ts: '20240521042915',
       gmtCreate: '2024-04-20 13:48:09',
-      gmtModified: '2024-05-19 02:02:00',
+      gmtModified: '2024-05-21 04:29:15',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '175',
+      productNum: 'DT171',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 04:29:00',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8713,7 +9864,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679782339212345779',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8725,7 +9876,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -8753,9 +9904,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80497',
-      ts: '20240519020200',
+      ts: '20240521025027',
       gmtCreate: '2024-04-20 13:45:41',
-      gmtModified: '2024-05-19 02:02:00',
+      gmtModified: '2024-05-21 02:50:27',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -8767,10 +9918,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '113',
+      productNum: 'DT113',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 02:50:12',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8792,18 +9943,13 @@ export const productList = {
         productId: '3679781591795761194',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-04-29 05:22:58'
+        gmtModified: '2024-05-21 02:42:25'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -8817,7 +9963,7 @@ export const productList = {
       productId: '3679776583905837344',
       shopId: '167267536',
       name: '100%纯棉2024新款童装女童中大童t恤短袖夏季女孩半袖夏装潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5d22765e7ef166a3d14f26468a7be36c_sx_697580_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9c6f1ca3cc5d23b5971fe5103f7abe20_sx_693705_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_432f11e2c2a03b64dd15a9e67e139c61_sx_705097_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_363dc8880a8f788a9480f8968619d44f_sx_696407_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4cf831f5355e9696e0f071106abdbd45_sx_666072_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5d22765e7ef166a3d14f26468a7be36c_sx_697580_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9c6f1ca3cc5d23b5971fe5103f7abe20_sx_693705_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_432f11e2c2a03b64dd15a9e67e139c61_sx_705097_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_363dc8880a8f788a9480f8968619d44f_sx_696407_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4cf831f5355e9696e0f071106abdbd45_sx_666072_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5d22765e7ef166a3d14f26468a7be36c_sx_697580_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -8833,19 +9979,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80496',
-      ts: '20240520045649',
+      ts: '20240521025052',
       gmtCreate: '2024-04-20 13:50:33',
-      gmtModified: '2024-05-20 04:57:01',
+      gmtModified: '2024-05-21 02:50:52',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '114',
+      productNum: 'DT114',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 17:25:53',
+      updateTime: '2024-05-21 02:50:37',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -8866,7 +10012,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679776583905837344',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8878,7 +10024,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -8939,7 +10085,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679772424297120106',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -8951,7 +10097,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -8963,8 +10109,8 @@ export const productList = {
       productId: '3679769933123813419',
       shopId: '167267536',
       name: '2024新款纯棉童装男童短袖T恤儿童上衣夏季中大童夏款男孩韩版ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_015114c52ff790aa2e814905a47d911a_sx_766387_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_065ad74e30ca7ba48db6154d23aaa349_sx_664049_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1ce528607403bdf7193a4d1fafbb3b1f_sx_658674_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a6581fab3bd98ae567673cc706aa63db_sx_675852_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fbb38d3fbcc3f773a5c19caeb4d93eeb_sx_630247_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_015114c52ff790aa2e814905a47d911a_sx_766387_www800-800',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_015114c52ff790aa2e814905a47d911a_sx_766387_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_065ad74e30ca7ba48db6154d23aaa349_sx_664049_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1ce528607403bdf7193a4d1fafbb3b1f_sx_658674_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a6581fab3bd98ae567673cc706aa63db_sx_675852_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fbb38d3fbcc3f773a5c19caeb4d93eeb_sx_630247_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_015114c52ff790aa2e814905a47d911a_sx_766387_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -8979,19 +10125,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160997',
-      ts: '20240519020159',
+      ts: '20240521004453',
       gmtCreate: '2024-04-20 14:04:11',
-      gmtModified: '2024-05-19 02:01:59',
+      gmtModified: '2024-05-21 00:44:53',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '67',
+      productNum: 'DT067',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 00:44:37',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9012,7 +10158,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679769933123813419',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9024,7 +10170,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -9052,19 +10198,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160000',
-      ts: '20240508213852',
+      ts: '20240521042941',
       gmtCreate: '2024-04-20 13:53:01',
-      gmtModified: '2024-05-08 21:38:52',
+      gmtModified: '2024-05-21 04:29:41',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '176',
+      productNum: 'DT172',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:36',
+      updateTime: '2024-05-21 04:29:25',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9085,7 +10231,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679768013508313299',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9097,7 +10243,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-24 10:28:28',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -9124,10 +10270,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '260959',
-      ts: '20240520045649',
+      stock: '260957',
+      ts: '20240521205307',
       gmtCreate: '2024-04-19 18:28:42',
-      gmtModified: '2024-05-20 04:57:02',
+      gmtModified: '2024-05-21 20:53:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -9137,7 +10283,7 @@ export const productList = {
       productNum: 'ZC021',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 09:02:04',
+      updateTime: '2024-05-21 18:18:36',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9158,7 +10304,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679759359048548370',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9170,7 +10316,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:36',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -9182,7 +10328,7 @@ export const productList = {
       productId: '3679652008454914049',
       shopId: '167267536',
       name: '24新款100%纯棉短袖半袖男童儿童中大童圆领夏季宽松韩版印花洋气',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0e75d998baeebf5967f54e3056b53279_sx_49832_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_696973b68070ddf049e1cd785d3599a9_sx_52426_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13262a6303e22b6d93c46890527537c9_sx_43326_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ac0337a289e3d0d445e1d0b7585e4ad_sx_55676_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c4f9b28f0e58c6a6eb84e650f5194370_sx_36966_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0e75d998baeebf5967f54e3056b53279_sx_49832_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_696973b68070ddf049e1cd785d3599a9_sx_52426_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13262a6303e22b6d93c46890527537c9_sx_43326_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ac0337a289e3d0d445e1d0b7585e4ad_sx_55676_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c4f9b28f0e58c6a6eb84e650f5194370_sx_36966_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0e75d998baeebf5967f54e3056b53279_sx_49832_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -9197,10 +10343,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160961',
-      ts: '20240520045649',
+      stock: '160959',
+      ts: '20240521205307',
       gmtCreate: '2024-04-19 16:35:04',
-      gmtModified: '2024-05-20 04:57:02',
+      gmtModified: '2024-05-21 20:53:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9215,7 +10361,7 @@ export const productList = {
       productNum: 'DT028',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 21:19:07',
+      updateTime: '2024-05-21 19:41:14',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9262,8 +10408,8 @@ export const productList = {
       productId: '3679650694337527964',
       shopId: '167267536',
       name: '24新款100%纯棉童装女童t恤中长款短袖夏季儿童中大童百搭半袖ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0110115ac4bc9d3ac4eb04f8051c85d1_sx_353803_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_35fb2fe3f147b8ddabffb62be743309f_sx_398272_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f8aba5f6ba71e2a6279cb6ab974e8058_sx_386620_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_76b8ceeaabc9e0d37b89aa0952f0a8f9_sx_391410_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a00a6861b844e30bb34bec7d1b6a6aae_sx_386727_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0110115ac4bc9d3ac4eb04f8051c85d1_sx_353803_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e659c1ff4662a4aea9f8b1f8b8b02552_sx_378891_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0fb2cbb55d80c42d68aa4168d5e964ed_sx_421424_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f8aba5f6ba71e2a6279cb6ab974e8058_sx_386620_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_138f9ae2df8d07a9b2fb07637e234dba_sx_413096_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_edb3c72be5d65e24bb61a7c129577925_sx_407913_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e659c1ff4662a4aea9f8b1f8b8b02552_sx_378891_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
       thirdCid: '20592',
@@ -9277,10 +10423,10 @@ export const productList = {
       skuMinPrice: '3990',
       skuMaxPrice: '3990',
       recommendRemark: '',
-      stock: '119993',
-      ts: '20240520045649',
+      stock: '119992',
+      ts: '20240521205307',
       gmtCreate: '2024-04-19 16:40:29',
-      gmtModified: '2024-05-20 04:57:02',
+      gmtModified: '2024-05-21 20:53:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9292,10 +10438,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '89',
+      productNum: 'ZC089',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 05:03:34',
+      updateTime: '2024-05-21 12:29:54',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9316,7 +10462,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679650694337527964',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9328,7 +10474,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:36',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9358,9 +10504,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '161000',
-      ts: '20240519020155',
+      ts: '20240521042956',
       gmtCreate: '2024-04-19 16:33:38',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 04:29:56',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9372,10 +10518,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '177',
+      productNum: 'DT173',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 04:29:41',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9397,18 +10543,13 @@ export const productList = {
         productId: '3679650163917455515',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-04-29 05:22:58'
+        gmtModified: '2024-05-21 04:29:24'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9422,7 +10563,7 @@ export const productList = {
       productId: '3679650064990601329',
       shopId: '167267536',
       name: '纯棉女童中长款短袖24夏季百搭半袖学生印花网红洋气时尚宽松韩版',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4e0a0e9e37aa614454e1015368b52b5_sx_54286_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c13f52162c50a72ef0b5783bc26de5e3_sx_54004_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_07f27d7fae978817b7a4b66e04e9e043_sx_65752_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_186af3fa76bcbdd8788ea5264ce2c234_sx_60598_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_887925774ea5285f91e6e43aaf564f2b_sx_19198_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f4e0a0e9e37aa614454e1015368b52b5_sx_54286_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c13f52162c50a72ef0b5783bc26de5e3_sx_54004_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_07f27d7fae978817b7a4b66e04e9e043_sx_65752_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_186af3fa76bcbdd8788ea5264ce2c234_sx_60598_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_887925774ea5285f91e6e43aaf564f2b_sx_19198_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_f4e0a0e9e37aa614454e1015368b52b5_sx_54286_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -9438,9 +10579,9 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '119999',
-      ts: '20240519015229',
+      ts: '20240521030134',
       gmtCreate: '2024-04-19 16:05:20',
-      gmtModified: '2024-05-19 01:52:43',
+      gmtModified: '2024-05-21 03:01:34',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9452,10 +10593,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '115',
+      productNum: 'ZC115',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-18 07:17:48',
+      updateTime: '2024-05-21 03:01:18',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9477,18 +10618,13 @@ export const productList = {
         productId: '3679650064990601329',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:36',
-        gmtModified: '2024-04-29 05:23:00'
+        gmtModified: '2024-05-21 03:01:01'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9518,9 +10654,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160999',
-      ts: '20240519020155',
+      ts: '20240521043011',
       gmtCreate: '2024-04-19 16:44:11',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 04:30:11',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9532,10 +10668,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '178',
+      productNum: 'DT174',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:43',
+      updateTime: '2024-05-21 04:29:59',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9556,7 +10692,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679649001885532639',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9568,7 +10704,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9582,7 +10718,7 @@ export const productList = {
       productId: '3679648847333818818',
       shopId: '167267536',
       name: '24新款100%纯棉女童t恤衫中长款短袖夏季儿童中大童时尚百搭潮ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7865e78cd821c9b3f9dd6b9836027dd0_sx_45988_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_691f5f194cb0fa853922bedd249a14db_sx_28976_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_dd53c01e2e3e623a6a8ba67d7bb469fe_sx_46340_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_051dd1bc0f0b62cf137daf9faa5d7e81_sx_28920_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a87bea4cffc7dafa8ea19fe35e767a67_sx_12010_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7865e78cd821c9b3f9dd6b9836027dd0_sx_45988_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_691f5f194cb0fa853922bedd249a14db_sx_28976_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_dd53c01e2e3e623a6a8ba67d7bb469fe_sx_46340_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_051dd1bc0f0b62cf137daf9faa5d7e81_sx_28920_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a87bea4cffc7dafa8ea19fe35e767a67_sx_12010_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7865e78cd821c9b3f9dd6b9836027dd0_sx_45988_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -9598,9 +10734,9 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '119999',
-      ts: '20240518011845',
+      ts: '20240521030216',
       gmtCreate: '2024-04-19 16:17:21',
-      gmtModified: '2024-05-18 01:18:45',
+      gmtModified: '2024-05-21 03:02:16',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9612,10 +10748,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '116',
+      productNum: 'ZC116',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:11',
+      updateTime: '2024-05-21 03:02:01',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9637,18 +10773,13 @@ export const productList = {
         productId: '3679648847333818818',
         shopId: '167267536',
         taskId: '369678604',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:36',
-        gmtModified: '2024-04-29 05:23:00'
+        gmtModified: '2024-05-21 03:01:21'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9662,7 +10793,7 @@ export const productList = {
       productId: '3679648615472693680',
       shopId: '167267536',
       name: '纯棉女童t恤中长款短袖草莓熊卡通夏季宽松儿童中大童洋气潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a0795ab04334aa877e07006fd9ec521_sx_4962227_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aaf7260eab969f33ab2316920ff14fac_sx_3263651_www1600-1600","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cb9db7a94df1feb1c65e163e43cef831_sx_5136168_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1270af7261eca33e82b69c8dd1e13986_sx_5169261_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2943aa9e822ae63ce32294eee1d9dbc5_sx_5191277_www2160-2160"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a0795ab04334aa877e07006fd9ec521_sx_4962227_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aaf7260eab969f33ab2316920ff14fac_sx_3263651_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cb9db7a94df1feb1c65e163e43cef831_sx_5136168_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1270af7261eca33e82b69c8dd1e13986_sx_5169261_www2160-2160","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2943aa9e822ae63ce32294eee1d9dbc5_sx_5191277_www2160-2160"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7a0795ab04334aa877e07006fd9ec521_sx_4962227_www2160-2160',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -9678,9 +10809,9 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '179999',
-      ts: '20240508213835',
+      ts: '20240521030456',
       gmtCreate: '2024-04-19 16:51:11',
-      gmtModified: '2024-05-08 21:38:35',
+      gmtModified: '2024-05-21 03:04:56',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9692,10 +10823,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '117',
+      productNum: 'ZC117',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:19',
+      updateTime: '2024-05-21 03:04:43',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9716,7 +10847,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679648615472693680',
         shopId: '167267536',
-        taskId: '369678604',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9728,7 +10859,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-04-29 05:23:00'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9757,10 +10888,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '80447',
-      ts: '20240520045649',
+      stock: '80444',
+      ts: '20240521235339',
       gmtCreate: '2024-04-19 16:51:59',
-      gmtModified: '2024-05-20 04:57:03',
+      gmtModified: '2024-05-21 23:53:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -9775,7 +10906,7 @@ export const productList = {
       productNum: 'DT022',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 23:59:35',
+      updateTime: '2024-05-21 21:00:17',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -9796,7 +10927,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679648585391145264',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9808,7 +10939,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9876,7 +11007,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679647797314978286',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -9888,7 +11019,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -9902,7 +11033,7 @@ export const productList = {
       productId: '3679608914799886456',
       shopId: '167267536',
       name: '2024款100%纯棉男童装t恤宽松印花短袖夏季儿童中大童帅气潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aff6be3afac0eb486920d37b26210c84_sx_1241037_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e3e42d2e4b299c86bcba04516bd37517_sx_500973_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b2838c5135fc56126bdd7b0015442041_sx_493923_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e6b6bae539adc41ee09baaff65e888ba_sx_922191_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8d7c2aad1c8af28e0cfa8934a29576e3_sx_961866_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_aff6be3afac0eb486920d37b26210c84_sx_1241037_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e3e42d2e4b299c86bcba04516bd37517_sx_500973_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b2838c5135fc56126bdd7b0015442041_sx_493923_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e6b6bae539adc41ee09baaff65e888ba_sx_922191_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8d7c2aad1c8af28e0cfa8934a29576e3_sx_961866_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_aff6be3afac0eb486920d37b26210c84_sx_1241037_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -9917,10 +11048,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160901',
-      ts: '20240520045649',
+      stock: '160900',
+      ts: '20240521205307',
       gmtCreate: '2024-04-20 14:13:49',
-      gmtModified: '2024-05-20 04:57:03',
+      gmtModified: '2024-05-21 20:53:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -9930,7 +11061,7 @@ export const productList = {
       productNum: 'DT017',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 00:09:16',
+      updateTime: '2024-05-21 09:40:03',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10019,7 +11150,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679608466101633393',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10031,7 +11162,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-20 10:04:37',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10043,7 +11174,7 @@ export const productList = {
       productId: '3679605365126856721',
       shopId: '167267536',
       name: '纯棉男童t恤衫印花短袖半袖中大童夏季休闲宽松童装韩版洋气潮ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9a2db62c2a4f5f84dbb03d8a31f04354_sx_1513787_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2df4400fac3f4f50ec18b5884c544cf9_sx_576586_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_57ef6b11dd2fa56f8730a484ceeb0322_sx_1191008_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7cd81a9559f64b972a3dfc7d9fd00924_sx_1205723_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_89ff4afc24a2fcfba5ab55610b5d0a65_sx_1323459_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9a2db62c2a4f5f84dbb03d8a31f04354_sx_1513787_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2df4400fac3f4f50ec18b5884c544cf9_sx_576586_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_57ef6b11dd2fa56f8730a484ceeb0322_sx_1191008_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7cd81a9559f64b972a3dfc7d9fd00924_sx_1205723_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_89ff4afc24a2fcfba5ab55610b5d0a65_sx_1323459_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9a2db62c2a4f5f84dbb03d8a31f04354_sx_1513787_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -10059,19 +11190,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '161000',
-      ts: '20240519020225',
+      ts: '20240521043032',
       gmtCreate: '2024-04-20 14:14:14',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 04:30:32',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '179',
+      productNum: 'DT175',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 04:30:21',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10092,7 +11223,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679605365126856721',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10104,7 +11235,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-21 08:00:43',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10116,7 +11247,7 @@ export const productList = {
       productId: '3679599715021881425',
       shopId: '167267536',
       name: '2024新款纯棉童装男童短袖t恤儿童中大童夏季夏款男孩卡通日系ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8cfd75d502e88d6bb7df062a0845aca6_sx_664608_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f5663b7e5e59b62fcc4537a6331caf1_sx_774505_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_46fcaec72e8b1abc97d83e586cb43c4e_sx_674304_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b427730b9b4d365b98a59a62ea032dc8_sx_662048_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8229de30760a8e91a938e33bffe53458_sx_523290_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8cfd75d502e88d6bb7df062a0845aca6_sx_664608_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f5663b7e5e59b62fcc4537a6331caf1_sx_774505_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_46fcaec72e8b1abc97d83e586cb43c4e_sx_674304_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b427730b9b4d365b98a59a62ea032dc8_sx_662048_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8229de30760a8e91a938e33bffe53458_sx_523290_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_8cfd75d502e88d6bb7df062a0845aca6_sx_664608_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -10132,19 +11263,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80498',
-      ts: '20240520045649',
+      ts: '20240521030516',
       gmtCreate: '2024-04-21 15:48:52',
-      gmtModified: '2024-05-20 04:57:03',
+      gmtModified: '2024-05-21 03:05:16',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '118',
+      productNum: 'DT118',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 20:57:53',
+      updateTime: '2024-05-21 03:05:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10165,7 +11296,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679599715021881425',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10177,7 +11308,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-22 11:07:24',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10205,19 +11336,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020225',
+      ts: '20240521005219',
       gmtCreate: '2024-04-18 12:04:34',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 00:52:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '90',
+      productNum: 'DT090',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 00:52:06',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10238,7 +11369,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679422468340187481',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10250,7 +11381,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10278,19 +11409,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48737',
-      ts: '20240519020225',
+      ts: '20240521005235',
       gmtCreate: '2024-04-18 12:06:32',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 00:52:35',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '91',
+      productNum: 'DT091',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 00:52:19',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10311,7 +11442,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679420202568778155',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10323,7 +11454,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10351,19 +11482,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160989',
-      ts: '20240520045649',
+      ts: '20240521004504',
       gmtCreate: '2024-04-18 12:07:54',
-      gmtModified: '2024-05-20 04:57:03',
+      gmtModified: '2024-05-21 00:45:04',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '68',
+      productNum: 'DT068',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 22:08:22',
+      updateTime: '2024-05-21 00:44:52',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10384,7 +11515,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679419784010793220',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10396,7 +11527,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10457,7 +11588,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679416287672533454',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10469,7 +11600,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10530,7 +11661,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679411161771671863',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10542,7 +11673,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -10570,9 +11701,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48975',
-      ts: '20240519020225',
+      ts: '20240521004618',
       gmtCreate: '2024-04-18 12:18:00',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 00:46:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -10584,10 +11715,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '70',
+      productNum: 'DT070',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 00:45:05',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10609,18 +11740,13 @@ export const productList = {
         productId: '3679401388439371990',
         shopId: '167267536',
         taskId: '383957430',
-        problemNumToImprove: '1',
-        problemTypeDistribution: [
-          {
-            num: 1,
-            typeName: '商品信息不规范'
-          }
-        ],
+        problemNumToImprove: '0',
+        problemTypeDistribution: [],
         meetStandard: '1',
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-18 10:27:06'
+        gmtModified: '2024-05-21 00:44:52'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -10634,8 +11760,8 @@ export const productList = {
       productId: '3679401362661179620',
       shopId: '167267536',
       name: '2024新款纯棉童装男童短袖T恤儿童上衣夏季中大童夏款男孩韩版ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9ecc548d391dcbde941e0396eb226daa_sx_29678_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ce16e5c95905f143e0d89592fc1650a5_sx_33614_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f6155fe806fdb7737bfa355b930ae723_sx_50778_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_05ad47af162476d2e7031e4482450672_sx_54870_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5ac8ddbf9e1670609624f9b43a253b6e_sx_70234_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9ecc548d391dcbde941e0396eb226daa_sx_29678_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9ecc548d391dcbde941e0396eb226daa_sx_29678_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ce16e5c95905f143e0d89592fc1650a5_sx_33614_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f6155fe806fdb7737bfa355b930ae723_sx_50778_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_05ad47af162476d2e7031e4482450672_sx_54870_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5ac8ddbf9e1670609624f9b43a253b6e_sx_70234_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9ecc548d391dcbde941e0396eb226daa_sx_29678_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -10650,9 +11776,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '161000',
-      ts: '20240519020225',
+      ts: '20240521043102',
       gmtCreate: '2024-04-18 12:21:04',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 04:31:02',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -10664,10 +11790,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '180',
+      productNum: 'DT176',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 04:30:49',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10688,7 +11814,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679401362661179620',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10700,7 +11826,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -10730,9 +11856,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80499',
-      ts: '20240519020225',
+      ts: '20240521030542',
       gmtCreate: '2024-04-18 12:19:33',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 03:05:42',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -10744,10 +11870,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '119',
+      productNum: 'DT119',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:12',
+      updateTime: '2024-05-21 03:05:29',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10768,7 +11894,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679401154380431683',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10780,7 +11906,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -10794,7 +11920,7 @@ export const productList = {
       productId: '3679400787236225480',
       shopId: '167267536',
       name: '夏季男孩薄款短裤儿童中大童宽松帅气休闲运动裤炸街卡通洋气潮款',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1b3dcbcda17b21f22a40fe8daefd5e4c_sx_90140_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_18ed19c328308d4b261c5cfd9a51e185_sx_70760_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_afcf557c09fb6e507ebb4ce1243c8e82_sx_87446_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_84011d4c57cc6399004b3b9f549941e5_sx_104928_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ede1c297b279f5ec37a790150a466361_sx_23152_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1b3dcbcda17b21f22a40fe8daefd5e4c_sx_90140_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_18ed19c328308d4b261c5cfd9a51e185_sx_70760_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_afcf557c09fb6e507ebb4ce1243c8e82_sx_87446_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_84011d4c57cc6399004b3b9f549941e5_sx_104928_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ede1c297b279f5ec37a790150a466361_sx_23152_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1b3dcbcda17b21f22a40fe8daefd5e4c_sx_90140_www800-800',
       discountPrice: '3990',
       marketPrice: '3990',
@@ -10810,9 +11936,9 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '39947',
-      ts: '20240512162826',
+      ts: '20240521043142',
       gmtCreate: '2024-04-18 12:23:49',
-      gmtModified: '2024-05-12 16:28:26',
+      gmtModified: '2024-05-21 04:31:42',
       categoryPath: '童装/婴儿装/亲子装>裤子>儿童运动裤',
       site: '',
       source: 'toutiaomall',
@@ -10824,10 +11950,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '181',
+      productNum: 'DK005',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:34',
+      updateTime: '2024-05-21 04:31:29',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10848,7 +11974,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679400787236225480',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10860,7 +11986,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-19 07:37:29',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -10890,19 +12016,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020224',
+      ts: '20240521005245',
       gmtCreate: '2024-04-17 16:48:16',
-      gmtModified: '2024-05-19 02:02:24',
+      gmtModified: '2024-05-21 00:52:45',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '92',
+      productNum: 'DT092',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:10',
+      updateTime: '2024-05-21 00:52:30',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -10923,7 +12049,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679375369762373917',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -10935,7 +12061,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -11001,7 +12127,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679269423413330018',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11013,7 +12139,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11042,10 +12168,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160979',
-      ts: '20240520045649',
+      stock: '160978',
+      ts: '20240521205307',
       gmtCreate: '2024-04-17 16:09:51',
-      gmtModified: '2024-05-20 04:57:04',
+      gmtModified: '2024-05-21 20:53:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11060,7 +12186,7 @@ export const productList = {
       productNum: 'DT029',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 12:25:48',
+      updateTime: '2024-05-21 19:46:15',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11081,7 +12207,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679269129258401871',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11093,7 +12219,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11122,10 +12248,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48920',
-      ts: '20240519020225',
+      stock: '48913',
+      ts: '20240521205307',
       gmtCreate: '2024-04-17 16:11:36',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 20:53:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11140,7 +12266,7 @@ export const productList = {
       productNum: 'DT024',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:10',
+      updateTime: '2024-05-21 18:16:23',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11161,7 +12287,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679268863121424479',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11173,7 +12299,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11187,7 +12313,7 @@ export const productList = {
       productId: '3679268457070854243',
       shopId: '167267536',
       name: '2024新款100%纯棉童装T恤夏季男孩短袖中大童男上衣醒狮中国风ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85e5400a2b6f76e7e46440e38e8aa220_sx_150161_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fec9afec08c10572e6b0e48bfa047296_sx_123619_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_938e2eb6ddbf065002c444c5055b3eed_sx_130043_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e9474bfae6fad059d3ac662e6f396053_sx_131839_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4bab4412a9782fed041655c74c7c7152_sx_124293_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85e5400a2b6f76e7e46440e38e8aa220_sx_150161_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fec9afec08c10572e6b0e48bfa047296_sx_123619_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_938e2eb6ddbf065002c444c5055b3eed_sx_130043_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e9474bfae6fad059d3ac662e6f396053_sx_131839_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_4bab4412a9782fed041655c74c7c7152_sx_124293_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_85e5400a2b6f76e7e46440e38e8aa220_sx_150161_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -11202,10 +12328,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '321934',
-      ts: '20240519020224',
+      stock: '321932',
+      ts: '20240521205307',
       gmtCreate: '2024-04-17 16:23:59',
-      gmtModified: '2024-05-19 02:02:24',
+      gmtModified: '2024-05-21 20:53:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11220,7 +12346,7 @@ export const productList = {
       productNum: 'DT008',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:10',
+      updateTime: '2024-05-21 17:24:19',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11241,7 +12367,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679268457070854243',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11253,7 +12379,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11267,7 +12393,7 @@ export const productList = {
       productId: '3679267870908481778',
       shopId: '167267536',
       name: '100%纯棉童装短袖t恤2024新款夏季宽松中大童男孩网红潮款洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85f426a1dca5bc823ec7f5a8bb480a0e_sx_854198_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ed886f6b5c7d13f65ddba7c235092fc3_sx_835012_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1d840951ec36d810715732daf3cab661_sx_373580_www1418-1418","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0472421d19babe24126b398c0e5785fd_sx_436354_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e30e03aa00b66acfa894c094fe6ecc0a_sx_461254_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85f426a1dca5bc823ec7f5a8bb480a0e_sx_854198_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ed886f6b5c7d13f65ddba7c235092fc3_sx_835012_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1d840951ec36d810715732daf3cab661_sx_373580_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0472421d19babe24126b398c0e5785fd_sx_436354_www1418-1418","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e30e03aa00b66acfa894c094fe6ecc0a_sx_461254_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_85f426a1dca5bc823ec7f5a8bb480a0e_sx_854198_www1418-1418',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -11283,9 +12409,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48988',
-      ts: '20240519020224',
+      ts: '20240521005318',
       gmtCreate: '2024-04-17 16:26:15',
-      gmtModified: '2024-05-19 02:02:25',
+      gmtModified: '2024-05-21 00:53:18',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11297,10 +12423,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '95',
+      productNum: 'DT095',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:10',
+      updateTime: '2024-05-21 00:53:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11321,7 +12447,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679267870908481778',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11333,7 +12459,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11401,7 +12527,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679267134254481621',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11413,7 +12539,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11443,9 +12569,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160999',
-      ts: '20240519020220',
+      ts: '20240521030607',
       gmtCreate: '2024-04-17 15:53:24',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 03:06:07',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11457,10 +12583,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '120',
+      productNum: 'DT120',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 03:05:52',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11481,7 +12607,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679266766984446177',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11493,7 +12619,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11507,8 +12633,8 @@ export const productList = {
       productId: '3679265665409220924',
       shopId: '167267536',
       name: '2024新款男童纯棉T恤短袖半袖中大童夏季休闲宽松童装日系洋气ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_724b2780eceb9b04612a951fcaf44c9e_sx_267665_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_586ebd2e467319f2641465dad88c5e25_sx_254060_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_15fa92b1040b2b0bf0e36a6a816b0101_sx_463539_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e78178d9d50143593bec9414279bf8b1_sx_259975_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bb61c493ab48ed5cf9b48550a8340d03_sx_453962_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_724b2780eceb9b04612a951fcaf44c9e_sx_267665_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_724b2780eceb9b04612a951fcaf44c9e_sx_267665_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_586ebd2e467319f2641465dad88c5e25_sx_254060_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_15fa92b1040b2b0bf0e36a6a816b0101_sx_463539_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e78178d9d50143593bec9414279bf8b1_sx_259975_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bb61c493ab48ed5cf9b48550a8340d03_sx_453962_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_724b2780eceb9b04612a951fcaf44c9e_sx_267665_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -11523,9 +12649,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160991',
-      ts: '20240519020220',
+      ts: '20240521005257',
       gmtCreate: '2024-04-17 15:54:47',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 00:52:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11537,10 +12663,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '93',
+      productNum: 'DT093',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 00:52:44',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11561,7 +12687,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679265665409220924',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11573,7 +12699,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11587,8 +12713,8 @@ export const productList = {
       productId: '3679264952587256207',
       shopId: '167267536',
       name: '【24爆款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩国风可爱ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c745cc92fcbb9ca2f62f8aa01dd89e7_sx_1660147_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d5d89c24aaa9ff93bc67042b3692bebf_sx_2077422_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_49953722446943246807c938cc3d7c79_sx_1795250_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1787eaf93a7eae4d35534426c8497cd5_sx_1602609_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_944c7b46555e03b66986b1b63e041612_sx_1181888_www1200-1200"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5c745cc92fcbb9ca2f62f8aa01dd89e7_sx_1660147_www1500-1500',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c745cc92fcbb9ca2f62f8aa01dd89e7_sx_1660147_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d5d89c24aaa9ff93bc67042b3692bebf_sx_2077422_www1500-1500","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_49953722446943246807c938cc3d7c79_sx_1795250_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1787eaf93a7eae4d35534426c8497cd5_sx_1602609_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_944c7b46555e03b66986b1b63e041612_sx_1181888_www1200-1200"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5c745cc92fcbb9ca2f62f8aa01dd89e7_sx_1660147_www1500-1500',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -11602,10 +12728,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48991',
-      ts: '20240519020220',
+      stock: '48990',
+      ts: '20240521235339',
       gmtCreate: '2024-04-17 15:57:40',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 23:53:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11620,7 +12746,7 @@ export const productList = {
       productNum: 'DT042',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 21:08:33',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11641,7 +12767,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679264952587256207',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11653,7 +12779,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11667,7 +12793,7 @@ export const productList = {
       productId: '3679262401326350349',
       shopId: '167267536',
       name: '100%纯棉2024新款童装短袖t恤衫中大童男夏季休闲宽松韩版潮款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5bd8ca249e2cc32fc5d7fc597ec7730_sx_96574_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1355aa756f403096781fd1556b2dce8c_sx_76173_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1bd98c93db2e405742387b494076415e_sx_105703_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_988b0ae9df787e236fac2b92bd574116_sx_106276_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1e91ca3cc5af267c7ec271fe02d623a5_sx_79139_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a5bd8ca249e2cc32fc5d7fc597ec7730_sx_96574_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1355aa756f403096781fd1556b2dce8c_sx_76173_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1bd98c93db2e405742387b494076415e_sx_105703_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_988b0ae9df787e236fac2b92bd574116_sx_106276_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1e91ca3cc5af267c7ec271fe02d623a5_sx_79139_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a5bd8ca249e2cc32fc5d7fc597ec7730_sx_96574_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -11682,10 +12808,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '80473',
-      ts: '20240520045649',
+      stock: '80472',
+      ts: '20240521205307',
       gmtCreate: '2024-04-17 16:28:04',
-      gmtModified: '2024-05-20 04:57:04',
+      gmtModified: '2024-05-21 20:53:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'authDd',
@@ -11700,7 +12826,7 @@ export const productList = {
       productNum: 'DT036',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 13:24:02',
+      updateTime: '2024-05-21 07:02:25',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11721,7 +12847,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679262401326350349',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11733,7 +12859,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-18 08:08:39',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11747,7 +12873,7 @@ export const productList = {
       productId: '3679156188882272295',
       shopId: '167267536',
       name: '100%纯棉2024新款童装男童短袖t恤儿童上衣夏季中大童夏款男孩ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f005b65728e2bdf42d37dcf9a93e245_sx_166285_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0de3aafe5bb81e0520b59507ab1c1e4e_sx_142285_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_52b8d81bad28e97c7459209c8ecbfcc6_sx_144369_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef0d6775e0f2a6607792ee5926d750c8_sx_133977_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b978dfbfaf275fce4cb2220668cb8675_sx_144143_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7f005b65728e2bdf42d37dcf9a93e245_sx_166285_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0de3aafe5bb81e0520b59507ab1c1e4e_sx_142285_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_52b8d81bad28e97c7459209c8ecbfcc6_sx_144369_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef0d6775e0f2a6607792ee5926d750c8_sx_133977_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b978dfbfaf275fce4cb2220668cb8675_sx_144143_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7f005b65728e2bdf42d37dcf9a93e245_sx_166285_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -11762,10 +12888,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160977',
-      ts: '20240520045649',
+      stock: '160974',
+      ts: '20240521205307',
       gmtCreate: '2024-04-16 13:30:42',
-      gmtModified: '2024-05-20 04:57:04',
+      gmtModified: '2024-05-21 20:53:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11780,7 +12906,7 @@ export const productList = {
       productNum: 'DT035',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 16:21:08',
+      updateTime: '2024-05-21 13:01:06',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11801,7 +12927,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679156188882272295',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11813,7 +12939,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11827,7 +12953,7 @@ export const productList = {
       productId: '3679155744286048475',
       shopId: '167267536',
       name: '100%纯棉2024新款童装男童短袖t恤儿童上衣夏季中大童夏款男孩ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72441625e93f797bb5cc2955a3cff198_sx_77236_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4d045533d2f4064907fb437110f063a_sx_41632_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bdd1c1ce1600e1d73e7f5543f44fa82d_sx_69638_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_79c4d62ed5a79bdbd0980704054bc2a4_sx_53726_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8f9ca115c85bb9edfd0e0fb1646e5af4_sx_26892_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_72441625e93f797bb5cc2955a3cff198_sx_77236_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4d045533d2f4064907fb437110f063a_sx_41632_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bdd1c1ce1600e1d73e7f5543f44fa82d_sx_69638_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_79c4d62ed5a79bdbd0980704054bc2a4_sx_53726_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8f9ca115c85bb9edfd0e0fb1646e5af4_sx_26892_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_72441625e93f797bb5cc2955a3cff198_sx_77236_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -11843,9 +12969,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80494',
-      ts: '20240519020220',
+      ts: '20240521004547',
       gmtCreate: '2024-04-16 13:33:07',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 00:45:47',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -11857,10 +12983,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '71',
+      productNum: 'DT071',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 00:45:35',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11881,7 +13007,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679155744286048475',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11893,7 +13019,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -11922,20 +13048,20 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160996',
-      ts: '20240520045649',
+      stock: '160995',
+      ts: '20240521235339',
       gmtCreate: '2024-04-16 13:41:35',
-      gmtModified: '2024-05-20 04:57:04',
+      gmtModified: '2024-05-21 23:53:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '182',
+      productNum: 'DT177',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 21:58:30',
+      updateTime: '2024-05-21 22:18:34',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -11956,7 +13082,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679077797164351564',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -11968,7 +13094,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12029,7 +13155,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679077436429041930',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12041,7 +13167,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12068,20 +13194,20 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160990',
-      ts: '20240520032108',
+      stock: '160989',
+      ts: '20240521030819',
       gmtCreate: '2024-04-16 13:35:41',
-      gmtModified: '2024-05-20 03:21:08',
+      gmtModified: '2024-05-21 03:08:19',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '121',
+      productNum: 'DT121',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 03:08:04',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12102,7 +13228,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679076319561384377',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12114,7 +13240,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12126,8 +13252,8 @@ export const productList = {
       productId: '3679052823976345865',
       shopId: '167267536',
       name: '2024新款100%纯棉童装男童短袖T恤儿童上衣夏季中大童夏款男孩ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef4b2feaa8deaf129beff9c05a0e2297_sx_127209_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a908a00d921436c41b487dd5fdf89a33_sx_115820_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3d27941d8a855c40dce8b97287db2fca_sx_107151_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ebcfa533f385d9004a4718b667329651_sx_111387_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_440ba21bbca31bb28162a69b0601c44b_sx_103293_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_ef4b2feaa8deaf129beff9c05a0e2297_sx_127209_www800-800',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ef4b2feaa8deaf129beff9c05a0e2297_sx_127209_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a908a00d921436c41b487dd5fdf89a33_sx_115820_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3d27941d8a855c40dce8b97287db2fca_sx_107151_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ebcfa533f385d9004a4718b667329651_sx_111387_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_440ba21bbca31bb28162a69b0601c44b_sx_103293_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_ef4b2feaa8deaf129beff9c05a0e2297_sx_127209_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -12141,10 +13267,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '115455',
-      ts: '20240520045649',
+      stock: '115454',
+      ts: '20240521003843',
       gmtCreate: '2024-04-16 05:17:28',
-      gmtModified: '2024-05-20 04:57:05',
+      gmtModified: '2024-05-21 00:38:56',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12159,7 +13285,7 @@ export const productList = {
       productNum: 'DT055',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 09:44:14',
+      updateTime: '2024-05-20 20:45:09',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12180,7 +13306,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679052823976345865',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12192,7 +13318,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -12206,7 +13332,7 @@ export const productList = {
       productId: '3679052452495229243',
       shopId: '167267536',
       name: '2024新款100%纯棉中大童女短袖t恤时尚网红洋气夏季宽松中长款ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9671fe7b7fdc8d78cb30d0d0eec69f70_sx_105737_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d7344514582176c978fbf81ccccfee18_sx_119086_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_19c2930427435dbce50dfb13b813ea85_sx_136468_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c5dc0fb8bedb931fa06ae0073914602f_sx_150282_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_392f9c72a3ea01ce0a015b8fa0bfd597_sx_345095_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9671fe7b7fdc8d78cb30d0d0eec69f70_sx_105737_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d7344514582176c978fbf81ccccfee18_sx_119086_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_19c2930427435dbce50dfb13b813ea85_sx_136468_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c5dc0fb8bedb931fa06ae0073914602f_sx_150282_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_392f9c72a3ea01ce0a015b8fa0bfd597_sx_345095_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9671fe7b7fdc8d78cb30d0d0eec69f70_sx_105737_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -12221,10 +13347,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '71811',
-      ts: '20240519020220',
+      stock: '71808',
+      ts: '20240521235339',
       gmtCreate: '2024-04-16 05:17:28',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 23:53:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12239,7 +13365,7 @@ export const productList = {
       productNum: 'DT011',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 23:02:09',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12260,7 +13386,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679052452495229243',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12272,7 +13398,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -12286,8 +13412,8 @@ export const productList = {
       productId: '3679051990786245029',
       shopId: '167267536',
       name: '2024新款100%纯棉童装男童短袖T恤儿童上衣夏季中大童夏款男孩ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b61e0b83b806f9948c29d66b716e408c_sx_341854_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7c6855ca9def99a96d6ce6fd946ade16_sx_341500_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0f570d41a9be0a7844b4d5358bad93ef_sx_315591_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5412c66a58e3afd9d63bb55f296c0bd9_sx_313659_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6638ffce4f2e7da7589a86dbd3758f25_sx_295448_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b61e0b83b806f9948c29d66b716e408c_sx_341854_www800-800',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b61e0b83b806f9948c29d66b716e408c_sx_341854_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7c6855ca9def99a96d6ce6fd946ade16_sx_341500_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0f570d41a9be0a7844b4d5358bad93ef_sx_315591_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5412c66a58e3afd9d63bb55f296c0bd9_sx_313659_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6638ffce4f2e7da7589a86dbd3758f25_sx_295448_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b61e0b83b806f9948c29d66b716e408c_sx_341854_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -12302,9 +13428,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '45500',
-      ts: '20240519020220',
+      ts: '20240521043733',
       gmtCreate: '2024-04-16 13:48:05',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 04:37:33',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12316,10 +13442,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '183',
+      productNum: 'DT178',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 04:37:21',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12340,7 +13466,7 @@ export const productList = {
       scoreInfo: {
         productId: '3679051990786245029',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12352,7 +13478,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -12366,8 +13492,8 @@ export const productList = {
       productId: '3678974011360018843',
       shopId: '167267536',
       name: '100%纯棉2024新款童装中大童T恤短袖夏季女孩上衣半袖夏装潮流ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3c878dd30f96b20841efeca4e556ab88_sx_2953705_www2072-2072","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fd4e88372546fc65b1c29ec00c51d946_sx_774491_www792-792","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1d6cde3a3a13e63bfb23773acd989b9a_sx_353736_www790-790","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_61289549a4695b76646c43bad58cfa4e_sx_722889_www900-900","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8e7bafb199c795670250e81d5e1c8599_sx_23491_www750-715"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_3c878dd30f96b20841efeca4e556ab88_sx_2953705_www2072-2072',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3c878dd30f96b20841efeca4e556ab88_sx_2953705_www2072-2072","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fd4e88372546fc65b1c29ec00c51d946_sx_774491_www792-792","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1d6cde3a3a13e63bfb23773acd989b9a_sx_353736_www790-790","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_61289549a4695b76646c43bad58cfa4e_sx_722889_www900-900","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8e7bafb199c795670250e81d5e1c8599_sx_23491_www750-715"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_3c878dd30f96b20841efeca4e556ab88_sx_2953705_www2072-2072',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -12382,19 +13508,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020220',
+      ts: '20240521030841',
       gmtCreate: '2024-04-15 15:27:18',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 03:08:41',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '122',
+      productNum: 'DT122',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 03:08:26',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12415,7 +13541,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678974011360018843',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12427,7 +13553,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12439,7 +13565,7 @@ export const productList = {
       productId: '3678896929674231881',
       shopId: '167267536',
       name: '100%纯棉2024新款童装女童中大童t恤短袖夏季女孩半袖夏装潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ac6112dc3a19c82086b28837c4d5687_sx_78424_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ebfb6f74936ba4d7de585aa345526128_sx_75326_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b998bed5ed618570d540c2a956d716f_sx_98436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c91c0147035a5c0847919a472f92dd6_sx_65496_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4fb09475c3336fcada5add688705797_sx_82278_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ac6112dc3a19c82086b28837c4d5687_sx_78424_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ebfb6f74936ba4d7de585aa345526128_sx_75326_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b998bed5ed618570d540c2a956d716f_sx_98436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8c91c0147035a5c0847919a472f92dd6_sx_65496_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4fb09475c3336fcada5add688705797_sx_82278_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_8ac6112dc3a19c82086b28837c4d5687_sx_78424_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -12455,9 +13581,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '161000',
-      ts: '20240519020220',
+      ts: '20240521043820',
       gmtCreate: '2024-04-15 15:30:52',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 04:38:20',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12469,10 +13595,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '184',
+      productNum: 'DT179',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 04:38:06',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12493,7 +13619,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678896929674231881',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12505,7 +13631,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -12534,10 +13660,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160917',
-      ts: '20240520045649',
+      stock: '160914',
+      ts: '20240521205307',
       gmtCreate: '2024-04-15 15:32:25',
-      gmtModified: '2024-05-20 04:57:05',
+      gmtModified: '2024-05-21 20:53:20',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12552,7 +13678,7 @@ export const productList = {
       productNum: 'DT009',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 12:12:43',
+      updateTime: '2024-05-21 12:15:00',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12615,19 +13741,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '161000',
-      ts: '20240519020220',
+      ts: '20240521043900',
       gmtCreate: '2024-04-15 15:38:11',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 04:39:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '185',
+      productNum: 'DT180',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:05',
+      updateTime: '2024-05-21 04:38:48',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12648,7 +13774,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678891434246799695',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12660,7 +13786,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12672,7 +13798,7 @@ export const productList = {
       productId: '3678890051267330456',
       shopId: '167267536',
       name: '100%纯棉2024新款童装女童中大童t恤短袖夏季女孩半袖夏装潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9e3c9b7e3ecd94ebd3c8432910b814bf_sx_968242_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a6b485b87b6832c959d368f45709e22e_sx_978524_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2d027baae6c19637dd4a2b1537e14786_sx_917107_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_379df03e486b0640494643b2a03e33b0_sx_964238_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_373a39c89b8a5264c9b775f594788e05_sx_514745_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9e3c9b7e3ecd94ebd3c8432910b814bf_sx_968242_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a6b485b87b6832c959d368f45709e22e_sx_978524_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2d027baae6c19637dd4a2b1537e14786_sx_917107_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_379df03e486b0640494643b2a03e33b0_sx_964238_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_373a39c89b8a5264c9b775f594788e05_sx_514745_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9e3c9b7e3ecd94ebd3c8432910b814bf_sx_968242_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -12688,19 +13814,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020220',
+      ts: '20240521043946',
       gmtCreate: '2024-04-15 15:39:10',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 04:39:46',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '186',
+      productNum: 'DT181',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:04',
+      updateTime: '2024-05-21 04:39:33',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12721,7 +13847,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678890051267330456',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12733,7 +13859,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12761,19 +13887,19 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '120000',
-      ts: '20240508213858',
+      ts: '20240521044012',
       gmtCreate: '2024-04-15 15:42:19',
-      gmtModified: '2024-05-08 21:38:58',
+      gmtModified: '2024-05-21 04:40:12',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '187',
+      productNum: 'ZC182',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-08 21:38:42',
+      updateTime: '2024-05-21 04:39:59',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12794,7 +13920,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678888307527385297',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12806,7 +13932,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-16 13:50:03',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -12818,7 +13944,7 @@ export const productList = {
       productId: '3678821426237931658',
       shopId: '167267536',
       name: '100%纯棉童装短袖t恤2024新款夏季宽松中大童男孩网红潮款洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5f3bc2e3bcb58812f7b554fe00f8f87b_sx_45486_www1024-1024","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_de587424423d62794b3245ffe16df48b_sx_43562_www850-850","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1228d2e5711de64b8a5a38a6d99403ea_sx_19572_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_19dd97765b284403eca3404538e7e186_sx_31160_www1024-1024","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13192c4a90598d7fe3240e9ca70557ba_sx_21727_www488-488"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5f3bc2e3bcb58812f7b554fe00f8f87b_sx_45486_www1024-1024","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_de587424423d62794b3245ffe16df48b_sx_43562_www850-850","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1228d2e5711de64b8a5a38a6d99403ea_sx_19572_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_19dd97765b284403eca3404538e7e186_sx_31160_www1024-1024","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13192c4a90598d7fe3240e9ca70557ba_sx_21727_www488-488"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5f3bc2e3bcb58812f7b554fe00f8f87b_sx_45486_www1024-1024',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -12834,9 +13960,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020220',
+      ts: '20240521005330',
       gmtCreate: '2024-04-14 17:27:35',
-      gmtModified: '2024-05-19 02:02:20',
+      gmtModified: '2024-05-21 00:53:30',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -12848,10 +13974,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '96',
+      productNum: 'DT096',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:02:04',
+      updateTime: '2024-05-21 00:53:17',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -12872,7 +13998,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678821426237931658',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12884,7 +14010,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-15 06:35:44',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -12947,7 +14073,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678700121194889406',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -12959,7 +14085,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -13025,7 +14151,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678698553649266823',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13037,7 +14163,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-15 06:35:44',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13051,7 +14177,7 @@ export const productList = {
       productId: '3678698225067491422',
       shopId: '167267536',
       name: '【100%棉 2024新款】短袖夏季女中大童休闲宽松时尚韩版潮款洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e78b5282f03592bf31298c21b1e3dbca_sx_463417_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13e4b8365c83ef1bd6022e8e296afb69_sx_286573_www1065-1065","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55858fa929b8919956657ad7f2330438_sx_485912_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e97e44ed2a9a59c4288f75b1bb39721f_sx_494062_www700-700","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2afbeaa7a23b7c46d4fedc0fc59831ad_sx_119309_www790-790"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e78b5282f03592bf31298c21b1e3dbca_sx_463417_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_13e4b8365c83ef1bd6022e8e296afb69_sx_286573_www1065-1065","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55858fa929b8919956657ad7f2330438_sx_485912_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e97e44ed2a9a59c4288f75b1bb39721f_sx_494062_www700-700","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2afbeaa7a23b7c46d4fedc0fc59831ad_sx_119309_www790-790"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e78b5282f03592bf31298c21b1e3dbca_sx_463417_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -13066,10 +14192,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '80498',
-      ts: '20240519020211',
+      stock: '80497',
+      ts: '20240521003843',
       gmtCreate: '2024-04-14 16:37:58',
-      gmtModified: '2024-05-19 02:02:11',
+      gmtModified: '2024-05-21 00:38:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13084,7 +14210,7 @@ export const productList = {
       productNum: 'DT123',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:57',
+      updateTime: '2024-05-20 14:45:44',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13105,7 +14231,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678698225067491422',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13117,7 +14243,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-15 06:35:44',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13131,7 +14257,7 @@ export const productList = {
       productId: '3678698021132042557',
       shopId: '167267536',
       name: '100%纯棉童装短袖t恤2024新款夏季宽松中大童男孩网红潮款洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_819ac6e6156360b93b319890e7df5fda_sx_340283_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_baea9b963b51ae5a7d8978fad160e700_sx_466120_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88485a18dc7da0802c09f7d8b923fe42_sx_462925_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5abe0f20681bb280bbd3548a415e24fa_sx_491529_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf6ace9cc97f077919b5e4e5ff7601cf_sx_141779_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_819ac6e6156360b93b319890e7df5fda_sx_340283_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_baea9b963b51ae5a7d8978fad160e700_sx_466120_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88485a18dc7da0802c09f7d8b923fe42_sx_462925_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5abe0f20681bb280bbd3548a415e24fa_sx_491529_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bf6ace9cc97f077919b5e4e5ff7601cf_sx_141779_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_819ac6e6156360b93b319890e7df5fda_sx_340283_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -13147,9 +14273,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '80457',
-      ts: '20240520045649',
+      ts: '20240521235339',
       gmtCreate: '2024-04-14 15:15:57',
-      gmtModified: '2024-05-20 04:57:05',
+      gmtModified: '2024-05-21 23:53:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13164,7 +14290,7 @@ export const productList = {
       productNum: 'DT018',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 13:08:00',
+      updateTime: '2024-05-21 20:59:01',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13185,7 +14311,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678698021132042557',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13197,7 +14323,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-15 06:35:44',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13211,8 +14337,8 @@ export const productList = {
       productId: '3678518869481357362',
       shopId: '167267536',
       name: '2024新款100%纯棉童装T恤夏季男孩短袖中大童男上衣中国风潮流ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_20c3a8fe0c542a2f514d82c9f83065bc_sx_893880_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_301583defe402ebc9be3e3b16d3f761a_sx_343299_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ac61f3681fa079716dc18ece797f172d_sx_710744_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_acf2d0efb1429e57a0ac95878a66020a_sx_788822_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e045eec30006671fef94df7234fe200d_sx_806680_www1200-1200"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_20c3a8fe0c542a2f514d82c9f83065bc_sx_893880_www1200-1200',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_20c3a8fe0c542a2f514d82c9f83065bc_sx_893880_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_301583defe402ebc9be3e3b16d3f761a_sx_343299_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ac61f3681fa079716dc18ece797f172d_sx_710744_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_acf2d0efb1429e57a0ac95878a66020a_sx_788822_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e045eec30006671fef94df7234fe200d_sx_806680_www1200-1200"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_20c3a8fe0c542a2f514d82c9f83065bc_sx_893880_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -13227,9 +14353,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48973',
-      ts: '20240519020211',
+      ts: '20240521005344',
       gmtCreate: '2024-04-13 13:23:08',
-      gmtModified: '2024-05-19 02:02:11',
+      gmtModified: '2024-05-21 00:53:44',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13241,10 +14367,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '97',
+      productNum: 'DT097',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:57',
+      updateTime: '2024-05-21 00:53:29',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13265,7 +14391,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678518869481357362',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13277,7 +14403,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13306,10 +14432,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48763',
-      ts: '20240520045649',
+      stock: '48762',
+      ts: '20240521003843',
       gmtCreate: '2024-04-13 13:20:25',
-      gmtModified: '2024-05-20 04:57:06',
+      gmtModified: '2024-05-21 00:38:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13324,7 +14450,7 @@ export const productList = {
       productNum: 'ZC023',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 19:02:08',
+      updateTime: '2024-05-20 13:23:49',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13345,7 +14471,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678517604437327938',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13357,7 +14483,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13386,10 +14512,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48734',
-      ts: '20240520045649',
+      stock: '48732',
+      ts: '20240521205307',
       gmtCreate: '2024-04-13 13:25:20',
-      gmtModified: '2024-05-20 04:57:06',
+      gmtModified: '2024-05-21 20:53:20',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13404,7 +14530,7 @@ export const productList = {
       productNum: 'DT048',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 06:22:51',
+      updateTime: '2024-05-21 09:49:01',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13425,7 +14551,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678517114819444956',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13437,7 +14563,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13467,9 +14593,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48823',
-      ts: '20240519020155',
+      ts: '20240521030900',
       gmtCreate: '2024-04-13 13:27:13',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 03:09:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13481,10 +14607,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '124',
+      productNum: 'DT124',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:41',
+      updateTime: '2024-05-21 03:08:48',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13505,7 +14631,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678516264399143196',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13517,7 +14643,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13547,9 +14673,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48853',
-      ts: '20240519020155',
+      ts: '20240521004603',
       gmtCreate: '2024-04-13 13:34:19',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 00:46:03',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13561,10 +14687,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '72',
+      productNum: 'DT072',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:38',
+      updateTime: '2024-05-21 00:45:49',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13585,7 +14711,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678515646041293080',
         shopId: '167267536',
-        taskId: '369678604',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13597,7 +14723,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-04-29 05:22:58'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13665,7 +14791,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678514812800860521',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13677,7 +14803,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-14 07:42:53',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13691,7 +14817,7 @@ export const productList = {
       productId: '3678513981632414074',
       shopId: '167267536',
       name: '100%纯棉男童装t恤15岁夏款宽松短袖儿童中大童洋气炸街韩版潮ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b798df2fdfb9eccc32d405e0f7d0ad6_sx_380008_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_24554a5ace5810b86bc678e9cd4c88eb_sx_531593_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_05235d29922f10a922de2e6f0f6cab90_sx_402267_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_129d2bef9255ab4e5b4ab5da207a8b91_sx_416768_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a36764de4961bdae07bfd1e34a83080e_sx_157474_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6b798df2fdfb9eccc32d405e0f7d0ad6_sx_380008_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_24554a5ace5810b86bc678e9cd4c88eb_sx_531593_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_05235d29922f10a922de2e6f0f6cab90_sx_402267_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_129d2bef9255ab4e5b4ab5da207a8b91_sx_416768_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a36764de4961bdae07bfd1e34a83080e_sx_157474_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_6b798df2fdfb9eccc32d405e0f7d0ad6_sx_380008_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -13706,10 +14832,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '24405',
-      ts: '20240520010332',
+      stock: '24404',
+      ts: '20240521003843',
       gmtCreate: '2024-04-13 13:39:13',
-      gmtModified: '2024-05-20 01:03:32',
+      gmtModified: '2024-05-21 00:38:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13724,7 +14850,7 @@ export const productList = {
       productNum: 'DT013',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 13:24:57',
+      updateTime: '2024-05-20 07:05:42',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13771,7 +14897,7 @@ export const productList = {
       productId: '3678430552085626920',
       shopId: '167267536',
       name: '2024新款100%纯棉童装T恤夏季男孩叮当猫短袖半袖中大童男上衣ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_39199a805c81d6756af1a3fd5a8bccbb_sx_628486_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b59921eda1e3b729f47f970fa7b05507_sx_517660_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cbf019cc63d2741e12ef3f3135b70d79_sx_185742_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9cde549d420225303a575b4efa7556ac_sx_230075_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_30e8869404907812b9876ec976541999_sx_457052_www1000-1000"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_39199a805c81d6756af1a3fd5a8bccbb_sx_628486_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b59921eda1e3b729f47f970fa7b05507_sx_517660_www1200-1200","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cbf019cc63d2741e12ef3f3135b70d79_sx_185742_www760-760","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9cde549d420225303a575b4efa7556ac_sx_230075_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_30e8869404907812b9876ec976541999_sx_457052_www1000-1000"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_39199a805c81d6756af1a3fd5a8bccbb_sx_628486_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -13787,9 +14913,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '48992',
-      ts: '20240519020155',
+      ts: '20240521030917',
       gmtCreate: '2024-04-12 15:06:05',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 03:09:17',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13801,10 +14927,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '125',
+      productNum: 'DT125',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:38',
+      updateTime: '2024-05-21 03:09:01',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13825,7 +14951,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678430552085626920',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13837,7 +14963,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-13 05:18:05',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13851,7 +14977,7 @@ export const productList = {
       productId: '3678430552026906787',
       shopId: '167267536',
       name: '2024新款100%纯棉童装T恤夏季男孩短袖中大童男上衣醒狮中国风ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e5e6e0deb8ecfea5fa56f75a0bc31fec_sx_103490_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_caf6baa6950d194fc7ae2bb4847f2424_sx_111034_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9203b6d90a239255cf1225887076aad6_sx_83894_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_59db5ac0517e3bafebc301cac7294e73_sx_49436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4c2cc50d898e77273efa328f0ee3f89_sx_32104_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e5e6e0deb8ecfea5fa56f75a0bc31fec_sx_103490_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_caf6baa6950d194fc7ae2bb4847f2424_sx_111034_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9203b6d90a239255cf1225887076aad6_sx_83894_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_59db5ac0517e3bafebc301cac7294e73_sx_49436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e4c2cc50d898e77273efa328f0ee3f89_sx_32104_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_e5e6e0deb8ecfea5fa56f75a0bc31fec_sx_103490_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -13866,10 +14992,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48995',
-      ts: '20240519020155',
+      stock: '48994',
+      ts: '20240521005356',
       gmtCreate: '2024-04-12 15:08:09',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 00:53:56',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13881,10 +15007,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '98',
+      productNum: 'DT098',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:38',
+      updateTime: '2024-05-21 00:53:41',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13905,7 +15031,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678430552026906787',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13917,7 +15043,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-13 05:18:05',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -13931,9 +15057,9 @@ export const productList = {
       productId: '3678430519638491720',
       shopId: '167267536',
       name: '24款100%纯棉童装女童T恤短袖夏季儿童中大童上衣半袖时尚百搭ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_94b161dc6c0ea1422bbf14549a9eb4a6_sx_98902_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c35b49883b4c6ad9070a08504aff8f4_sx_60642_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3106b99c39893d49c826dcec245127a7_sx_65744_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bd4a84a1ea67fbb69445122e0ddba7c7_sx_45152_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_889c8b07072fe201577f6e2d0edc746a_sx_18930_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_94b161dc6c0ea1422bbf14549a9eb4a6_sx_98902_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5c35b49883b4c6ad9070a08504aff8f4_sx_60642_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3106b99c39893d49c826dcec245127a7_sx_65744_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bd4a84a1ea67fbb69445122e0ddba7c7_sx_45152_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_889c8b07072fe201577f6e2d0edc746a_sx_18930_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_94b161dc6c0ea1422bbf14549a9eb4a6_sx_98902_www800-800',
-      discountPrice: '2990',
+      discountPrice: '3990',
       marketPrice: '3990',
       thirdCid: '20592',
       mobile: '17876374525',
@@ -13943,13 +15069,13 @@ export const productList = {
       payType: '1',
       isCreate: '0',
       createTime: '2024-04-12 14:28:38',
-      skuMinPrice: '2990',
+      skuMinPrice: '3990',
       skuMaxPrice: '3990',
       recommendRemark: '',
-      stock: '24494',
-      ts: '20240520045649',
+      stock: '19994',
+      ts: '20240521031729',
       gmtCreate: '2024-04-12 15:28:12',
-      gmtModified: '2024-05-20 04:57:06',
+      gmtModified: '2024-05-21 03:17:29',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -13961,10 +15087,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '126',
+      productNum: 'ZC126',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 17:24:43',
+      updateTime: '2024-05-21 03:17:14',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -13979,13 +15105,13 @@ export const productList = {
       minimumPerOrder: '1',
       deliveryDelayDay: '2',
       presellDelay: '0',
-      sizeInfoTemplateId: '7355059189959885067',
+      sizeInfoTemplateId: '7359485513662791977',
       mainProductId: '',
       namePrefix: '',
       scoreInfo: {
         productId: '3678430519638491720',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -13997,7 +15123,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-13 05:18:05',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14011,7 +15137,7 @@ export const productList = {
       productId: '3678335993884311699',
       shopId: '167267536',
       name: '【2024新款】100%纯棉童装女童T恤短袖夏季女孩上衣半袖夏装潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b775c3654f19f97ba2fe851580e76512_sx_1239954_www810-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_47ee868a5a0236b1c66d3c180b482f77_sx_1419805_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_221733edddd5e76a55b62e974a222fe1_sx_1308675_www810-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6444326476e36104204f99ca96aae0ae_sx_1354326_www810-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_47e1c2b243923a1486ec67a4a6601472_sx_2126782_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b775c3654f19f97ba2fe851580e76512_sx_1239954_www810-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_47ee868a5a0236b1c66d3c180b482f77_sx_1419805_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_221733edddd5e76a55b62e974a222fe1_sx_1308675_www810-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6444326476e36104204f99ca96aae0ae_sx_1354326_www810-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_47e1c2b243923a1486ec67a4a6601472_sx_2126782_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b775c3654f19f97ba2fe851580e76512_sx_1239954_www810-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -14027,19 +15153,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '14000',
-      ts: '20240519020155',
+      ts: '20240521044037',
       gmtCreate: '2024-04-12 15:22:00',
-      gmtModified: '2024-05-19 02:01:55',
+      gmtModified: '2024-05-21 04:40:37',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '188',
+      productNum: 'DT183',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:38',
+      updateTime: '2024-05-21 04:40:24',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14060,7 +15186,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678335993884311699',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14072,7 +15198,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-13 05:18:05',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -14133,7 +15259,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678333636056318161',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14145,7 +15271,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-13 05:18:05',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -14290,7 +15416,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678246207601377416',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14302,7 +15428,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14369,7 +15495,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678246130451349742',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14381,7 +15507,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14448,7 +15574,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678245995109548257',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14460,7 +15586,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14473,8 +15599,8 @@ export const productList = {
       productId: '3678245741823918315',
       shopId: '167267536',
       name: '【2024新款】100%纯棉童装T恤夏季男孩短袖半袖中大童男上衣韩版ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a16ef4cfaedb6982443cf9f9d34acf5e_sx_245092_www625-625","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e7bba27c6553e044e80f7b98d22013f6_sx_440968_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_35ee9dec06e58c6a7c04eeb0a773fe78_sx_191618_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fe0d7d8910066b15aa821888b8b7a20e_sx_639886_www1000-1000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3d19fb3eb84287b9e8d253b2ea9159cf_sx_459853_www750-750"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a16ef4cfaedb6982443cf9f9d34acf5e_sx_245092_www625-625',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a16ef4cfaedb6982443cf9f9d34acf5e_sx_245092_www625-625","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e7bba27c6553e044e80f7b98d22013f6_sx_440968_www1000-1000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_35ee9dec06e58c6a7c04eeb0a773fe78_sx_191618_www1000-1000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fe0d7d8910066b15aa821888b8b7a20e_sx_639886_www1000-1000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3d19fb3eb84287b9e8d253b2ea9159cf_sx_459853_www750-750"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a16ef4cfaedb6982443cf9f9d34acf5e_sx_245092_www625-625',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -14488,10 +15614,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '193777',
-      ts: '20240520045649',
+      stock: '193757',
+      ts: '20240521235339',
       gmtCreate: '2024-04-11 16:33:33',
-      gmtModified: '2024-05-20 04:57:06',
+      gmtModified: '2024-05-21 23:53:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -14506,7 +15632,7 @@ export const productList = {
       productNum: 'DT005',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 03:33:57',
+      updateTime: '2024-05-21 22:52:25',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14527,7 +15653,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678245741823918315',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14539,7 +15665,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14552,7 +15678,7 @@ export const productList = {
       productId: '3678245471081595232',
       shopId: '167267536',
       name: '【2024新款】100%纯棉童装T恤夏季男孩短袖半袖中大童男上衣韩版ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a16007070d4fadd597ec3f320b7f728_sx_244352_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2a24fd1dca063768a85acfdd22e0b4a0_sx_221257_www1300-1300","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_90b42068352c62ae5404c95b862e6e21_sx_230204_www1300-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7c42bb38b718d661b128ea9b61771961_sx_229586_www1300-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e36ad9f2a42eeaba18c9bf1fa50c9b14_sx_33795_www500-500"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a16007070d4fadd597ec3f320b7f728_sx_244352_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2a24fd1dca063768a85acfdd22e0b4a0_sx_221257_www1300-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_90b42068352c62ae5404c95b862e6e21_sx_230204_www1300-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7c42bb38b718d661b128ea9b61771961_sx_229586_www1300-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e36ad9f2a42eeaba18c9bf1fa50c9b14_sx_33795_www500-500"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_5a16007070d4fadd597ec3f320b7f728_sx_244352_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -14567,10 +15693,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '27998',
-      ts: '20240519020149',
+      stock: '27997',
+      ts: '20240521205307',
       gmtCreate: '2024-04-11 16:53:36',
-      gmtModified: '2024-05-19 02:01:49',
+      gmtModified: '2024-05-21 20:53:21',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -14582,10 +15708,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '73',
+      productNum: 'DT073',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:36',
+      updateTime: '2024-05-21 09:46:20',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14606,7 +15732,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678245471081595232',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14618,7 +15744,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14647,9 +15773,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '28000',
-      ts: '20240519020149',
+      ts: '20240521031810',
       gmtCreate: '2024-04-11 16:54:54',
-      gmtModified: '2024-05-19 02:01:49',
+      gmtModified: '2024-05-21 03:18:10',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: 'cs',
       source: '17zwd',
@@ -14661,10 +15787,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '127',
+      productNum: 'DT127',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:36',
+      updateTime: '2024-05-21 03:17:55',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14685,7 +15811,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678245423769846228',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14697,7 +15823,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-12 14:01:00',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14726,19 +15852,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '79800',
-      ts: '20240519020149',
+      ts: '20240521031825',
       gmtCreate: '2024-04-11 01:38:24',
-      gmtModified: '2024-05-19 02:01:49',
+      gmtModified: '2024-05-21 03:18:25',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '128',
+      productNum: 'DT128',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:36',
+      updateTime: '2024-05-21 03:18:12',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14759,7 +15885,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678128761695502684',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14771,7 +15897,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -14837,7 +15963,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678112831863128217',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14849,7 +15975,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14863,8 +15989,8 @@ export const productList = {
       productId: '3678111403836833928',
       shopId: '167267536',
       name: '【24爆款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩韩版洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0bd23e1da0f9ffc31248f55e06825534_sx_1536379_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_22d48e728f81cb18db6d01b37f1002e4_sx_94616_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9b5caa79a89d7511a63c8ab4dfb6859d_sx_1623688_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5fe08eecd659b85e3b1d6997163befad_sx_1388767_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a0ba15544aecc3f30b8dfb8a4c59ae6_sx_1691314_www1080-1080"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0bd23e1da0f9ffc31248f55e06825534_sx_1536379_www1080-1080',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0bd23e1da0f9ffc31248f55e06825534_sx_1536379_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_22d48e728f81cb18db6d01b37f1002e4_sx_94616_www750-750","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9b5caa79a89d7511a63c8ab4dfb6859d_sx_1623688_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5fe08eecd659b85e3b1d6997163befad_sx_1388767_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5a0ba15544aecc3f30b8dfb8a4c59ae6_sx_1691314_www1080-1080"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0bd23e1da0f9ffc31248f55e06825534_sx_1536379_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -14878,10 +16004,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48812',
-      ts: '20240520045649',
+      stock: '48811',
+      ts: '20240521004631',
       gmtCreate: '2024-04-10 21:40:39',
-      gmtModified: '2024-05-20 04:57:07',
+      gmtModified: '2024-05-21 00:46:31',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -14893,10 +16019,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '74',
+      productNum: 'DT074',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 12:32:26',
+      updateTime: '2024-05-21 00:46:18',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -14917,7 +16043,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678111403836833928',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -14929,7 +16055,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -14992,7 +16118,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678048834652602734',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15004,7 +16130,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15016,7 +16142,7 @@ export const productList = {
       productId: '3678048259168927792',
       shopId: '167267536',
       name: '【24新款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩韩版洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ffdf32c6739f1db3d0a29644ef9a50da_sx_183905_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7d0865ff09f6ad6ffe9e3ce4f8b21949_sx_163468_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d6e66a01cb1c365ba75956a0c4edcabb_sx_186520_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fdb20e1bb8a60bb4fa5da6fc7ad4a13e_sx_169547_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_38a27964ecc8155cff961ef56904c220_sx_185744_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ffdf32c6739f1db3d0a29644ef9a50da_sx_183905_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7d0865ff09f6ad6ffe9e3ce4f8b21949_sx_163468_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d6e66a01cb1c365ba75956a0c4edcabb_sx_186520_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fdb20e1bb8a60bb4fa5da6fc7ad4a13e_sx_169547_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_38a27964ecc8155cff961ef56904c220_sx_185744_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_ffdf32c6739f1db3d0a29644ef9a50da_sx_183905_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -15031,10 +16157,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '745963',
-      ts: '20240520022313',
+      stock: '745924',
+      ts: '20240521235339',
       gmtCreate: '2024-04-10 21:09:40',
-      gmtModified: '2024-05-20 02:23:13',
+      gmtModified: '2024-05-21 23:53:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -15044,7 +16170,7 @@ export const productList = {
       productNum: 'DT001',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 02:22:59',
+      updateTime: '2024-05-21 21:22:02',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15065,7 +16191,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678048259168927792',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15077,7 +16203,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-29 05:22:58',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15089,7 +16215,7 @@ export const productList = {
       productId: '3678047170294055051',
       shopId: '167267536',
       name: '2024新款男童纯棉T恤短袖半袖中大童夏季休闲宽松童装韩版洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_96843da1e6635246d70eee2487685b21_sx_242296_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bef0b31425f757a7e195396cbe340392_sx_100844_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5658c2bd9175a270780ad3376ae1f33e_sx_103591_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_735ec91ca2482a6efb4f00487888fe2b_sx_246412_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_312bcccce478118ecacf402d7aaf16e4_sx_196348_www1000-1000"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_96843da1e6635246d70eee2487685b21_sx_242296_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_bef0b31425f757a7e195396cbe340392_sx_100844_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_5658c2bd9175a270780ad3376ae1f33e_sx_103591_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_735ec91ca2482a6efb4f00487888fe2b_sx_246412_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_312bcccce478118ecacf402d7aaf16e4_sx_196348_www1000-1000"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_96843da1e6635246d70eee2487685b21_sx_242296_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -15105,19 +16231,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160976',
-      ts: '20240519020148',
+      ts: '20240521012746',
       gmtCreate: '2024-04-10 21:09:41',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 01:27:46',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '102',
+      productNum: 'DT102',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 01:26:36',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15138,7 +16264,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678047170294055051',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15150,7 +16276,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15162,8 +16288,8 @@ export const productList = {
       productId: '3678046987757944966',
       shopId: '167267536',
       name: '【2024新款】100%纯棉T恤短袖半袖童装男中大童夏季宽松洋气韩版ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85bda1fcf90fae32fb777d37bfa120a1_sx_6312165_www3000-3000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3e67211c3d896e0d17d23684db5f9033_sx_7477394_www3000-3000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78e3cabb7198c397c4d745a15a2cc445_sx_7316570_www3000-3000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a8562569a1a861382babefa2403f316a_sx_4470326_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_22c1e826f945122fbfe56e43946e4843_sx_1065616_www1600-1600"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_85bda1fcf90fae32fb777d37bfa120a1_sx_6312165_www3000-3000',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_85bda1fcf90fae32fb777d37bfa120a1_sx_6312165_www3000-3000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3e67211c3d896e0d17d23684db5f9033_sx_7477394_www3000-3000","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78e3cabb7198c397c4d745a15a2cc445_sx_7316570_www3000-3000","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a8562569a1a861382babefa2403f316a_sx_4470326_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_22c1e826f945122fbfe56e43946e4843_sx_1065616_www1600-1600"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_85bda1fcf90fae32fb777d37bfa120a1_sx_6312165_www3000-3000',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -15177,10 +16303,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '160569',
-      ts: '20240520045649',
+      stock: '160566',
+      ts: '20240521205957',
       gmtCreate: '2024-04-10 21:09:40',
-      gmtModified: '2024-05-20 04:57:07',
+      gmtModified: '2024-05-21 20:59:57',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
@@ -15190,7 +16316,7 @@ export const productList = {
       productNum: 'DT033',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 21:50:34',
+      updateTime: '2024-05-21 13:49:11',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15211,7 +16337,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678046987757944966',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15223,7 +16349,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15235,8 +16361,8 @@ export const productList = {
       productId: '3678046966341828747',
       shopId: '167267536',
       name: '【24爆款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩韩版洋气ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b20926126db79d3a6297652064238345_sx_245731_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e860a0f3ae3053adf91157e1af651842_sx_246885_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78d6f139950d368736862547701d97fa_sx_255479_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ecd851787c27701e5971380cdd740e9_sx_241313_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55b8a0950980f1b8fb8ce8f5ca02b40d_sx_135676_www700-700"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b20926126db79d3a6297652064238345_sx_245731_www1080-1080',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b20926126db79d3a6297652064238345_sx_245731_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_e860a0f3ae3053adf91157e1af651842_sx_246885_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_78d6f139950d368736862547701d97fa_sx_255479_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8ecd851787c27701e5971380cdd740e9_sx_241313_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_55b8a0950980f1b8fb8ce8f5ca02b40d_sx_135676_www700-700"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_b20926126db79d3a6297652064238345_sx_245731_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -15251,19 +16377,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '118967',
-      ts: '20240519020148',
+      ts: '20240521005803',
       gmtCreate: '2024-04-10 21:09:40',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 00:58:03',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '101',
+      productNum: 'DT101',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 00:57:47',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15284,7 +16410,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678046966341828747',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15296,7 +16422,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15324,19 +16450,19 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '160998',
-      ts: '20240519020148',
+      ts: '20240521032358',
       gmtCreate: '2024-04-10 21:09:41',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 03:23:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       isBeautify: 0,
       brandName: '',
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '129',
+      productNum: 'DT129',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 03:23:42',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15357,7 +16483,7 @@ export const productList = {
       scoreInfo: {
         productId: '3678045392244703591',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15369,7 +16495,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-11 14:37:50',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -15435,7 +16561,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677861294796570628',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -15447,7 +16573,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15515,7 +16641,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677861097387458616',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15527,7 +16653,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15557,9 +16683,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '538947',
-      ts: '20240519020148',
+      ts: '20240521004658',
       gmtCreate: '2024-04-09 15:49:50',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 00:46:58',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15571,10 +16697,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '75',
+      productNum: 'DT075',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 00:46:42',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15595,7 +16721,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677861097387458614',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15607,7 +16733,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15621,7 +16747,7 @@ export const productList = {
       productId: '3677860955485765675',
       shopId: '167267536',
       name: '24款100%纯棉童装女童T恤短袖夏季儿童中大童上衣半袖时尚百搭ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c1d1c401fdbdb08bd6f33d0433d893e0_sx_123819_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_63b13de7f671c276546a824b8ea92ff6_sx_113583_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db980b905cd4d90f008047f688950f61_sx_114108_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c361044c78f4be422fc91074d959d4d7_sx_119372_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_efa3f9fe7708cdcf5aa1bc358f18fdb1_sx_57235_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c1d1c401fdbdb08bd6f33d0433d893e0_sx_123819_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_63b13de7f671c276546a824b8ea92ff6_sx_113583_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db980b905cd4d90f008047f688950f61_sx_114108_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c361044c78f4be422fc91074d959d4d7_sx_119372_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_efa3f9fe7708cdcf5aa1bc358f18fdb1_sx_57235_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_c1d1c401fdbdb08bd6f33d0433d893e0_sx_123819_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -15637,9 +16763,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '514254',
-      ts: '20240519020148',
+      ts: '20240521004715',
       gmtCreate: '2024-04-09 16:14:29',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 00:47:15',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15651,10 +16777,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '76',
+      productNum: 'DT076',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 00:47:00',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15675,7 +16801,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860955485765675',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15687,7 +16813,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15717,9 +16843,9 @@ export const productList = {
       skuMaxPrice: '3990',
       recommendRemark: '',
       stock: '179955',
-      ts: '20240516173933',
+      ts: '20240521032931',
       gmtCreate: '2024-04-09 15:55:00',
-      gmtModified: '2024-05-16 17:39:33',
+      gmtModified: '2024-05-21 03:29:31',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15731,10 +16857,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '130',
+      productNum: 'ZC130',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-15 17:59:33',
+      updateTime: '2024-05-21 03:29:16',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15755,7 +16881,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860787940098355',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '385993654',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15767,7 +16893,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 03:24:00'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15781,7 +16907,7 @@ export const productList = {
       productId: '3677860680716910827',
       shopId: '167267536',
       name: '【2024新款】100%纯棉童装T恤夏季男童短袖中大童男上衣半袖潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f68feb469f7dafaa78e1fd16b828339c_sx_266962_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_772faa944874cb4e9e052239d0dd0b31_sx_259923_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1567e29a0ab6192c44d202d4379651bd_sx_297151_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_960588e8a48b861638eab43f9bbce1e4_sx_374327_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2c74bd1c22c8585874bfd64fddf177af_sx_236143_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f68feb469f7dafaa78e1fd16b828339c_sx_266962_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_772faa944874cb4e9e052239d0dd0b31_sx_259923_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1567e29a0ab6192c44d202d4379651bd_sx_297151_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_960588e8a48b861638eab43f9bbce1e4_sx_374327_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2c74bd1c22c8585874bfd64fddf177af_sx_236143_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_f68feb469f7dafaa78e1fd16b828339c_sx_266962_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -15796,10 +16922,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48954',
-      ts: '20240520045649',
+      stock: '48951',
+      ts: '20240521205307',
       gmtCreate: '2024-04-09 16:17:36',
-      gmtModified: '2024-05-20 04:57:08',
+      gmtModified: '2024-05-21 20:53:22',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15814,7 +16940,7 @@ export const productList = {
       productNum: 'DT026',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 23:02:24',
+      updateTime: '2024-05-21 18:54:54',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15835,7 +16961,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860680716910827',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15847,7 +16973,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15861,8 +16987,8 @@ export const productList = {
       productId: '3677860635712028924',
       shopId: '167267536',
       name: '【2024新款】100%纯棉童装女童T恤短袖夏季女孩上衣半袖夏装潮流ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af5b4dbbcaf5d980ddaded129ef1c4cd_sx_78228_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_37cb863d622f76a9e871c216db95ef65_sx_86436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_94bb7fe4497f87eafb38d4170de361d5_sx_71600_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8b04207f408f5d3ce56a9103711b4900_sx_94092_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af103a47adf7461a6f9ce5ef49aed602_sx_91952_www800-800"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_af5b4dbbcaf5d980ddaded129ef1c4cd_sx_78228_www800-800',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af5b4dbbcaf5d980ddaded129ef1c4cd_sx_78228_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_37cb863d622f76a9e871c216db95ef65_sx_86436_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_94bb7fe4497f87eafb38d4170de361d5_sx_71600_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8b04207f408f5d3ce56a9103711b4900_sx_94092_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_af103a47adf7461a6f9ce5ef49aed602_sx_91952_www800-800"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_af5b4dbbcaf5d980ddaded129ef1c4cd_sx_78228_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -15876,10 +17002,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '466977',
-      ts: '20240520045649',
+      stock: '466976',
+      ts: '20240521235339',
       gmtCreate: '2024-04-09 16:00:58',
-      gmtModified: '2024-05-20 04:57:08',
+      gmtModified: '2024-05-21 23:53:59',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15894,7 +17020,7 @@ export const productList = {
       productNum: 'DT037',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 04:11:45',
+      updateTime: '2024-05-21 22:49:28',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15915,7 +17041,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860635712028924',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -15927,7 +17053,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -15941,8 +17067,8 @@ export const productList = {
       productId: '3677860210426380557',
       shopId: '167267536',
       name: '纯棉童装女童短袖T恤夏蝴蝶结百搭宽松圆领学生少女白色小众印花',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_10f0f521266bcbbd191a1cb9572fa4a7_sx_595167_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88b48954610a50b2a43db5789d97585b_sx_223328_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_568cec493247325e82d2efa4b7615061_sx_246540_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db733ca3771608515a293f4ff4c98cc2_sx_834349_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ee921943bea28800a91b7249fbdb8f2b_sx_208879_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_10f0f521266bcbbd191a1cb9572fa4a7_sx_595167_www1600-1600',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_10f0f521266bcbbd191a1cb9572fa4a7_sx_595167_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_88b48954610a50b2a43db5789d97585b_sx_223328_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_568cec493247325e82d2efa4b7615061_sx_246540_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_db733ca3771608515a293f4ff4c98cc2_sx_834349_www1600-1600","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ee921943bea28800a91b7249fbdb8f2b_sx_208879_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_10f0f521266bcbbd191a1cb9572fa4a7_sx_595167_www1600-1600',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -15956,10 +17082,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '391534',
-      ts: '20240520045649',
+      stock: '391533',
+      ts: '20240521003843',
       gmtCreate: '2024-04-09 16:08:31',
-      gmtModified: '2024-05-20 04:57:08',
+      gmtModified: '2024-05-21 00:38:59',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -15974,7 +17100,7 @@ export const productList = {
       productNum: 'DT014',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 17:32:10',
+      updateTime: '2024-05-20 10:55:36',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -15995,7 +17121,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860210426380557',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16007,7 +17133,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16075,7 +17201,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677860083557073301',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16087,7 +17213,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-10 09:00:58',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16101,7 +17227,7 @@ export const productList = {
       productId: '3677860047301509447',
       shopId: '167267536',
       name: '100%纯棉童装男孩t恤宽松短袖夏季男童中大童洋气夏装韩版印花ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_98f0ec3b18d540a3f4a9a81f78b54ef8_sx_656224_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2f80ced555edb02060dc8d6d208bc305_sx_589981_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ddd68f7fa417ab304989722ef80fb520_sx_247040_www760-760","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_66c79e69bf195233bba2b4b01bed8043_sx_539291_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cfd39f56db8a4249a7c19b3b310f3eac_sx_408285_www1200-1200"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_98f0ec3b18d540a3f4a9a81f78b54ef8_sx_656224_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_2f80ced555edb02060dc8d6d208bc305_sx_589981_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ddd68f7fa417ab304989722ef80fb520_sx_247040_www760-760","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_66c79e69bf195233bba2b4b01bed8043_sx_539291_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cfd39f56db8a4249a7c19b3b310f3eac_sx_408285_www1200-1200"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_98f0ec3b18d540a3f4a9a81f78b54ef8_sx_656224_www1200-1200',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -16116,10 +17242,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '683970',
-      ts: '20240520045649',
+      stock: '683961',
+      ts: '20240521235339',
       gmtCreate: '2024-04-09 15:36:55',
-      gmtModified: '2024-05-20 04:57:07',
+      gmtModified: '2024-05-21 23:53:59',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -16134,7 +17260,7 @@ export const productList = {
       productNum: 'DT007',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 22:08:25',
+      updateTime: '2024-05-21 22:18:22',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -16235,7 +17361,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677777227270979934',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16247,7 +17373,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16261,7 +17387,7 @@ export const productList = {
       productId: '3677776827797078317',
       shopId: '167267536',
       name: '2024新款男童纯棉T恤短袖半袖中大童夏季韩版休闲宽松童装洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a68c277639025aa1eef58ab65596be6_sx_299580_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cb09bff75f9d86ac841b49c69987cc38_sx_264539_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31046cdce6d33e43c313ccefdce80769_sx_237273_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b572f5a008ffbe62321462c2078f2990_sx_288713_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c2992f217a38561842db2ff4d77570cb_sx_237169_www1500-1500"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_7a68c277639025aa1eef58ab65596be6_sx_299580_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_cb09bff75f9d86ac841b49c69987cc38_sx_264539_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_31046cdce6d33e43c313ccefdce80769_sx_237273_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_b572f5a008ffbe62321462c2078f2990_sx_288713_www1500-1500","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c2992f217a38561842db2ff4d77570cb_sx_237169_www1500-1500"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_7a68c277639025aa1eef58ab65596be6_sx_299580_www1500-1500',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -16276,10 +17402,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '447277',
-      ts: '20240519020148',
+      stock: '447275',
+      ts: '20240521003843',
       gmtCreate: '2024-04-09 02:24:35',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 00:38:59',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -16294,7 +17420,7 @@ export const productList = {
       productNum: 'DT051',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-20 06:25:52',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -16315,7 +17441,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677776827797078317',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16327,7 +17453,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16341,8 +17467,8 @@ export const productList = {
       productId: '3677776338296635857',
       shopId: '167267536',
       name: '2024新款100%纯棉女童短袖T恤时尚网红洋气夏季宽松中长款上衣ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9df87bc503ec370ae7289419b56ae414_sx_155982_www790-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fe49634a4831c67e5d3762168df44114_sx_88112_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f8220ba737ec813e0196a283c2e9516e_sx_76102_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9ce72d7baa9aea7e50f35cc049ffcc5e_sx_52988_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6398ebdce77caca4d6475829cc8b238c_sx_26996_www800-800"]',
-      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9df87bc503ec370ae7289419b56ae414_sx_155982_www790-1300',
+      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9df87bc503ec370ae7289419b56ae414_sx_155982_www790-1300","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fe49634a4831c67e5d3762168df44114_sx_88112_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_f8220ba737ec813e0196a283c2e9516e_sx_76102_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9ce72d7baa9aea7e50f35cc049ffcc5e_sx_52988_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_6398ebdce77caca4d6475829cc8b238c_sx_26996_www800-800"]',
+      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_9df87bc503ec370ae7289419b56ae414_sx_155982_www790-1300',
       discountPrice: '3990',
       marketPrice: '3990',
       thirdCid: '20592',
@@ -16356,10 +17482,10 @@ export const productList = {
       skuMinPrice: '3990',
       skuMaxPrice: '3990',
       recommendRemark: '',
-      stock: '59997',
-      ts: '20240519015229',
+      stock: '59995',
+      ts: '20240521205307',
       gmtCreate: '2024-04-09 02:40:21',
-      gmtModified: '2024-05-19 01:52:49',
+      gmtModified: '2024-05-21 20:53:23',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -16374,7 +17500,7 @@ export const productList = {
       productNum: 'ZC052',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-18 19:53:51',
+      updateTime: '2024-05-21 19:16:40',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -16470,7 +17596,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677751998716969038',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16482,7 +17608,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16620,7 +17746,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677742994326421863',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '2',
         problemTypeDistribution: [
           {
@@ -16636,7 +17762,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl: '',
@@ -16648,7 +17774,7 @@ export const productList = {
       productId: '3677586635907792920',
       shopId: '167267536',
       name: '2024新款夏季100%纯棉童装男童短袖T恤儿童上衣宽松中大童洋气ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a4145bea4298815cba9fa5e4830d6b04_sx_44768_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d37407c7169b3944d95c395efad7a14a_sx_50700_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1be09ba9472995749a034d5b1e09d716_sx_55650_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c467e5c28705dc8b06ede429e36bc1ad_sx_47684_www720-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b32a49dce693efeba9ec92860c7066b_sx_25618_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a4145bea4298815cba9fa5e4830d6b04_sx_44768_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d37407c7169b3944d95c395efad7a14a_sx_50700_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1be09ba9472995749a034d5b1e09d716_sx_55650_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_c467e5c28705dc8b06ede429e36bc1ad_sx_47684_www720-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_3b32a49dce693efeba9ec92860c7066b_sx_25618_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a4145bea4298815cba9fa5e4830d6b04_sx_44768_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -16663,10 +17789,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '48224',
-      ts: '20240519015229',
+      stock: '48222',
+      ts: '20240521003843',
       gmtCreate: '2024-04-08 12:57:34',
-      gmtModified: '2024-05-19 01:52:49',
+      gmtModified: '2024-05-21 00:39:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -16681,7 +17807,7 @@ export const productList = {
       productNum: 'DT012',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-18 15:49:44',
+      updateTime: '2024-05-20 22:56:28',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -16777,7 +17903,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677585188487037785',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16789,7 +17915,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:50'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16857,7 +17983,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677583700423475644',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16869,7 +17995,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-09 12:04:30',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -16883,7 +18009,7 @@ export const productList = {
       productId: '3677572533382676519',
       shopId: '167267536',
       name: '【24新款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩上衣半袖ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1519332e62de141a6626ab30262cbce9_sx_1636685_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa510da920f825e1398194bf28b9c8db_sx_1159951_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d6ab2d057db554e2e4759846ee97a9fd_sx_1318942_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8d64a60969cc6adc1a7fcd4b0105f549_sx_1454645_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_97471a7c5d76c8de58efe3856987be7b_sx_1289499_www1080-1080"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_1519332e62de141a6626ab30262cbce9_sx_1636685_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fa510da920f825e1398194bf28b9c8db_sx_1159951_www1080-1080","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_d6ab2d057db554e2e4759846ee97a9fd_sx_1318942_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_8d64a60969cc6adc1a7fcd4b0105f549_sx_1454645_www1080-1080","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_97471a7c5d76c8de58efe3856987be7b_sx_1289499_www1080-1080"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_1519332e62de141a6626ab30262cbce9_sx_1636685_www1080-1080',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -16898,10 +18024,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '879166',
-      ts: '20240520045649',
+      stock: '879043',
+      ts: '20240521235339',
       gmtCreate: '2024-04-07 23:42:21',
-      gmtModified: '2024-05-20 04:57:09',
+      gmtModified: '2024-05-21 23:54:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -16916,7 +18042,7 @@ export const productList = {
       productNum: 'DT004',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 03:00:28',
+      updateTime: '2024-05-21 23:44:35',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -16937,7 +18063,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677572533382676519',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -16949,7 +18075,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17017,7 +18143,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677561967880569240',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -17029,7 +18155,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:49'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17043,7 +18169,7 @@ export const productList = {
       productId: '3677561314970042670',
       shopId: '167267536',
       name: '【24新款】100%纯棉童装女童T恤短袖夏季宽松中大童女孩上衣潮流ins',
-      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a16b81eb0b8cf56229e3a0224b1432bb_sx_203301_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9d095497895bd1e0a12bc7037d4c4b2d_sx_194545_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_23ce80fb6886e4df5f5b3ea68e7dbd0f_sx_228478_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ace4e9109462745b364022fee4f0a14f_sx_199836_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fda7e82d7794e9b77863f71a2f665858_sx_81594_www800-800"]',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a16b81eb0b8cf56229e3a0224b1432bb_sx_203301_www800-800","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_9d095497895bd1e0a12bc7037d4c4b2d_sx_194545_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_23ce80fb6886e4df5f5b3ea68e7dbd0f_sx_228478_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_ace4e9109462745b364022fee4f0a14f_sx_199836_www800-800","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_fda7e82d7794e9b77863f71a2f665858_sx_81594_www800-800"]',
       img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_a16b81eb0b8cf56229e3a0224b1432bb_sx_203301_www800-800',
       discountPrice: '2490',
       marketPrice: '2990',
@@ -17058,10 +18184,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '293987',
-      ts: '20240520045649',
+      stock: '293986',
+      ts: '20240521235339',
       gmtCreate: '2024-04-07 22:26:12',
-      gmtModified: '2024-05-20 04:57:09',
+      gmtModified: '2024-05-21 23:54:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -17073,10 +18199,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '104',
+      productNum: 'DT104',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 23:31:01',
+      updateTime: '2024-05-21 21:48:18',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -17097,7 +18223,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677561314970042670',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -17109,7 +18235,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17139,9 +18265,9 @@ export const productList = {
       skuMaxPrice: '2990',
       recommendRemark: '',
       stock: '635273',
-      ts: '20240519020148',
+      ts: '20240521004302',
       gmtCreate: '2024-04-07 22:03:07',
-      gmtModified: '2024-05-19 02:01:48',
+      gmtModified: '2024-05-21 00:43:02',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -17153,10 +18279,10 @@ export const productList = {
       brandId: '596120136',
       presellType: '0',
       presellConfigLevel: '',
-      productNum: '61',
+      productNum: 'DT061',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-19 02:01:33',
+      updateTime: '2024-05-21 00:42:46',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -17177,7 +18303,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677560267174182915',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -17189,7 +18315,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:42'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17203,8 +18329,8 @@ export const productList = {
       productId: '3677536137989193975',
       shopId: '167267536',
       name: '【24新款】100%纯棉童装T恤夏季男童短袖儿童中大童男孩上衣半袖ins',
-      pic: '["https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0c2aa8ea7c0fd466c316a2318ff359c6_sx_1551383_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0936b4af80f389ca3b001ef3bc0aa0c2_sx_2018168_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_58b1a7d63490388e500ac7a8cc78a39c_sx_1556485_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a4ed5a729d90091d0194508802a7f559_sx_1739518_www1500-1500","https:\\/\\/p9-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0cc93ccb0fada79edafd7dfa1b00aef3_sx_1140435_www1200-1200"]',
-      img: 'https://p9-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0c2aa8ea7c0fd466c316a2318ff359c6_sx_1551383_www1500-1500',
+      pic: '["https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0c2aa8ea7c0fd466c316a2318ff359c6_sx_1551383_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0936b4af80f389ca3b001ef3bc0aa0c2_sx_2018168_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_58b1a7d63490388e500ac7a8cc78a39c_sx_1556485_www1200-1200","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_a4ed5a729d90091d0194508802a7f559_sx_1739518_www1500-1500","https:\\/\\/p3-aio.ecombdimg.com\\/obj\\/ecom-shop-material\\/GBKqRVLw_m_0cc93ccb0fada79edafd7dfa1b00aef3_sx_1140435_www1200-1200"]',
+      img: 'https://p3-aio.ecombdimg.com/obj/ecom-shop-material/GBKqRVLw_m_0c2aa8ea7c0fd466c316a2318ff359c6_sx_1551383_www1500-1500',
       discountPrice: '2490',
       marketPrice: '2990',
       thirdCid: '20592',
@@ -17218,10 +18344,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '817436',
-      ts: '20240520045649',
+      stock: '817397',
+      ts: '20240521235339',
       gmtCreate: '2024-04-07 19:21:13',
-      gmtModified: '2024-05-20 04:57:09',
+      gmtModified: '2024-05-21 23:54:00',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -17236,7 +18362,7 @@ export const productList = {
       productNum: 'DT002',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 00:11:14',
+      updateTime: '2024-05-21 23:37:10',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -17257,7 +18383,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677536137989193975',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -17269,7 +18395,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:47'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17298,10 +18424,10 @@ export const productList = {
       skuMinPrice: '2490',
       skuMaxPrice: '2990',
       recommendRemark: '',
-      stock: '732511',
-      ts: '20240520045649',
+      stock: '732455',
+      ts: '20240521235339',
       gmtCreate: '2024-04-07 17:52:39',
-      gmtModified: '2024-05-20 04:57:10',
+      gmtModified: '2024-05-21 23:54:01',
       categoryPath: '童装/婴儿装/亲子装>T恤',
       site: '',
       source: 'toutiaomall',
@@ -17316,7 +18442,7 @@ export const productList = {
       productNum: 'DT027',
       productType: '',
       cosRatio: '',
-      updateTime: '2024-05-20 03:36:27',
+      updateTime: '2024-05-21 23:21:09',
       isPackageProduct: '',
       packageProductList: '',
       subProductList: '',
@@ -17337,7 +18463,7 @@ export const productList = {
       scoreInfo: {
         productId: '3677519258667057538',
         shopId: '167267536',
-        taskId: '384924299',
+        taskId: '386508914',
         problemNumToImprove: '1',
         problemTypeDistribution: [
           {
@@ -17349,7 +18475,7 @@ export const productList = {
         baseScore: '100',
         gmtFixup: '',
         gmtCreate: '2024-04-08 10:16:41',
-        gmtModified: '2024-05-19 18:45:40'
+        gmtModified: '2024-05-21 07:29:48'
       },
       detectAiBanInfo: '',
       moveLogoUrl:
@@ -17360,5 +18486,5 @@ export const productList = {
       statusName: '上架'
     }
   },
-  total: 229
+  total: 247
 }

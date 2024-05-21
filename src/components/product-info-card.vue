@@ -83,6 +83,8 @@ formatProductNumber()
   // padding: 12px 8px 0px 12px;
   box-sizing: border-box;
   padding: 12px 8px;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px 1px rgb(235, 235, 235);
   .product-img {
     width: 100px;
     height: 100px;
